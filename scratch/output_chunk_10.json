@@ -1,0 +1,210 @@
+[
+  {
+    "id": "combinacion-67",
+    "moduloId": "combinacion",
+    "preguntaEn": "A TRACTOR-TRAILER VEHICLE COMBINATION IS MOST LIKELY TO ROLL OVER IN TURN WHEN THE CONFIGURATION INCLUDES:",
+    "opcionesEn": [
+      "A 45 FT. AND A 27 FT. TRAILER.",
+      "TRIPLE 27 FT. TRAILERS.",
+      "DOUBLE 45 FT TRAILERS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Los remolques triples son los más inestables debido al 'efecto latigazo' que amplifica el movimiento. Por lo tanto, tienen un riesgo mucho mayor de volcarse al tomar una curva.",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-68",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU WILL KNOW IF THE TRAILER YOU ARE DRIVING HAS ANTILOCK BRAKES BY:",
+    "opcionesEn": [
+      "YELLOW ABS MALFUNCTION LAMPS ON THE LEFT SIDE OF THE TRAILER.",
+      "RED MALFUNCTION LAMPS ON THE TRAILER BRAKE CYLINDERS.",
+      "YELLOW ABS MALFUNCTION LAMPS ON THE RIGHT SIDE OF THE TRAILER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Busque siempre las luces amarillas de mal funcionamiento del sistema ABS. Por norma, están ubicadas en el lado izquierdo o en la parte trasera del remolque.",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-69",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF YOU CANNOT MAKE A TURN WITHOUT ENTERING ANOTHER TRAFFIC LANE:",
+    "opcionesEn": [
+      "YOU SHOULD TURN WIDE WHEN YOU START THE TURN.",
+      "YOU SHOULD TURN WIDE AS YOU COMPLETE THE TURN.",
+      "NOT TO MAKE A TURN. GO TO ANOTHER PLACE WHERE YOU WONT HAVE TO CROSS INTO ANOTHER LANE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Abrirse al final de la curva evita que la parte trasera del remolque golpee vehículos u obstáculos en el borde de la calle. Nunca se abra antes de comenzar a girar para evitar que otro auto intente pasarlo por la derecha.",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-70",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER YOU SUPPLY AIR TO THE TRAILER, MAKE SURE THE AIR LINES ARE NOT CROSSED AND THE TRAILER BRAKE ARE WORKING. THIS IS DONE BY:",
+    "opcionesEn": [
+      "TURNING ON THE PARKING BRAKES FROM THE CAB.",
+      "WATCHING YOUR MIRRORS TO SEE IF THE TRAILERS LIGHTS COME ON.",
+      "APPLYING AND RELEASING THE TRAILER BRAKES AND LISTENING FOR BRAKE SOUNDS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Al aplicar y soltar los frenos del remolque con la ventana baja, escuchar el escape de aire le confirmará que las mangueras están bien conectadas y el sistema responde correctamente.",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-71",
+    "moduloId": "combinacion",
+    "preguntaEn": "TO STOP A TRAILER SKID YOU SHOULD:",
+    "opcionesEn": [
+      "USE THE TRAILER HAND BRAKES.",
+      "RELEASE THE SERVICE BRAKES.",
+      "COUNTERSTEER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Si el remolque patina o hace 'tijera', quite el pie de los frenos de servicio inmediatamente. Esto permite que las llantas del remolque vuelvan a girar y recuperen la tracción con el pavimento.",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-72",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN COUPLING, THE PROPER POSITION OF THE FIFTH WHEEL IS:",
+    "opcionesEn": [
+      "LEVEL WITH THE GROUND.",
+      "TILTED UP TOWARD THE END THE TRACTOR.",
+      "TILTED TOWARD THE END THE TRACTOR."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "La quinta rueda debe estar inclinada hacia atrás (hacia el final del camión tractor). Esto actúa como una rampa para permitir que el remolque se deslice suavemente sobre ella durante el acoplamiento.",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-73",
+    "moduloId": "combinacion",
+    "preguntaEn": "TO UNLOCK THE FIFTH WHEEL, PULL THE RELEASE HANDLE TO THE _____ POSITION.",
+    "opcionesEn": [
+      "NEUTRAL.",
+      "CLOSED.",
+      "OPEN."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Para liberar el perno maestro (kingpin) y desenganchar el remolque de manera segura, debe tirar de la palanca de liberación hasta que quede bloqueada en la posición 'abierta' (open).",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-74",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHY SHOULD YOU LOCK THE TRACTOR GLAD HANDS TO EACH OTHER (OR DUMMY COUPLERS) WHEN YOU ARE NOT TOWING A TRAILER?",
+    "opcionesEn": [
+      "THE CONNECTED BRAKE CIRCUIT BECOMES A BACK UP AIR TANK.",
+      "IT WILL KEEP DIRT AND WATER OUT OF THE LINES.",
+      "IF YOU DIDN’T, YOU COULD NEVER BUILD SYSTEM PRESSURE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Conectar las 'manos de alegría' (glad hands) entre sí o a un acoplador ciego cuando no lleva remolque es crucial. Esto sella el sistema de aire y evita que entren suciedad, agua o hielo que podrían dañar las válvulas.",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-75",
+    "moduloId": "combinacion",
+    "preguntaEn": "AIR LINES ON A COMBINATION VEHICLE ARE OFTEN COLORED TO PREVENT THEN FROM MIXING UP. THE EMERGENCY LINE IS __________; THE SERVICE LINE IS ________.",
+    "opcionesEn": [
+      "RED, BLUE.",
+      "BLACK, YELLOW.",
+      "BLUE, RED."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Recuerde este código de colores universal: la línea de aire roja siempre corresponde al suministro de emergencia, mientras que la azul controla los frenos de servicio normales.",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-76",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF YOU CANNOT MAKE A TURN WITHOUT ENTERING ANOTHER TRAFFIC LINE, YOU SHOULD:",
+    "opcionesEn": [
+      "TURN WIDE AS YOU COMPLETE YOUR TURN.",
+      "NOT MAKE THAT TURN- GO TO ANOTHER PLACE WHERE YOU WONT HAVE TO CROSS INTO ANOTHER LINE.",
+      "TURN WIDE BEFORE YOU START YOUR TURN."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Debe mantenerse pegado a su carril al inicio y abrirse solo a medida que completa el giro. Esto evita que otros conductores intenten rebasarlo peligrosamente por el lado ciego mientras gira.",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-77",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU ARE DRIVING A COMBINATION VEHICLE WHEN THE TRAILER BREAKS AWAY, PULLING APART BOTH AIR LINES. YOU WOULD EXPECT THE TRAILER BRAKES TO COME ON AND:",
+    "opcionesEn": [
+      "THE TRAILER SUPPLY VALVE TO STAY OPEN.",
+      "THE TRACTOR TO LOSE ALL AIR PRESSURE.",
+      "THE TRACTOR PROTECTION VALVE TO CLOSE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Si el remolque se desconecta accidentalmente, la válvula de protección del tractor se cerrará de forma automática. Esto protege el aire del camión para que usted aún tenga frenos y pueda detenerse con seguridad.",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-78",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN SHOULD YOU USE THE HAND VALVE TO PARK A COMBINATION VEHICLE?",
+    "opcionesEn": [
+      "TO PARK AT LOADING DOCKS.",
+      "TO PARK ON A GRADE.",
+      "NEVER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Nunca debe usar la válvula de mano (Johnson bar) para estacionar, ya que requiere aire continuo. Si el sistema pierde presión de aire, los frenos se soltarían y el camión rodaría libremente.",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-79",
+    "moduloId": "combinacion",
+    "preguntaEn": "TO UNLOCK THE FIFTH WHEEL LOCKING LEVER SHOULD BE PLACED IN THE _____ POSITION.",
+    "opcionesEn": [
+      "NEUTRAL.",
+      "CLOSED.",
+      "OPEN."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Al igual que la palanca de liberación general, el mecanismo de bloqueo de la quinta rueda siempre debe estar en la posición 'abierto' (open) para permitir que las mandíbulas suelten el remolque.",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-80",
+    "moduloId": "combinacion",
+    "preguntaEn": "GLAD HANDS ARE USED FOR CONNECTING THE:",
+    "opcionesEn": [
+      "ELECTRIC LINES FROM THE TRACT TO THE TRAILER.",
+      "KINGPIN FROM THE TRAILER TO THE LOCKING JAWS OF THE FIFTH WHEEL.",
+      "SERVICE AND EMERGENCY AIR LINES FROM THE VEHICLE TO THE TRAILER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Las 'manos de alegría' (glad hands) son exclusivamente los acoples metálicos diseñados para conectar las mangueras de aire (de servicio y de emergencia) entre el tractor y el remolque.",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-81",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER YOU HAVE COUPLED THE TRAILER YOU SHOULD HAVE TO RAISE THE LANDING GEAR BY USING:",
+    "opcionesEn": [
+      "LOW GEAR.",
+      "INTERMEDIATE.",
+      "HIGH GEAR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Debe utilizar la marcha baja (low gear) al principio porque proporciona la fuerza necesaria para levantar el tren de aterrizaje mientras las patas aún soportan el peso del remolque.",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-82",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE SAFEST WAY TO MAKE TURN WITHOUT ENTERING ANOTHER TRAFFIC LANE IS:",
+    "opcionesEn": [
+      "YOU SHOULD TURN WIDE BEFORE YOU START THE TURN.",
+      "YOU SHOULD TURN WIDE AS YOU COMPLETE THE TURN.",
+      "YOU SHOULD NOT MAKE A TURN AND MOVE TO ANOTHER PLACE WHERE YOU CAN MAKE A TURN WITHOUTH CROSSING OTHER LANE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "La técnica correcta y segura es abrir el vehículo a medida que completa el giro. Hacerlo antes de empezar deja un espacio peligroso que otros autos podrían intentar usar, causando colisiones.",
+    "unidadId": 2
+  }
+]

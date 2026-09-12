@@ -1,0 +1,652 @@
+[
+  {
+    "id": "frenos-aire-45",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF THE SPRING BRAKE ARE ON, WHEN SHOULD YOU PUSH THE BRAKE PEDAL?",
+    "opcionesEn": [
+      "ONLY WHEN DRIVING DOWN A HILL.",
+      "ONLY ON THE SLIPPERY ROAD",
+      "NEVER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-46",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WITH AIR BRAKE VEHICLE, THE PARKING BRAKES SHOULD BE USED:",
+    "opcionesEn": [
+      "WHENEVER YOU LEAVE THE VEHICLE UNATTENDED.",
+      "AS LITTLE AS POSSIBLE.",
+      "ONLY DURING PRE- AND POST TRIP INSPECTIONS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-47",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE MOST IMPORTANT THING TO DO WHEN A LOW AIR PRESSURE WARNING COMES ON IS:",
+    "opcionesEn": [
+      "UPSHIFT.",
+      "DOWNSHIFT.",
+      "STOP AND SAFELY PARK AS SOON AS POSSIBLE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-48",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "DURING NORMAL DRIVING, SPRING BRAKES ARE USUALLY HELD BACK BY:",
+    "opcionesEn": [
+      "BOLTS.",
+      "AIR PRESSURE.",
+      "SPRING PRESSURE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-49",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOU ARE DRIVING DOWN A STEEP DOWNGRADE AND YOU HAVE REACHED YOUR ‘’SAFE’’ SPEED OF 40 MPH YOU WOULD APPLY THE SERVICE BRAKES UNTIL YOUR SPEED DROPS TO ___ MPH.",
+    "opcionesEn": [
+      "25.",
+      "30.",
+      "35."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-50",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THERE ARE TWO THINGS THAT A DRIVER CAN DO TO PREVENT A ROLLOVER. THEY ARE: (1) KEEP THE CARGO AS CLOSE TO THE GROUND AS POSSIBLE; AND (2):",
+    "opcionesEn": [
+      "GO SLOW AROUND TURNS.",
+      "KEEP BOTH HANDS FIRMLY ON THE STEERING WHEEL.",
+      "MAKE SURE THAT THE BRAKES ARE PROPERLY ADJUSTED."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-51",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "EMERGENCY CONTROLLED BRAKING IS WHEN YOU:",
+    "opcionesEn": [
+      "APPLY THE BRAKES AS HARD AS YOU CAN WITHOUT LOCKING THE WHEELS.",
+      "BRAKE AS HARD AS YOU CAN, RELEASE THE BRAKES WHEN WHEELS LOCKING, BRAKES BACK ON AGAIN WHEN THE WHEELS START ROLLING.",
+      "APPLY THE HAND VALVE FOR ONE SECOND, THEN PUSH HARD ON THE BRAKES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-52",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHEN BRAKES ARE APPLIED THE BRAKE SHOES (OR LININGS) WILL ALIGN TO PRESS AGAINST THE:",
+    "opcionesEn": [
+      "BRAKE DRUM OR DISC.",
+      "SLACK ADJUSTER.",
+      "S-CAM."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-53",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE STOP LIGHT SWITCH:",
+    "opcionesEn": [
+      "TELLS YOU WHEN THE AIR BRAKE SYSTEM IS LOW ON AIR PRESSURE.",
+      "TELLS YOU WHEN YOU NEED TO USE YOUR EMERGENCY BRAKES.",
+      "TURNS ON YOUR BRAKE LIGHTS TO WARN DRIVERS BEHIND YOU."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-54",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOUR VEHICLE HAS AN ALCOHOL EVAPORATOR, EVERY DAY DURING COLD WEATHER YOU SHOULD:",
+    "opcionesEn": [
+      "CHECK AND FILL THE ALCOHOL LEVEL.",
+      "CHANGE THE ALCOHOL FROM A NEW BOTTLE.",
+      "CHECK THE OIL FOR ALCOHOL CONTENT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-55",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE BRAKE PEDAL IN AN AIR BRAKE SYSTEM:",
+    "opcionesEn": [
+      "CONTOLS THE SPEED OF THE AIR COMPRESSOR.",
+      "CONTROLS THE AIR PRESSURE APPLIED TO PUT ON THE BRAKES.",
+      "IS CONNECTED TO SLACK ADJUSTERS BY A SERIES OF RODS AND LINKAGES."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-56",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IT IS NOT SAFE TO DRIVE A VEHICLE THAT HAS BRAKE DRUMS WITH CRACK THAT ARE LONGER THAN ______ OF THE WIDTH OF THE FRICTION AREA.",
+    "opcionesEn": [
+      "ONE HALF.",
+      "ONE FOURTH.",
+      "ONE EIGHT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-57",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "BEFORE DRIVING A TRUCK OR BUS WITH A DUAL AIR BRAKE SYSTEM, THE AIR PRESSURE MUS BE AT LEAST____ PSI.",
+    "opcionesEn": [
+      "80.",
+      "100.",
+      "120."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-58",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "AN AIR BRAKE SYSTEM IS FULLY CHARGED AT____ PSI.",
+    "opcionesEn": [
+      "75.",
+      "100.",
+      "125."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-59",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "A STRAIGHT TRUCK OR BUS AIR BRAKE SYSTEM SHOULD NOT LEAK AT THE RATE OF MORE THAN ______ PSI PER MINUTE WITH THE ENGINE OFF AND THE BRAKES RELEASED.",
+    "opcionesEn": [
+      "1.",
+      "2.",
+      "3."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-60",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE AIR COMPRESSOR GOVERNOR CONTROLS:",
+    "opcionesEn": [
+      "THE SPEED OF THE AIR COMPRESSOR.",
+      "AIR PRESSURE APPLIED TO THE BRAKES.",
+      "WHEN AIR IS PUMPED INTO THE AIR TANKS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-61",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHY DRAIN WATER FORM COMPRESSED AIR TANKS?",
+    "opcionesEn": [
+      "THE LOW BOILING POINT OF WATER REDUCES BRAKING POWER.",
+      "WATER CAN FREEZE IN COLD WEATHER AND CAUSE BRAKE FAILURE.",
+      "WATER COOLS THE COMPRESSOR TOO MUCH."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-62",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "EXCESSIVE HEAT CAUSED BY USING YOUR BRAKE TOO OFTEN CAN ALSO CAUSE:",
+    "opcionesEn": [
+      "MODULATING CONTROL VALVE TO WEAR OUT.",
+      "BRAKE LINES TO PLUG.",
+      "BRAKES TO FADE OR FAIL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-63",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE AIR COMPRESSOR SHOULD STOP PUMPING AIR WHEN PRESSURE REACH____PSI.",
+    "opcionesEn": [
+      "100.",
+      "125.",
+      "150."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-64",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE AIR LOSS RATE FOR A STRAIGHT TRUCK OR BUS WITH THE ENGINE OFF AND THE BRAKES ON SHOULD NOT BE MORE THAN:",
+    "opcionesEn": [
+      "1 PSI IN ONE MINUTE.",
+      "2 PSI IN 45 SECONDS.",
+      "3 PSI IN ONE MINUTE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-65",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE SAFETY VALVE DISCHARGE AUTOMATICALLY AT THE PRESSURE OF:",
+    "opcionesEn": [
+      "50.",
+      "100.",
+      "150."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-66",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "YOUR BRAKES ARE FADING WHEN:",
+    "opcionesEn": [
+      "YOU HAVE TO PUSH HARDER ON THE BRAKE PEDAL TO CONTOL YOUR SPEED ON A DOWNGRADE.",
+      "LESS PRESSURE IS NEEDED ON THE BRAKE PEDARL FOR EACH STOP.",
+      "THE BRAKE PEDAL FEEL SPONGY WHEN YOU APPLY PRESSURE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-67",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IN AIR BRAKES VEHICLES, THE PARKING BRAKES SHOULD BE USED:",
+    "opcionesEn": [
+      "AS LITTLE AS POSSIBLE.",
+      "ANY TIME WHEN VEHICLE IS PARKED.",
+      "TO HOLD YOUR SPEED WHEN GOING DOWNHILL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-68",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE BRAKING POWER OG THE SPRING BRAKES:",
+    "opcionesEn": [
+      "IS NOT AFFECTED BY THE CONDITION OF THE SERVICE BRAKES.",
+      "DEPENDS ON THE SERVICE BRAKES BEIGN IN ADJUSTMENT.",
+      "INCREASES WHEN THE SERVICE BRAKES ARE HOT."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-69",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF AIR PRESSURE IS NOT BUILT UP WITHIN THE CORRECT AMOUNT OF TIME, THEN:",
+    "opcionesEn": [
+      "YOU SHOULD BE READY TO USE YOUR PARKING BRAKES TO HELP STOP.",
+      "THE ALCOHOL CONTAINER MAY BE LOW.",
+      "YOUR AIR PRESSURE MAY DROP TOO A LOW DURING DRIVING, REQUIRING AN EMERGENCY STOP."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-70",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE SAFETY VALVE REDUCES PRESSURE AT ____ PSI?",
+    "opcionesEn": [
+      "50.",
+      "100.",
+      "150."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-71",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHEN BRAKES ARE APPLIED THE BRAKE SHOES WILL PRESS AGAINST THE:",
+    "opcionesEn": [
+      "BRAKE DRUM OR DISC.",
+      "SLACK ADJUSTER.",
+      "S-CAM."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-72",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE DRIVER MUST BE ABLE TO SEE A LOW AIR PRESSURE WARNING WHICH COMES ON BEFORE PRESSURE IN THE SERVICE AIR TANKS FALLS BELOW _____ PSI.",
+    "opcionesEn": [
+      "40.",
+      "60.",
+      "80."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-73",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE PARKING OR EMERGENCY BRAKE ON A HEAVY VEHICLE CAN ONLY BE HELD IN POSITION BY SOMETHING THAT CANNOT LEAK AWAY, LIKE:",
+    "opcionesEn": [
+      "SPRING PRESSURE.",
+      "AIR PRESSURE.",
+      "HYDRAULIC PRESSURE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-74",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IT IS ACCEPTED THAT TOO MUCH HEAT CAUSED BY USING YOUR BRAKES TOO OFTEN CAN ALSO CAUSE:",
+    "opcionesEn": [
+      "MODULATED CONTROL VALVE TO WEAR OUT.",
+      "BRAKE LININGS TO SLIPT UP.",
+      "BRAKE TO FADE OR FAIL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-75",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "A SLACK ADJUSTER PROBABLY NEEDS TO BE ADJUSTED IF IT MOVES MORE THAN_______ INCHES WHEN YOU PULL HARD ON IT?",
+    "opcionesEn": [
+      "¼.",
+      "½.",
+      "1."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-76",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "MODERN AIR BRAKE SYSTEM COMBINE THREE DIFFERENT SYSTEMS. THE ARE THE SERVICE, THE PARKING AND THE ______ BRAKES.",
+    "opcionesEn": [
+      "EMERGENCY.",
+      "FOOT.",
+      "S-CAM."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-77",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOU DO NOT HAVE AUTOMATIC TANK DRAINS, HOW OFTEN SHOULD YOU DRAIN THE OIL AND WATER FROM THE BOTTOM OF COMPRESSED AIR STORAGE TANKS?",
+    "opcionesEn": [
+      "AFTER EVERY FOUR HOURS OF SERVICE.",
+      "AT THE END OF EACH DAY OF DRIVING.",
+      "ONCE A WEEK."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-78",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "YOUR VEHICLE HAS A DUAL AIR BRAKE SYSTEM. IF A LOW AIR PRESSURE WARNING COMES ON FOR ONLY ONE SYSTEM, YOU SHOULD:",
+    "opcionesEn": [
+      "BRING THE VEHICLE TO A SAFE STOP AND CONTINUE ONLY AFTER THE SYSTEM IS FIXED.",
+      "REDUCE YOUR SPEED, AND TEST THE REMAINING SYSTEM WHILE UNDER WAY.",
+      "REDUCE YOUR SPEED, AND DRIVE TO THE NEAREST GARAGE FOR REPAIRS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-1",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHILE CHECKING IF THE TRAILER IS SECURELY COUPLED TO THE TRAILER THE LANDING GEARS SHOULD BE:",
+    "opcionesEn": [
+      "FULLY RAISED.",
+      "SLIGHTLY RAISED.",
+      "FULLY LOWERED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-2",
+    "moduloId": "combinacion",
+    "preguntaEn": "IN GENERAL, THE HIGHER THE ‘’CENTER OF GRAVITY’’ OF YOUR TRUCK, THE:",
+    "opcionesEn": [
+      "EASIER IT IS TO TURN AROUND CORNERS.",
+      "MORE STABLE IT IS WHEN TURNING.",
+      "EASIER IT IS TO TURN OVER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-3",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHY SHOULD YOU BE SURE THAT THE FIFTH WHEEL PLATE IS GREASED AS REQUIRED?",
+    "opcionesEn": [
+      "TO ENSURE A GOOD ELECTRICAL CONNECTION.",
+      "TO PREVENT STEERING PROBLEMS.",
+      "TO REDUCE HEAT AND NOISE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-4",
+    "moduloId": "combinacion",
+    "preguntaEn": "BEFORE YOU BACK UNDER A TRAILER, MAKE SURE THAT:",
+    "opcionesEn": [
+      "THE TRAILER BRAKES ARE LOCKED.",
+      "THE AIR BRAKES ARE OFF.",
+      "THE AIR SUPPLY KNOB IS IN."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-5",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF THE SPRING BRAKES DON’T RELEASE WHEN YOU PUSH THE TRAILER AIR SUPPLY VALVE, YOU SHOULD:",
+    "opcionesEn": [
+      "CHECK AIR LINE CONNECTIONS.",
+      "CROSS THE AIR LINES.",
+      "CHECK THE ELECTRICAL SERVICE CABLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-6",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER CONNECTING THE AIR LINES BUT BEFORE BACKING UNDER THE TRAILER, YOU SHOULD:",
+    "opcionesEn": [
+      "SUPPLY AIR TO THE TRAILER SYSTEM, THEN PULL OUT THE AIR SUPPLY KNOB.",
+      "MAKE SURE THAT THE TRAILER BRAKES ARE OFF.",
+      "WALK ARROUND THE RIG TO BE SURE THAT IT IS CLEAR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-7",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF THE SERVICE AIR LINE COMES APART WHILE YOU ARE DRIVING A COMBINATION VEHICLE BUT THE EMERGENCY LINE STAYS TOGETHER, WHAT WILL HAPPEN RIGHT AWAY?",
+    "opcionesEn": [
+      "THE TRAILER’S TANK WILL EXHAUST THROUGH THE OPEN LINE.",
+      "THE EMERGENCY TRAILER BRAKES WILL COME ON.",
+      "NOTHING IS LIKELY TO HAPPEN UNTIL YOU TRY TO APPLY THE BRAKES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-8",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE FRONT TRAILER SUPPORTS ARE UP AND THE TRAILER IS RESTING ON THE TRACTOR. MAKE SURE:",
+    "opcionesEn": [
+      "THERE IS ENOUGH CLEARANCE BETWEEN THE UPPER AND LOWER FIFTH WHEEL.",
+      "THE SAFETY LATCH IS IN THE UNLOCKED POSITION.",
+      "THERE IS ENOUGH CLEARANCE BETWEEN THE TRACTOR FRAME AND THE LANDING GEAR."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-9",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOUR EMERGENCY AIR LINE BREAKS OR GETS PULLED APART WHILE YOU ARE DRIVING. THE LOSS OF PRESSURE WILL CAUSE THE:",
+    "opcionesEn": [
+      "AIR COMPRESSOR TO UNLOAD INSTEAD OF PUMPING AIR.",
+      "TRACTOR’S AIR TO DUMP INTO THE TRAILER TANK THROUGH THE SERVICE LINE.",
+      "EMERGENCY TRAILER BRAKES TO COME ON."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-10",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU HAVE A MAJOR LEAK IN THE SERVICE LINE AND YOU PUT ON THE BRAKES. SERVICE AIR WILL ESCAPE AND CAUSE THE:",
+    "opcionesEn": [
+      "TRAILER EMERGENCY BRAKES TO COME ON.",
+      "TRAILER TANK PRESSURE TO BE LOST.",
+      "TRACTOR SPRING BRAKES TO LOCK ON."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-11",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE TRAILER AIR SUPPLY CONTROL VALVE SHOULD AUTOMATICALLY CLOSE WHEN AIR PRESSURE FALLS TO BETWEEN _______PSI.",
+    "opcionesEn": [
+      "20 AND 45.",
+      "60 AND 85.",
+      "100 AND 125."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-12",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU HAVE CRASHED WITH ANOTHER VEHICLE. WHAT YOU HAVE TO DO FIRST?",
+    "opcionesEn": [
+      "USE REVERSE GEAR TO BACK UP OFF THE CRASH.",
+      "TURN ON YOUR FOUR-WAY FLASHERS.",
+      "GET OUT OF YOUR VEHICLE AND AWAY FROM THE SCENE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-13",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU HAVE PUSHED IN THE TRAILER AIR SUPPLY VALVE. YOU SHOULD NOT BACK YOUR TRACTOR UNDER THE TRAILER UNTIL WHOLE AIR SYSTEM IS:",
+    "opcionesEn": [
+      "EMPTY.",
+      "AT NORMAL PRESSURE.",
+      "BETWEEN 60 AND 80 PSI."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-14",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE FIFTH WHEEL LOCKING LEVER IS NOT LOCKED AFTER THE JAWS CLOSE AROUND THE KINGPIN. THIS MEANS THAT:",
+    "opcionesEn": [
+      "THE TRAILER WILL NOT SWIVEL ON THE FIFTH WHEEL.",
+      "THE PARKING LOCK IS OFF AND YOU MAY DRIVE AWAY.",
+      "THE COUPLING IS NOT RIGHT AND SHOULD BE FIXED BEFORE DRIVING THE COUPLED UNIT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-15",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN BACKING A TRACTOR UNDER A TRAILER YOU SHOULD:",
+    "opcionesEn": [
+      "ALWAYS USE THE LOWEST REVERSE GEAR.",
+      "ALWAYS APPROACH THE TRAILER AT A SLIGHT ANGLE.",
+      "DO IT QUICKLY TO ENSURE THAT THE KINGPIN IS LOCKED INTO THE FIFTH WHEEL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-16",
+    "moduloId": "combinacion",
+    "preguntaEn": "IN NORMAL DRIVING, SOME DRIVERS USE THE HAND VALVE BEFORE THE BRAKE PEDAL TO PREVENT A JACKKNIFE. WHICH OF THESE STATEMENTS IS TRUE?",
+    "opcionesEn": [
+      "IT SHOULD NOT BE DONE.",
+      "IT RESULTS IN LESS SKIDDING THAT USING THE BRAKE PEDAL ALONE.",
+      "IT IS THE BEST WAY TO BRAKE AND KEEP THE VEHICLE IN A STRAIGHT LINE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  }
+]

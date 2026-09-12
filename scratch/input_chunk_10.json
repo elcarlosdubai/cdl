@@ -1,0 +1,210 @@
+[
+  {
+    "id": "combinacion-67",
+    "moduloId": "combinacion",
+    "preguntaEn": "A TRACTOR-TRAILER VEHICLE COMBINATION IS MOST LIKELY TO ROLL OVER IN TURN WHEN THE CONFIGURATION INCLUDES:",
+    "opcionesEn": [
+      "A 45 FT. AND A 27 FT. TRAILER.",
+      "TRIPLE 27 FT. TRAILERS.",
+      "DOUBLE 45 FT TRAILERS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-68",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU WILL KNOW IF THE TRAILER YOU ARE DRIVING HAS ANTILOCK BRAKES BY:",
+    "opcionesEn": [
+      "YELLOW ABS MALFUNCTION LAMPS ON THE LEFT SIDE OF THE TRAILER.",
+      "RED MALFUNCTION LAMPS ON THE TRAILER BRAKE CYLINDERS.",
+      "YELLOW ABS MALFUNCTION LAMPS ON THE RIGHT SIDE OF THE TRAILER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-69",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF YOU CANNOT MAKE A TURN WITHOUT ENTERING ANOTHER TRAFFIC LANE:",
+    "opcionesEn": [
+      "YOU SHOULD TURN WIDE WHEN YOU START THE TURN.",
+      "YOU SHOULD TURN WIDE AS YOU COMPLETE THE TURN.",
+      "NOT TO MAKE A TURN. GO TO ANOTHER PLACE WHERE YOU WONT HAVE TO CROSS INTO ANOTHER LANE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-70",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER YOU SUPPLY AIR TO THE TRAILER, MAKE SURE THE AIR LINES ARE NOT CROSSED AND THE TRAILER BRAKE ARE WORKING. THIS IS DONE BY:",
+    "opcionesEn": [
+      "TURNING ON THE PARKING BRAKES FROM THE CAB.",
+      "WATCHING YOUR MIRRORS TO SEE IF THE TRAILERS LIGHTS COME ON.",
+      "APPLYING AND RELEASING THE TRAILER BRAKES AND LISTENING FOR BRAKE SOUNDS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-71",
+    "moduloId": "combinacion",
+    "preguntaEn": "TO STOP A TRAILER SKID YOU SHOULD:",
+    "opcionesEn": [
+      "USE THE TRAILER HAND BRAKES.",
+      "RELEASE THE SERVICE BRAKES.",
+      "COUNTERSTEER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-72",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN COUPLING, THE PROPER POSITION OF THE FIFTH WHEEL IS:",
+    "opcionesEn": [
+      "LEVEL WITH THE GROUND.",
+      "TILTED UP TOWARD THE END THE TRACTOR.",
+      "TILTED TOWARD THE END THE TRACTOR."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-73",
+    "moduloId": "combinacion",
+    "preguntaEn": "TO UNLOCK THE FIFTH WHEEL, PULL THE RELEASE HANDLE TO THE _____ POSITION.",
+    "opcionesEn": [
+      "NEUTRAL.",
+      "CLOSED.",
+      "OPEN."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-74",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHY SHOULD YOU LOCK THE TRACTOR GLAD HANDS TO EACH OTHER (OR DUMMY COUPLERS) WHEN YOU ARE NOT TOWING A TRAILER?",
+    "opcionesEn": [
+      "THE CONNECTED BRAKE CIRCUIT BECOMES A BACK UP AIR TANK.",
+      "IT WILL KEEP DIRT AND WATER OUT OF THE LINES.",
+      "IF YOU DIDN’T, YOU COULD NEVER BUILD SYSTEM PRESSURE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-75",
+    "moduloId": "combinacion",
+    "preguntaEn": "AIR LINES ON A COMBINATION VEHICLE ARE OFTEN COLORED TO PREVENT THEN FROM MIXING UP. THE EMERGENCY LINE IS __________; THE SERVICE LINE IS ________.",
+    "opcionesEn": [
+      "RED, BLUE.",
+      "BLACK, YELLOW.",
+      "BLUE, RED."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-76",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF YOU CANNOT MAKE A TURN WITHOUT ENTERING ANOTHER TRAFFIC LINE, YOU SHOULD:",
+    "opcionesEn": [
+      "TURN WIDE AS YOU COMPLETE YOUR TURN.",
+      "NOT MAKE THAT TURN- GO TO ANOTHER PLACE WHERE YOU WONT HAVE TO CROSS INTO ANOTHER LINE.",
+      "TURN WIDE BEFORE YOU START YOUR TURN."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-77",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU ARE DRIVING A COMBINATION VEHICLE WHEN THE TRAILER BREAKS AWAY, PULLING APART BOTH AIR LINES. YOU WOULD EXPECT THE TRAILER BRAKES TO COME ON AND:",
+    "opcionesEn": [
+      "THE TRAILER SUPPLY VALVE TO STAY OPEN.",
+      "THE TRACTOR TO LOSE ALL AIR PRESSURE.",
+      "THE TRACTOR PROTECTION VALVE TO CLOSE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-78",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN SHOULD YOU USE THE HAND VALVE TO PARK A COMBINATION VEHICLE?",
+    "opcionesEn": [
+      "TO PARK AT LOADING DOCKS.",
+      "TO PARK ON A GRADE.",
+      "NEVER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-79",
+    "moduloId": "combinacion",
+    "preguntaEn": "TO UNLOCK THE FIFTH WHEEL LOCKING LEVER SHOULD BE PLACED IN THE _____ POSITION.",
+    "opcionesEn": [
+      "NEUTRAL.",
+      "CLOSED.",
+      "OPEN."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-80",
+    "moduloId": "combinacion",
+    "preguntaEn": "GLAD HANDS ARE USED FOR CONNECTING THE:",
+    "opcionesEn": [
+      "ELECTRIC LINES FROM THE TRACT TO THE TRAILER.",
+      "KINGPIN FROM THE TRAILER TO THE LOCKING JAWS OF THE FIFTH WHEEL.",
+      "SERVICE AND EMERGENCY AIR LINES FROM THE VEHICLE TO THE TRAILER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-81",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER YOU HAVE COUPLED THE TRAILER YOU SHOULD HAVE TO RAISE THE LANDING GEAR BY USING:",
+    "opcionesEn": [
+      "LOW GEAR.",
+      "INTERMEDIATE.",
+      "HIGH GEAR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-82",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE SAFEST WAY TO MAKE TURN WITHOUT ENTERING ANOTHER TRAFFIC LANE IS:",
+    "opcionesEn": [
+      "YOU SHOULD TURN WIDE BEFORE YOU START THE TURN.",
+      "YOU SHOULD TURN WIDE AS YOU COMPLETE THE TURN.",
+      "YOU SHOULD NOT MAKE A TURN AND MOVE TO ANOTHER PLACE WHERE YOU CAN MAKE A TURN WITHOUTH CROSSING OTHER LANE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "combinacion-17",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN YOU ARE UNCOUPLING A LOADED TRAILER, YOU SHOULD LOWER THE LANDING GEAR UNTIL IT:",
+    "opcionesEn": [
+      "MAKES FIRM CONTACT WITH THE GROUND, THEN CRANK IT IN LOW GEAR A FEW EXTRA TURNS.",
+      "MAKE CONTACT WITH THE GROUND AND LIFTS THE TRAILER OFF THE FIFTH WHEEL.",
+      "JUST REACHES THE GROUND."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-18",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN YOU GET READY TO BACK UNDER A SEMITRAILER YOU SHOULD LINE UP:",
+    "opcionesEn": [
+      "THE KINGPIN TO ENGAGE THE DRIVER’S SIDE LOCKING JAW FIRST.",
+      "DIRECTLY IN FRONT OF THE TRAILER.",
+      "THE LEFT REAR OUTER DUAL WHEEL WITH THE KINGPIN."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-19",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU HAVE COUPLED WITH A SEMITRAILER. WHEN SHOULD YOU PUT THE FRONT TRAILER SUPPORTS BEFORE DRIVING AWAY?",
+    "opcionesEn": [
+      "RAISED ½ WAY WITH THE CRANK HANDLE SECURED IN ITS BRACKET.",
+      "FULLY RAISED WITH THE CRANK HANDLE SECURED IN ITS BRACKET.",
+      "RAISED ¾ WAY WITH CRANK HANDLE REMOVED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-20",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU SHOULD NOT BACK A TRACTOR UNDER A TRAILER UNTIL WHOLE AIR SYSTEM IS:",
+    "opcionesEn": [
+      "EMPTY.",
+      "AT NORMAL PRESSURE.",
+      "BETWEEN 60 AND 80 PSI."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-21",
+    "moduloId": "combinacion",
+    "preguntaEn": "AIR AND ELECTRICAL LINES FROM THE TRACTOR TO THE TRAILER SHOULD BE:",
+    "opcionesEn": [
+      "PULLED TIGHT, WITH VERY LITTLE SLACK.",
+      "SECURED, BUT WITH ENOUGH SLACK FOR TURNS.",
+      "RESTING ON THE FRAME OF THE TRACTOR."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-22",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER THE TRAILER HAS BEEN COUPLED TO THE TRACTOR, THE TRACTOR PROTECTION CONTROL VALVE SHOULD BE PLACED IN __________ POSITIONX.",
+    "opcionesEn": [
+      "DOWN.",
+      "UP.",
+      "NORMAL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-23",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN YOU ARE ALLOWED TO GET OUT OF YOUR VEHICLE WHILE BACKING?",
+    "opcionesEn": [
+      "WHEN YOU ARE UNSURE OF YOUR PATH OF TRAVEL.",
+      "WHEN YOUR TRAILER BEGINS TO DRIFTS TO PASSENGER SIDE.",
+      "YOU SHOULD NEVER GET OUT OF YOUR VEHICLE WHEN BACKING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-24",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN COUPLING, THE PROPER POSITION OF THE FIFTH WHEEL IS:",
+    "opcionesEn": [
+      "LEVEL WITH THE GROUND.",
+      "TILTED DOWN TOWARD THE END OF THE TRAILER.",
+      "TILTED UP TOWARD THE END THE TRAILER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-25",
+    "moduloId": "combinacion",
+    "preguntaEn": "HOW SHOULD YOU TEST THE TRACTOR-SEMITRAILER CONNECTION FOR SECURITY?",
+    "opcionesEn": [
+      "LOOK AT IT CAREFULLY.",
+      "ROCK THE TRAILER BACK AND FORTH WITH THE TRAILER BRAKES LOCKED.",
+      "PULL GENTLY FORWARD IN LOW GEAR AGAINST THE LOCKED TRAILER BRAKES THEN LOOK AT IT CAREFULLY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-26",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU SUPPLY AIR TO THE TRAILER TANKS BY:",
+    "opcionesEn": [
+      "PUSHING IN THE TRAILER AIR SUPPLY VALVE.",
+      "PULLING OUT THE TRAILER AIR SUPPLY VALVE.",
+      "CONNECTING THE SERVIVCE LINE GLAD HANDS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-27",
+    "moduloId": "combinacion",
+    "preguntaEn": "A TRACTOR WITH A (N) _________ TRAILER REQUIRES THE SHORTEST AMOUNT OF STOPPING DISTANCE.",
+    "opcionesEn": [
+      "EMPTY.",
+      "LIGHTLY LOADED.",
+      "FULLY LOADED."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-28",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN DO YOU NEED TO USE CHOCKS TO PARK A TRAILER?",
+    "opcionesEn": [
+      "NEVER.",
+      "ALWAYS.",
+      "ONLY WHEN IT WILL BE PARKED ON AN INCLINE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-29",
+    "moduloId": "combinacion",
+    "preguntaEn": "SEMITRAILERS MADE BEFORE 1975 THAT ARE EQUIPPED WITH THE AIR BRAKES:",
+    "opcionesEn": [
+      "USUALLY NEED A GLAD HAND CONVERTER.",
+      "OFTEN DO NOT HAVE SPRING BRAKES.",
+      "HAVE ONLY A SERVICE AIR LINE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-30",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE TRACTOR PROTECTION VALVE WILL CLOSE AND THE TRAILER EMERGENCY BRAKES WILL COME ON WHEN THERE IS A MAJOR LEAK IN THE _______ BRAKE LINE.",
+    "opcionesEn": [
+      "SERVICE.",
+      "PARKING.",
+      "EMERGENCY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-31",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU ARE COUPLING TRACTOR TO A SEMITRAILER. YOU HAVE CONNECTED THE AIRLINES. BEFORE BACKING UNDER THE TRAILER YOU SHOULD:",
+    "opcionesEn": [
+      "SUPPLY AIR TO THE TRAILER SYSTEM, THEM PULL OUT THE AIR SUPPLY KNOB.",
+      "PULL AHEAD TO TEST THE GLAD HANDS CONNECTIONS.",
+      "MAKE SURE THAT THE TRAILER BRAKES ARE OFF."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-32",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE SAFETY CATCH FOR THE FIFTH WHEEL LOCKING LEVER MUST BE________ FOR A COUPLING TO BE COMPLETE.",
+    "opcionesEn": [
+      "OVER THE LOCKING LEVER.",
+      "STRAIGHT UP.",
+      "THROUGH THE LOCKING LEVER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-33",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE ARE TWO THINGS THAT A DRIVER CAN DO TO PREVENT A ROLLOVER. THEY ARE: (1) GO SLOW AROUND TURNS; AND (2):",
+    "opcionesEn": [
+      "KEEP BOTH HANDS FIRMLY ON THE STEERING WHEEL.",
+      "KEEP THE CARGO AS CLOSE TO THE GROUND AS POSSIBLE.",
+      "MAKE SURE THAT THE BRAKES ARE PROPERLY BALANCED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-34",
+    "moduloId": "combinacion",
+    "preguntaEn": "LOSS OF AIR PRESSURE IN THE EMERGENCY LINE CAUSES:",
+    "opcionesEn": [
+      "THE RELAY VALVES TO CLOSE.",
+      "AN INCREASE IN AIR PRESSURE TO THE SERVICE BRAKES.",
+      "THE TRAILER’S EMERGENCY BRAKES TO COME ON."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-35",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU ARE ABOUT TO BACK YOUR TRACTOR UNDER A SEMITRAILER. THE TRAILER IS AT THE RIGHT HEIGHT WHEN THE:",
+    "opcionesEn": [
+      "THE KINGPIN IS ABOUT 1 ¼ INCHES ABOVE THE FIFTH WHEEL.",
+      "THE END OF THE KING IS EVEN WITH THE TOP OF THE FIFTH WHEEL.",
+      "IT WILL BE RAISED SLIGHTLY WHEN THE TRAILER IS BACKED UNDER IT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-36",
+    "moduloId": "combinacion",
+    "preguntaEn": "A DRIVER CROSSES THE AIR LINES WHEN HOOKING UP TO AN OLD TRAILER. WHAT WILL HAPPEN?",
+    "opcionesEn": [
+      "THE HAND VALVE WILL APPLY THE TRACTOR BRAKES INSTEAD OF THE TRAILER BRAKES.",
+      "IF THE TRAILERS HAS NO SPRING BRAKES, HE OR SHE COULD DRIVE AWAY BUT YOU WOULDN’T HAVE TRAILER BRAKES.",
+      "THE BRAKE PEDAL WILL WORK THE TRAILER SPRING BRAKES INSTEAD OF THE AIR BRAKES."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-37",
+    "moduloId": "combinacion",
+    "preguntaEn": "HOW MUCH SPACE SHOULD BE ALLOWED BETWEEN UPPER AND LOWER FIFTH WHEEL AFTER COUPLING?",
+    "opcionesEn": [
+      "ABOUT ¼ INCH.",
+      "JUST ENOUGH TO SEE LIGHT THROUGH IT.",
+      "NONE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-38",
+    "moduloId": "combinacion",
+    "preguntaEn": "AFTER YOU LOCK THE KINGPIN INTO THE FIFTH WHEEL, YOU SHOULD CHECK THE CONNECTION BY:",
+    "opcionesEn": [
+      "PULLING FORWARD 50 FEET, TURNING RIGHT AND THEN LEFT.",
+      "PULLING THE TRACTOR AHEAD SHARPLY TO RELEASE THE TRAILER BRAKES.",
+      "PULLING THE TRACTOR AHEAD GENTLY WITH THE TRAILER BRAKES LOCKED."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-39",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHILE DRIVING BEHIND OTHER VEHICLE UNDER GOOD CONDITION YOU SHOULD ALLOW AT LEAST ONE SECOND BETWEEN YOUR VEHICLE AND THE VEHICLE AHEAD FOR EACH_____ (HOW MANY) FEET OF YOUR VEHICLE LENGTH?",
+    "opcionesEn": [
+      "10.",
+      "20.",
+      "30."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-40",
+    "moduloId": "combinacion",
+    "preguntaEn": "OFF-TRACKING OR ‘’CHEATING’’ CAUSES WHICH OF THESE TO FOLLOW THE WIDEST PATH WHILE MAKING A TURN?",
+    "opcionesEn": [
+      "5-AXLE TRACTOR TOWING A 45 FEET TRAILER.",
+      "5-AXLE TRACTOR TOWING 27 FEET TRAILERS.",
+      "A BOBTAIL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-41",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE AIR LEAKAGE RATE FOR A COMBINATION VEHICLE (ENGINE OFF, BRAKES OFF) SHOULD BE LESS THAN _____ PSI PER MINUTE.",
+    "opcionesEn": [
+      "½ .",
+      "2.",
+      "3."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-42",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN CHECKING THE TRAILER’S EMERGENCY BRAKES, THE TRACTOR PROTECTION CONTROL VALVE SHOULD BE PLACED IN THE _______ POSITION.",
+    "opcionesEn": [
+      "NORMAL.",
+      "EMERGENCY.",
+      "NEUTRAL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-43",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHICH OF THESE STATEMENTS IS TRUE?",
+    "opcionesEn": [
+      "THE BRAKES AND SUSPENSION SYSTEM OF COMBINATION VEHICLES WORK BEST WITH A LIGHT LOAD.",
+      "LIGHT VEHICLES NEED MORE BRAKING POWER TO STOP THAN HEAVY ONES.",
+      "‘’BOBTAIL’’ TRACTORS CAN TAKE LONG TO STOP THAN A COMBINATION VEHICLE LOADED TO MAXIMUM GROSS WEIGHT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-44",
+    "moduloId": "combinacion",
+    "preguntaEn": "THERE ARE TWO THINGS THAT A DRIVER CAN DO TO PREVENT A ROLLOVER THEY ARE: (1) KEEP THE CARGO AS CLOSE TO THE GROUND AS POSSIBLE; AND(2):",
+    "opcionesEn": [
+      "MAKE SURE THAT THE BRAKES ARE PROPERLY ADJUSTED.",
+      "KEEP BOTH HANDS FIRMLY ON THE STEERING WHEEL.",
+      "GO SLOW AROUND TURNS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-45",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHAT GEAR SHOULD THE TRACTOR TRANSMISSION BE IN AFTER YOU HAVE UNCOUPLED THE TRAILER AND ARE INSPECTING THE TRAILER SUPPORTS?",
+    "opcionesEn": [
+      "NEUTRAL.",
+      "LOW REVERSE.",
+      "HIGH REVERSE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-46",
+    "moduloId": "combinacion",
+    "preguntaEn": "HAVING ANTILOCK BRAKES ON ONLY YOUR TRAILER.",
+    "opcionesEn": [
+      "WILL GIVE YOU MORE CONTROL OVER THE VEHICLE WHEN BRAKING.",
+      "WILL INCREASE THE LIKELIHOOD OF A REAR WHEEL POWER UNTIL SKID WHEN BRAKING.",
+      "WILL INCREASE THE LIKELIHOOD OF JACKKNIFING WHEN BRAKING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-47",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN SHOULD YOU GET OUT OF YOUR VEHICLE WHEN YOUR ARE BACKING WITH A TRAILER?",
+    "opcionesEn": [
+      "WHEN YOU ARE UNSURE OF YOUR PATH OF TRAVEL.",
+      "YOU SHOULD NEVER GET OUT OF YOUR VEHICLE WHEN BACKING.",
+      "WHEN YOUR TRAILER BEGINGS TO DRIFT TO PASSENGER SIDE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-48",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN UNCOUPLING THE TRAILER, AFTER YOU HAVE SHUT OFF THE TRAILER AIR SUPPLY AND LOCKED THE TRAILER BRAKES, YOU SHOULD:",
+    "opcionesEn": [
+      "BACK UP GENTLY TO ESASE PRESSURE ON THE FIFTH WHEEL LOCKING JAWS.",
+      "IMMEDIATELY PUT ON YOUR TRACTOR PARKING BRAKES.",
+      "BEGIN TO LOWER THE TRAILER LANDING GEAR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-49",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHAT WILL HAPPEN IF THE AIR LINES ARE CROSSED WHEN YOU HOOK UP TO AN OLD TRAILER?",
+    "opcionesEn": [
+      "THE HAND VALVE WILL APPLY THE TRACTOR BRAKES INSTEAD OF THE TRAILER BRAKES.",
+      "IF THE TRAILER HAS NO SPRING BRAKES, YOU COULD DRIVE AWAY BUT YOU WOULD NOT HAVE TRAILER BRAKES.",
+      "THE BRAKE LIGHTS WILL NOT COME ON WHEN YOU PRESS THE BRAKE PEDAL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-50",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE AIR LEAKAGE RATE FOR A COMBINATION VEHICLE (ENGINE OFF, BRAKES ON) SHOULD BE LESS THAN _______ PSI PER MINUTE.",
+    "opcionesEn": [
+      "2.",
+      "3.",
+      "4."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-51",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE EARLIEST AND BEST WAY TO RECOGNIZE THAT THE TRAILER HAS STARTED TO SKID IS BY:",
+    "opcionesEn": [
+      "SEEING IT IN YOUR MIRRORS.",
+      "FEEL FOR ‘’PULLING’’ IN THE CAB.",
+      "HEAR THE WHEELS SKIDDING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-52",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE AIR LEAKAGE RATE FOR A COMBINATION VEHICLE (ENGINE OFF, BRAKES ON) SHOULD BE LESS THAN ______ PSI PER MINUTE.",
+    "opcionesEn": [
+      "TWO",
+      "THREE.",
+      "FOUR."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-53",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE FRONT TRAILER SUPPORTS ARE UP AND THE TRAILER IS RESTING ON THE TRACTOR. MAKE SURE:",
+    "opcionesEn": [
+      "THERE IS ENOUGH CLEARANCE BETWEEN THE TOP OF THE TRACTOR TIRES AND NOSE OF THE TRAILER.",
+      "THERE IS ENOUGH CLEARANCE BETWEEN THE TRACTOR FRAME AND THE LANDING GEAR.",
+      "BOTH A AND B ARE CORRECT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-54",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN DRIVING A SET OF DOUBLES, IT IS NECESSARY TO CLOSE THE ____ SHUT-OFF VALVE IN THE LAST TRAILER.",
+    "opcionesEn": [
+      "FRONT.",
+      "MID-SECTION.",
+      "BACK"
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-55",
+    "moduloId": "combinacion",
+    "preguntaEn": "A TRAILER IS MOST LIKELY TO JACKKNIFE WHEN IT IS______.",
+    "opcionesEn": [
+      "LOADED TO FULL CAPACITY.",
+      "OVER LOADED.",
+      "EMPTY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-56",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHEN CONNECTING THE GLAD HANDS, PRESS THE TWO SEALS OF THE COUPLERS TOGETHER AT A ________ DEGREE ANGLE TO ONE ANOTHER.",
+    "opcionesEn": [
+      "45.",
+      "90.",
+      "180."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-57",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHICH PART OF THE KINGPIN IS SHOULD BE LOCKING JAWS CLOSE AROUND?",
+    "opcionesEn": [
+      "THE SHANK.",
+      "THE HEAD.",
+      "THE BASE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-58",
+    "moduloId": "combinacion",
+    "preguntaEn": "THE HAND VALVE SHOULD BE USED:",
+    "opcionesEn": [
+      "ONLY WITH A FOOT BRAKE.",
+      "TO TEST THE TRAILER BRAKES.",
+      "AS A PARKING BRAKE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-59",
+    "moduloId": "combinacion",
+    "preguntaEn": "OFF-TRACKING OR ‘’CHEATING’’ CAUSES OF WHICH OF THESE TO FOLLOW THE WIDER PATH WHILE MAKING A TURN?",
+    "opcionesEn": [
+      "TRIPPLE TOWING A 45 FEET TRAILER.",
+      "TRACTOR WITH TWO 27 FEET TRAILERS.",
+      "53-FEET BOBTAIL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "combinacion-60",
+    "moduloId": "combinacion",
+    "preguntaEn": "IF YOUR ANTILOCK BRAKING SYSTEM IS NOT WORKING ON YOUR TRAILER, YOU SHOULD:",
+    "opcionesEn": [
+      "DRIVE AT A LOWER SPEED AND GET THE SYSTEM SERVICED SOON.",
+      "NOT DRIVE UNTIL IT IS REPAIRED.",
+      "DRIVE NORMALLY, BUT GET THE SYSTEM SERVICED SOON."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-61",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU ARE COUPLING A TRACTOR TO A SEMITRAILER AND HAVE BACKED UP BUT ARE NOT UNDER IT. WHAT SHOULD YOU HOOK UP BEFORE BAKCING UNDER?",
+    "opcionesEn": [
+      "THE EMERGENCY AND SERVICE AIR LINES.",
+      "THE ELECTRICAL SERVICE CABLE.",
+      "NOTHING. BACK UP AND LOCK THE FIFTH WHEEL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-62",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOU WILL KNOW IF THE TRAILER ABS BRAKES ARE NOT WORKING PROPERLY BY:",
+    "opcionesEn": [
+      "YELLOW ABS MALFUNCTION LAMPS ON THE LEFT SIDE OF THE TRAILER STAYS ON.",
+      "YELLOW ABS MALFUNCTION LAMPS ON THE RIGHT SIDE OF THE TRIALER STAYS ON.",
+      "RED MALFUNCTION LAMPS ON THE TRAILER BRAKE CYLINDERS STAYS ON."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-63",
+    "moduloId": "combinacion",
+    "preguntaEn": "AIR BRAKE EQUIPPED TRAILERS MADE BEFORE 1975.",
+    "opcionesEn": [
+      "OFTEN DO NOT HAVE SPRING BRAKES.",
+      "USUALLY NEED A GLAD HAND CONVERTER.",
+      "CANNOT BE LEGALLY OPERATED ON INTERSTATE HIGHWAYS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-64",
+    "moduloId": "combinacion",
+    "preguntaEn": "WHERE SHOUL THE TRACTOR BE WHEN YOU INSPECT LANDING GEAR AFTER UNCOUPLING THE TRAILER?",
+    "opcionesEn": [
+      "WITH THE TRACTOR FRAME UNDER THE TRAILER.",
+      "COMPLETELY CLEARED FROM THE TRAILER.",
+      "WITH THE FIFTH WHEEL DIRECTLY BENEATH THE KINGPIN."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "combinacion-65",
+    "moduloId": "combinacion",
+    "preguntaEn": "COMPARED TO A STRAIGHT TRUCK OR BUS, THERE ARE_____ THINGS TO INSPECT IN COMBINATION VEHICLE.",
+    "opcionesEn": [
+      "FEWER.",
+      "THE SAME NUMBER OF.",
+      "MORE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "combinacion-66",
+    "moduloId": "combinacion",
+    "preguntaEn": "YOUR EMERGENCY AIR LINE BREAKS OR GETS PULLED APART WHILE YOU ARE DRIVING. THE LOSS OF PRESSURE WILL CAUSE THE:",
+    "opcionesEn": [
+      "AIR COMPRESSOR TO UNLOAD INSTEAD OF PUMPING AIR.",
+      "EMERGENCY TRAILER BRAKES TO COME ON.",
+      "TRAILER SUPPLY VALVE TO OPEN."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  }
+]

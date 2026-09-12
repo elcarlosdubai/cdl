@@ -1,61 +1,105 @@
 [
   {
-    "id": "general",
-    "titulo": "Conocimientos Generales",
-    "icono": "📖",
-    "resumen": "Lo básico que todo conductor comercial debe saber sobre seguridad, carga y conducción preventiva.",
+    "id": "guia-cdl",
+    "titulo": "Guía y Requisitos CDL",
+    "icono": "📋",
+    "resumen": "Todo lo que necesitas saber ANTES del examen: requisitos médicos, licencias, endosos y el proceso de evaluación.",
     "secciones": [
       {
-        "subtitulo": "1. Inspección del Vehículo",
-        "contenido": "Una inspección antes del viaje es obligatoria por ley. Revisa: niveles de líquidos (aceite, refrigerante), estado de los neumáticos (mínimo 4/32 pulgadas de profundidad en las llantas direccionales delanteras, 2/32 en el resto), frenos y luces. Recuerda la regla de oro: Si encuentras un defecto que afecte la seguridad, NO conduzcas el vehículo."
+        "subtitulo": "Unidad 1: Requisitos Básicos y Edad",
+        "contenido": "<p>Para obtener una CDL (Licencia de Conducir Comercial), el primer paso es solicitar un <strong>Permiso de Aprendizaje Comercial (CLP)</strong> aprobando los exámenes teóricos.</p> <ul><li><strong>Conducción Interestatal (Cruzar fronteras del estado):</strong> Mínimo <strong>21 años</strong> de edad.</li><li><strong>Conducción Intraestatal (Dentro del estado):</strong> Usualmente a los <strong>18 años</strong>.</li></ul> <p>Se requiere una licencia regular vigente y un historial de manejo sin suspensiones (un DUI te descalifica). Una vez con el CLP, debes esperar mínimo 14 días para hacer el examen práctico.</p>"
       },
       {
-        "subtitulo": "2. Espacio y Velocidad",
-        "contenido": "Un vehículo comercial pesado necesita mucho más espacio para detenerse. A 55 mph, tomará la longitud de un campo de fútbol detenerse por completo. Regla de los Segundos: Deja al menos 1 segundo de distancia por cada 10 pies de largo de tu vehículo si vas a menos de 40 mph. Añade 1 segundo más si superas los 40 mph."
+        "subtitulo": "Unidad 2: Examen Médico (Tarjeta DOT)",
+        "contenido": "<p>Por ley federal, debes aprobar un examen físico del DOT. Los puntos clave de evaluación son:</p> <ul><li><strong>Visión:</strong> Agudeza de al menos <strong>20/40</strong> en cada ojo y campo visual de 70 grados.</li><li><strong>Audición:</strong> Poder escuchar un susurro a 5 pies de distancia.</li><li><strong>Salud General:</strong> Presión arterial bajo control. Uso de insulina y epilepsia no controlada suelen ser descalificatorios.</li></ul> <p>Si apruebas, recibes tu <strong>Tarjeta Médica DOT</strong>, válida por hasta <strong>2 años</strong>.</p>"
       },
       {
-        "subtitulo": "3. Condiciones Adversas",
-        "contenido": "En lluvia, el pavimento está más resbaladizo justo al empezar a llover. En hielo o nieve, reduce tu velocidad a la mitad. Cuidado con el hielo negro (Black Ice): si el asfalto se ve mojado pero no hay rocío saliendo de las llantas de los otros autos, probablemente estés sobre hielo invisible y muy peligroso."
+        "subtitulo": "Unidad 3: Clases de CDL y Endosos",
+        "contenido": "<p><strong>Clases de Licencia:</strong></p> <ul><li><strong>Clase A (Tractocamiones):</strong> Vehículos combinados con un peso bruto (GCWR) de <strong>26,001 lbs o más</strong>, si el remolque pesa <strong>más de 10,000 lbs</strong>.</li><li><strong>Clase B:</strong> Vehículos individuales de 26,001 lbs o más, o tirar remolques de <em>menos</em> de 10,000 lbs (Buses, camiones de basura).</li><li><strong>Clase C:</strong> Vehículos pequeños para <strong>16+ pasajeros</strong> o <strong>HazMat</strong>.</li></ul> <p><strong>Endosos Principales:</strong></p> <ul><li><strong>(T) Dobles/Triples:</strong> Múltiples remolques.</li><li><strong>(P) Pasajeros / (S) Escolar:</strong> Transporte de personas (requiere examen práctico).</li><li><strong>(N) Tanques:</strong> Líquidos a granel. Exige manejar la <em>oleada</em> del líquido.</li><li><strong>(H) Materiales Peligrosos:</strong> Requiere FBI background check.</li></ul>"
+      }
+    ]
+  },
+  {
+    "id": "general",
+    "titulo": "Conocimientos Generales (Examen Teórico)",
+    "icono": "📖",
+    "resumen": "La unidad más extensa (50 preguntas). Cubre inspección, manejo, carga, emergencias y equipo obligatorio.",
+    "secciones": [
+      {
+        "subtitulo": "Unidad 1: Inspección de Llantas, Rines y Frenos",
+        "contenido": "<p>Esta es una de las áreas más evaluadas en la prueba teórica. Si una parte crítica falla, el vehículo está Fuera de Servicio.</p> <ul><li><strong>Llantas Direccionales (Eje delantero):</strong> Profundidad mínima de <strong>4/32 de pulgada</strong>. Está <strong>estrictamente prohibido</strong> usar llantas recauchutadas (re-treaded), regrabadas o recapadas en el eje de dirección.</li><li><strong>Llantas Traseras:</strong> Profundidad mínima de <strong>2/32 de pulgada</strong>. Aquí sí se permiten recauchutadas.</li><li><strong>Rines (Aros):</strong> <strong>NO se permite NINGÚN tipo de soldadura</strong> en un aro rajado. Todas las tuercas (lug nuts) deben estar presentes, sin rastros de óxido (indica que están flojas).</li><li><strong>Balatas de Freno (Brake Shoes):</strong> No deben tener aceite, grasa, ni ser más delgadas de <strong>1/4 de pulgada</strong>.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 2: Inspección del Motor y Suspensión",
+        "contenido": "<p>Debes saber qué revisar debajo del capó y en el chasis:</p> <ul><li><strong>Correas (Belts):</strong> La bomba de agua, el alternador y el compresor de aire suelen usar correas (aunque algunos son de engranaje). Al empujar la correa, no debe ceder más de <strong>1/2 a 3/4 de pulgada</strong>. Si cede más, está floja.</li><li><strong>Dirección:</strong> El volante no debe tener un juego libre de más de <strong>10 grados</strong> (aproximadamente 2 pulgadas en un volante de 20 pulgadas). Si tiene más, es ilegal conducirlo.</li><li><strong>Suspensión:</strong> Si falta un <strong>25% (un cuarto)</strong> o más de las hojas de resorte (leaf springs), el vehículo está fuera de servicio. Los amortiguadores no deben gotear aceite.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 3: Equipo de Emergencia Obligatorio",
+        "contenido": "<p>Por ley federal, todo camión comercial debe llevar 3 cosas en la cabina para emergencias:</p> <ol><li><strong>Extintor de incendios:</strong> Debidamente cargado y asegurado. Si llevas HazMat, debe ser clasificación mínima 10 B:C; si no, mínimo 5 B:C.</li><li><strong>Fusibles de repuesto:</strong> A menos que el camión use disyuntores (circuit breakers) automáticos.</li><li><strong>Dispositivos de advertencia:</strong> Al menos <strong>3 triángulos reflectantes rojos</strong> (o bengalas). Si te estacionas de emergencia en el acotamiento, debes colocar los triángulos a los <strong>10 pies, 100 pies y 200 pies</strong> detrás del camión (si es carretera recta) en un lapso máximo de <strong>10 minutos</strong>.</li></ol>"
+      },
+      {
+        "subtitulo": "Unidad 4: Manejo Espacial y Velocidad",
+        "contenido": "<p>La física del camión es un tema recurrente en el examen:</p> <ul><li><strong>Distancia de Parada:</strong> <em>Percepción + Reacción + Frenado = Parada Total.</em> A 55 mph, tomará más de 300 pies (un campo de fútbol).</li><li><strong>Regla de los Segundos:</strong> Para mantener una distancia segura con el auto de adelante: <strong>1 segundo por cada 10 pies de camión</strong> (a menos de 40 mph). Si vas a <strong>más de 40 mph, suma 1 segundo extra</strong>. Ejemplo: Un camión de 60 pies a 50 mph requiere 7 segundos de distancia.</li><li><strong>Curvas y Rampas:</strong> Los camiones se vuelcan con facilidad. Las señales amarillas de velocidad en las salidas son para autos; tú debes ir <strong>5 a 10 mph por debajo</strong> de ese límite.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 5: Clima, Visibilidad y Espejos",
+        "contenido": "<p>Reglas teóricas para condiciones adversas:</p> <ul><li><strong>Lluvia:</strong> El agua mezclada con el aceite seco hace el pavimento muy resbaladizo al <strong>inicio</strong> de la lluvia. A altas velocidades, ocurre el <strong>hidroplaneo</strong>. Si ocurre, no frenes; suelta el acelerador.</li><li><strong>Nieve/Hielo:</strong> Reduce la velocidad a la mitad en nieve. En hielo (como el invisible 'Hielo Negro'), avanza a paso de tortuga.</li><li><strong>Uso de espejos:</strong> Debes revisar tus espejos regularmente (cada 5-8 segundos). Sin embargo, recuerda que los espejos convexos (burbuja) hacen que los objetos parezcan <strong>más pequeños y más lejanos</strong> de lo que realmente están.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 6: Cambios de Marcha y Descensos (Montañas)",
+        "contenido": "<p>Teoría sobre la transmisión (Manual):</p> <ul><li><strong>Doble Embrague (Double clutching):</strong> Pisar el embrague (clutch) para sacar la marcha a neutral, soltarlo, sincronizar RPM, pisar de nuevo y meter la siguiente marcha.</li><li><strong>Descenso de Montañas:</strong> <strong>Jamás</strong> dependas solo de los frenos. Usa el freno de motor (Engine Retarder). Debes bajar en <strong>una marcha inferior</strong> a la que usaste para subir esa montaña.</li><li><strong>Técnica Snubbing:</strong> Si tu 'velocidad segura' de bajada es 40 mph, deja que el camión llegue a 40 mph, aplica frenos fuerte por 3 segundos hasta bajar a 35 mph, suelta y repite.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 7: Aseguramiento de Carga (Cargo Securement)",
+        "contenido": "<p>Como conductor, tú eres responsable de la carga, incluso si no la subiste tú. Debes inspeccionarla en los primeros 50 kilómetros (25 millas), y luego cada 150 millas o cada 3 horas.</p> <ul><li><strong>Límites de Peso:</strong> Peso Bruto (Total), Peso por Eje (Axle Weight) y Peso de la Llanta. Un camión sobrecargado daña los frenos, la dirección y destruye carreteras.</li><li><strong>Regla de los Sujetadores (Tie-downs):</strong> Por ley, la carga debe tener al menos <strong>un sujetador por cada 10 pies de largo</strong> (o fracción). Y sin importar cuán pequeña sea, SIEMPRE se requiere un <strong>mínimo de 2 sujetadores</strong> en cualquier carga plana.</li><li><strong>Límite de Carga de Trabajo (WLL):</strong> El WLL combinado de todos los sujetadores debe ser igual a por lo menos <strong>la mitad (50%)</strong> del peso total de la carga.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 8: Fuegos, Emergencias y Materiales Peligrosos",
+        "contenido": "<p><strong>Incendios:</strong> Las llantas desinfladas y los frenos sobrecalentados causan incendios. Si hay fuego en el motor, <strong>no abras el capó</strong>; el oxígeno avivará la llama. Dispara el extintor a través de las rejillas hacia la <strong>base del fuego</strong>. <em>Nunca</em> uses agua en un incendio eléctrico o de gasolina (usa extintores A:B:C o B:C).</p> <p><strong>Materiales Peligrosos (HazMat):</strong> Aunque no tengas el endoso, necesitas saber lo básico. Para transportar cualquier material peligroso, el conductor debe tener la licencia con el endoso, los papeles de envío deben estar al alcance del conductor (en el asiento o puerta), y el vehículo debe tener <strong>4 placas (Placards)</strong> de advertencia en el exterior (Frente, atrás, y ambos lados).</p>"
       }
     ]
   },
   {
     "id": "frenos-aire",
-    "titulo": "Frenos de Aire",
+    "titulo": "Frenos de Aire (Examen Teórico)",
     "icono": "🛑",
-    "resumen": "Entiende cómo funciona el sistema de frenos neumáticos y cómo inspeccionarlo de manera segura.",
+    "resumen": "Abarca todo lo que el DMV preguntará sobre el sistema neumático: partes mecánicas, válvulas de protección y pruebas obligatorias.",
     "secciones": [
       {
-        "subtitulo": "1. El Compresor y los Tanques",
-        "contenido": "El compresor bombea aire a los tanques de almacenamiento. Debes drenar el agua y el aceite de los tanques al final de cada día de trabajo para evitar que el agua se congele en el invierno y cause que fallen los frenos completamente."
+        "subtitulo": "Unidad 1: Componentes Mecánicos Internos (S-Cam)",
+        "contenido": "<p>La mayoría de los camiones pesados usan frenos de <strong>Leva en S (S-Cam Brakes)</strong>.</p> <ul><li><strong>¿Cómo funcionan?</strong> Cuando pisas el pedal, el aire empuja la varilla de empuje (Pushrod), que mueve el Ajustador de Holgura (Slack Adjuster), el cual gira el árbol de levas (Camshaft). Al girar, la Leva en S obliga a las balatas a separarse y apretarse contra el tambor de freno (Brake Drum).</li><li><strong>El Slack Adjuster (Ajustador de Holgura):</strong> Es la pieza mecánica más crítica en las preguntas del examen. Si tiras de él con la mano (estando estacionado en suelo plano y sin los frenos de resorte puestos), <strong>no debe moverse más de 1 pulgada</strong>. Si se mueve más de 1 pulgada, el freno está desajustado y fallará.</li></ul>"
       },
       {
-        "subtitulo": "2. Alarmas de Presión Baja",
-        "contenido": "Todos los vehículos con frenos de aire tienen un medidor de presión. La alarma de advertencia de presión baja (luz roja o zumbador) DEBE encenderse antes de que la presión baje a 60 psi. Si esta alarma suena mientras conduces, detente inmediatamente de forma segura."
+        "subtitulo": "Unidad 2: Compresor, Gobernador y Tanques",
+        "contenido": "<p>El sistema neumático depende de la presión del aire.</p> <ul><li><strong>Gobernador:</strong> Mantiene la presión del aire entre 100 psi y 125 psi. Cuando baja a 100 psi, el compresor inicia el bombeo (Cut-in). Cuando llega a 125 psi, se apaga (Cut-out).</li><li><strong>Válvula de Seguridad:</strong> Protege los tanques de explotar. Está calibrada para expulsar aire si el gobernador falla y la presión llega a los <strong>150 psi</strong>.</li><li><strong>Drenaje de Tanques:</strong> El aire comprimido produce agua y aceite. Debes drenar las válvulas de los tanques <strong>manualmente cada día</strong> al finalizar el turno. Si el agua entra a las líneas y se congela en invierno, te quedarás sin frenos.</li></ul>"
       },
       {
-        "subtitulo": "3. Los Frenos de Resorte (Spring Brakes)",
-        "contenido": "La presión del aire empuja y mantiene los frenos de resorte separados. Si pierdes la presión de aire en una emergencia, los resortes se activarán solos y frenarán el camión mecánicamente. NUNCA pises el pedal de freno si los frenos de resorte de parqueo están activados, podrías destrozar el sistema."
+        "subtitulo": "Unidad 3: Válvulas del Tablero y Frenos de Resorte",
+        "contenido": "<p>Las alertas visuales y sonoras son preguntas garantizadas en el examen.</p> <ul><li><strong>Alarma de Presión Baja (Low Air Warning):</strong> Es una luz roja y/o zumbador. La ley dicta que DEBE encenderse <strong>antes de que la presión caiga a 60 psi</strong>. Si enciende manejando, detente inmediatamente.</li><li><strong>Frenos de Resorte (Spring Brakes):</strong> Todos los camiones con aire usan resortes mecánicos para emergencia y parqueo. La presión de aire (sobre 60 psi) 'empuja' estos resortes para que puedas avanzar. Si la presión cae masivamente entre <strong>20 y 45 psi</strong>, el aire no puede retener los resortes, la válvula de protección del tractor (Botón Amarillo) saltará hacia afuera (Pop-out), y los resortes frenarán el camión de golpe.</li><li><strong>Peligro Doble:</strong> NUNCA pises el pedal de freno si el botón amarillo está jalado (parqueo). Sumar la presión del pie más la presión del resorte reventará las cámaras de freno.</li></ul>"
+      },
+      {
+        "subtitulo": "Unidad 4: Las Tasas de Fuga (Leakage Rates)",
+        "contenido": "<p>Debes memorizar los números exactos de las pruebas de fugas. En el examen teórico te preguntarán:</p> <ul><li><strong>Fuga Estática (Sin pisar el freno):</strong> En un camión recto (Clase B), la presión no debe caer más de <strong>2 psi en un minuto</strong>. En un vehículo combinado (Clase A), no más de <strong>3 psi en un minuto</strong>.</li><li><strong>Fuga Aplicada (Pisando el freno a fondo):</strong> En un camión recto, no más de <strong>3 psi en un minuto</strong>. En un vehículo combinado, no más de <strong>4 psi en un minuto</strong>.</li><li><strong>Recuperación de presión:</strong> Al encender el motor y acelerar suavemente, la presión debe recuperar de 85 a 100 psi en un máximo de <strong>45 segundos</strong>.</li></ul>"
       }
     ]
   },
   {
     "id": "combinacion",
-    "titulo": "Vehículos de Combinación",
+    "titulo": "Vehículos Combinados (Examen Teórico)",
     "icono": "🚛",
-    "resumen": "Aprende las reglas de seguridad y las técnicas para acoplar y conducir tractocamiones con remolques.",
+    "resumen": "Conceptos de física (Jackknife, Off-tracking), válvulas del remolque y los pasos exactos del acoplamiento.",
     "secciones": [
       {
-        "subtitulo": "1. Riesgo de Volcadura (Rollover)",
-        "contenido": "Los camiones de combinación completamente cargados tienen 10 veces más probabilidades de volcarse en una curva que los que van vacíos. Mantén la carga lo más baja y centrada posible y reduce drásticamente la velocidad antes de entrar a una rampa curva."
+        "subtitulo": "Unidad 1: Efecto Látigo, Jackknife y Off-Tracking",
+        "contenido": "<p>Un vehículo articulado enfrenta fuerzas físicas severas.</p> <ul><li><strong>Off-Tracking (Desviación del rastro):</strong> Al girar en una esquina, las llantas del remolque siguen un camino <em>más corto</em> que las llantas del tractor. A esto se le llama off-tracking o 'arrastre'. Siempre debes girar abriéndote amplio para que el remolque no golpee la acera u otros autos.</li><li><strong>Efecto Látigo (Rearward Amplification):</strong> Al esquivar un obstáculo bruscamente, el remolque de atrás se 'latiguea' con mucha más violencia que la cabina, provocando volcaduras.</li><li><strong>Jackknife (Efecto Navaja):</strong> Si los frenos del tractor se bloquean, la cabina patina. Si los frenos del remolque se bloquean, el remolque patina de lado intentando 'adelantar' a la cabina (Jackknife del remolque). <strong>¿La solución en el examen?</strong> Deja de frenar INMEDIATAMENTE para que las llantas vuelvan a rodar y recuperar tracción.</li></ul>"
       },
       {
-        "subtitulo": "2. El efecto Navaja (Jackknife)",
-        "contenido": "Ocurre cuando las llantas del remolque se bloquean y patinan, haciendo que el remolque gire y empuje la cabina, doblando el camión como una navaja. Si tu remolque empieza a patinar hacia un lado, suelta el freno INMEDIATAMENTE para que las llantas vuelvan a girar y recuperen la tracción."
+        "subtitulo": "Unidad 2: Válvulas y Líneas de Aire del Remolque",
+        "contenido": "<p>Existen dos líneas de aire (mangueras) entre el tractor y el remolque conectadas por los <strong>Glad Hands</strong>.</p> <ul><li><strong>Línea Roja (Emergencia/Suministro):</strong> Controlada por la válvula roja del tablero. Llena los tanques del remolque y mantiene los frenos de resorte desactivados. Si esta línea se rompe manejando, la válvula de protección cerrará el escape y los frenos del remolque se activarán (emergencia).</li><li><strong>Línea Azul (Servicio):</strong> Solo lleva aire al remolque cuando pisas el pedal de freno de servicio o halas la Válvula Manual (Trolley valve/Hand valve).</li><li><strong>La Válvula Manual (Hand Valve):</strong> Sirve para frenar SOLO el remolque. El examen dice que <strong>NUNCA</strong> debes usarla en conducción normal ni en superficies mojadas o en bajadas, ya que aumenta drásticamente el riesgo de un Jackknife.</li></ul>"
       },
       {
-        "subtitulo": "3. Acoplamiento (Coupling)",
-        "contenido": "Asegúrate de que las mangueras de aire cruzadas estén bien conectadas a los 'Glad Hands' (roja para emergencia, azul para servicio). Al terminar de acoplar, debes meterte debajo del remolque con una linterna y verificar visualmente que las mordazas (jaws) de la Quinta Rueda hayan cerrado completamente alrededor de la cabeza del pivote (kingpin)."
+        "subtitulo": "Unidad 3: Acoplamiento (Coupling) Perfecto",
+        "contenido": "<p>Los pasos para enganchar la 'Quinta Rueda' (Fifth Wheel) y el perno (Kingpin) son críticos en el examen:</p> <ul><li><strong>Posicionamiento:</strong> El tractor debe retroceder exactamente derecho. La quinta rueda debe estar inclinada hacia atrás y debidamente lubricada (engrasada). El remolque debe estar a la altura correcta (ligeramente por debajo de la quinta rueda para que 'resbale' hacia arriba al entrar).</li><li><strong>Conexión de Aire:</strong> Antes de meterte debajo del remolque, conecta las mangueras a los Glad Hands y presiona la válvula roja para darle aire a los tanques del remolque. (Asegúrate de que la válvula de cierre de aire atrás del remolque esté cerrada).</li><li><strong>El Cierre:</strong> Tras enganchar, haz la 'Prueba de Tirón' (Tug Test) tirando suavemente hacia adelante en 1ra marcha. Luego, DEBES salir y mirar debajo. Las mordazas (Jaws) deben estar cerradas <strong>alrededor del CUELLO del Kingpin</strong>, no por encima de la cabeza, y no debe haber espacio entre la plataforma superior de la quinta rueda y la placa del remolque.</li><li><strong>Desacoplamiento:</strong> Siempre asegúrate de que el suelo soporte el peso del tren de aterrizaje (Landing gear) antes de bajarlo. Desconecta las líneas, saca el seguro de la quinta rueda, y adelanta el camión parcialmente hasta asegurar que el remolque queda firme.</li></ul>"
       }
     ]
   }

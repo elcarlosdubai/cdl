@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 export default function Home() {
   return (
     <div className="min-h-screen bg-black text-zinc-100 font-sans selection:bg-blue-500/30">
@@ -39,7 +41,7 @@ export default function Home() {
           </p>
           
           <div className="relative z-10 flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
-            <Link href="#tests" className="bg-white text-blue-900 px-8 py-3 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-lg">
+            <Link href="/test" className="bg-white text-blue-900 px-8 py-3 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-lg">
               Ir a los Tests
             </Link>
             <Link href="/lecturas" className="bg-transparent border-2 border-white text-white px-8 py-3 rounded-full font-bold text-lg hover:bg-white hover:text-black transition-colors duration-300">
@@ -83,7 +85,7 @@ export default function Home() {
               <p className="text-zinc-400 mb-8 flex-grow leading-relaxed">
                 Exámenes interactivos diseñados con la misma estructura que pide el DMV.
               </p>
-              <Link href="#tests" className="flex items-center gap-2 text-sm font-semibold text-emerald-400 group-hover:text-emerald-300 mt-auto">
+              <Link href="/test" className="flex items-center gap-2 text-sm font-semibold text-emerald-400 group-hover:text-emerald-300 mt-auto">
                 Practicar ahora <span className="transition-transform group-hover:translate-x-1">→</span>
               </Link>
             </div>

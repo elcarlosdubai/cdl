@@ -1,0 +1,652 @@
+[
+  {
+    "id": "general-254",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT A TYPE OF RETARDER?",
+    "opcionesEn": [
+      "ELECTRIC.",
+      "HYDRAULIC.",
+      "ROBOTIC."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-255",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE RIGS HAVE MORE CHANCES TO OFF-TRACK WHILE MAKING TURN?",
+    "opcionesEn": [
+      "TRIPLE WITH 45-FEET TRAILER.",
+      "TRACTOR WITH TWO 27-FEET TRAILERS.",
+      "53-FEET STRAIGHT TRUCK."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-256",
+    "moduloId": "general",
+    "preguntaEn": "ACCORDING TO THE DRIVER’S MANUAL, WHY SHOULD YOU LIMIT THE USE OF YOUR HORN?",
+    "opcionesEn": [
+      "IT CAN STARTLE OTHER DRIVERS.",
+      "ON VEHICLES WITH AIR BRAKES, IT CAN USE AIR PRESSURE THAT MAY BE NEEDED TO STOP.",
+      "YOU SHOULD KEEP A FIRM GRIP ON THE STEERING WHEEL WITH BOTH HANDS AT ALL TIMES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-257",
+    "moduloId": "general",
+    "preguntaEn": "YOU CAN SEE A MAKING ON A VEHICLE AHEAD OF YOU.THE MARKING IS A RED TRIANGLE WITH AN ORANGE CENTER. WHAT DOES THE MARKING MEAN?",
+    "opcionesEn": [
+      "IT MAY BE A SLOW-MOVING VEHICLE.",
+      "THE VEHICLE IS HAULING HAZARDOUS MATERIALS.",
+      "IT IS BEING DRIVEN BY A STUDENT DRIVER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-258",
+    "moduloId": "general",
+    "preguntaEn": "CAN STATE INSPECTORS INSPECT YOUR TRUCK OR BUS?",
+    "opcionesEn": [
+      "NO.",
+      "YES, BUT THEY CANNOT PUT IT OUT OF SERVICE.",
+      "YES, AND THEY CAN PUT IT OUT OF SERVICE IF IT IS UNSAFE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-259",
+    "moduloId": "general",
+    "preguntaEn": "A KEY PRINCIPLE TO REMEMBER ABOUT LOADINF CARGO IS TO KEEP THE LOAD:",
+    "opcionesEn": [
+      "TO THE FRONT.",
+      "TO THE REAR.",
+      "BALANCED IN THE CARGO AREA."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-260",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT COLD-WEATHER DRIVING IS TRUE?",
+    "opcionesEn": [
+      "AN ENGINE CANNOT OVERHEAT WHEN THE WEATHER IS VERY COLD.",
+      "WINDSHIELD WASHER ANTIFREEZE SHOULD BE USED.",
+      "EXHAUST SYSTEM LEAKS ARE LESS DANGEROUS IN COLD WEATHER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-261",
+    "moduloId": "general",
+    "preguntaEn": "WHEN IT IS NECESSARY TO LEARN HOW A FIRE EXTINGUISHER WORKS?",
+    "opcionesEn": [
+      "BEFORE A FIRE HAPPENS.",
+      "ONLY WHEN A FIRE HAPPENS.",
+      "ONLY WHEN YOU ARE TRANSPORTING FLAMABLE MATERIALS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-262",
+    "moduloId": "general",
+    "preguntaEn": "YOU MUST STOP ON A HILL OR CURVE ON A TWO-LANE TWO-WAY ROAD. HOW FAR SHOULD YOU PLACE REFLECTIVE TRIANGLES?",
+    "opcionesEn": [
+      "AS FAR BACK AS NECESSARY SO OTHERS CAN SEE YOU.",
+      "WITHIN 200 FEET BEHIND YOU.",
+      "WITHIN 500 FEET BEHIND YOU."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-263",
+    "moduloId": "general",
+    "preguntaEn": "THE SAFEST METHOD FOR USING IN-VEHICLE COMMUNICATION EQUIPMENT IS:",
+    "opcionesEn": [
+      "PRE-PROGRAM YOUR CELL PHONE.",
+      "USE A HANDS-FREE DEVICE SO BOTH HANDS REMAIN ON THE STEERING WHEEL.",
+      "PULL OFF THE ROAD IN A SAFE, LEGAL PLACE TO USE THE EQUIPMENT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-264",
+    "moduloId": "general",
+    "preguntaEn": "WHEN DRIVING THROUGH WORK ZONES, YOU SHOULD:",
+    "opcionesEn": [
+      "REDUCE YOUR SPEED ONLY IF WORKERS ARE CLOSE TO THE ROADWAY.",
+      "TURN ON YOUR PARKING LIGHTS.",
+      "WATCH FOR SHARP PAVEMENT DROP-OFFS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-265",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT DRUGS IS TRUE?",
+    "opcionesEn": [
+      "A DRIVER CAN USE ANY PRESCIPTION DRUG WHILE DRIVING.",
+      "AMPHETAMINES, (PEP PILLS OR BENNIES) CAN BE USED TO HELP THE DRIVER STAY ALERT.",
+      "THE USE OF DRUGS CAN LEAD TO AN ACCIDENT AND/OR ARREST."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-266",
+    "moduloId": "general",
+    "preguntaEn": "WHEN DRIVING IN COLD WEATHER, YOUR TIRE TREAD SHOULD:",
+    "opcionesEn": [
+      "PROVIDE ENOUGH TRACTION TO STEER AND PUSH THE VEHICLE THROUGH SNOW.",
+      "BE DOUBLE THE DEPTH REQUIRED IN NORMAL WEATHER.",
+      "BE CHECKED EVERY 100 MILES OR EVERY TWO HOURS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-267",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD ADJUST AND CHECK EACH MIRROR TO SHOW:",
+    "opcionesEn": [
+      "SOME PART OF THE VEHICLE IS SHOWING.",
+      "YOU CAN SEE YOUR ENTIRE VEHICLE.",
+      "YOU DO NOT HAVE BLIND SPOT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-269",
+    "moduloId": "general",
+    "preguntaEn": "THE TOTAL WEIGHT OF A POWERED UNIT, THE TRAILER, AND THE CARGO IS CALLED:",
+    "opcionesEn": [
+      "GROSS COMBINATION WEIGHT.",
+      "GROSS VEHICLE WEIGHT.",
+      "GROSS AXLE WEIGHT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-270",
+    "moduloId": "general",
+    "preguntaEn": "THE SPEED AT WHICH YOU DRIVE SHOULD BE DETERMINE BY:",
+    "opcionesEn": [
+      "YOUR SCHEDULE.",
+      "YOUR ENGINE TYPE.",
+      "YOUR VISIBILITY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-271",
+    "moduloId": "general",
+    "preguntaEn": "THE BEST DRIVERS ARE THOSE WHO WATCH AND PREPARE FOR HAZARD. THIS IS CALLED THE ________ DRIVING.",
+    "opcionesEn": [
+      "OFFENSIVE.",
+      "DEFENSIVE.",
+      "OBJECTIVE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-272",
+    "moduloId": "general",
+    "preguntaEn": "WHCICH OF THESE STATEMENTS ABOUT DRIVING IN AREAS WITH STRONG WIND IS TRUE?",
+    "opcionesEn": [
+      "YOU SHOULD DRIVE ALONSIDE OTHER VEHICLES TO HELP BREAK UP THE WIND.",
+      "THE LIGHTER YOUR VEHICLE, THE LESS TROUBLE YOU WILL HAVE WITH THE WIND.",
+      "WINDS ARE ESPECIALLY A PROBLEM WHEN COMING OUT OF TUNNELS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-273",
+    "moduloId": "general",
+    "preguntaEn": "WHAT KIND OF OPTIONAL EQUIPMENT (EXCEPT TIRE WRENCH) COULD BE IN YOUR VEHICLE?",
+    "opcionesEn": [
+      "FULLY CHARGED FIRE EXTINGUISHER.",
+      "SET OF WARNING DEVICE.",
+      "BATTERY CHARGER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-274",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT SHIPPING HAZARDOUS MATERIALS IS TRUE?",
+    "opcionesEn": [
+      "GAS CYLINDERS THAT WILL NOT HOLD A LABEL MUST BE SHIPPED UNDER COVER.",
+      "A DIAMOND-SHAPED HAZARDOUS MATERIALS LABEL MUST BE ON THE CONTAINER.",
+      "A CIRCULAR, RED HAZARDOUS MATERIAL LABEL MUST BE ON THE CONTAINER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-275",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT PRE-TRIP INSPECTION IS TRUE?",
+    "opcionesEn": [
+      "IF PARKED ON A STREET, YOU SHOULD WALK SO THAT YOU FACE AWAY FROM AN ONCOMING TRAFFIC.",
+      "LEAVE THE KEY IN THE IGNITION SO YOU DO NOT LOOSE IT WHILE YOU ARE UNDER THE TRUCK.",
+      "IF YOU NEED TO TILT THE CAB, SECURE LOOSE THINGS SO THEY DO NOT FALL AND BREAK ANYTHING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-276",
+    "moduloId": "general",
+    "preguntaEn": "TO DETERMINE BLOOD ALCOHOL CONCENTRATION (BAC) FOR A PERSON IT IS NECESSARY TO KNOW:",
+    "opcionesEn": [
+      "HOW OFTEN THE PERSON DRINKS ALCOHOL (TOLERANCE LEVEL).",
+      "HOW MUCH THE PERSON WEGHS.",
+      "HOW OLD THE PERSON IS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-277",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A LONG VEHICLE THAT MAKES WIDE TURNS. YOU WANT TO TURN LEFT FROM ONE STREET ONTO ANOTHER. BOTH ARE TWO-LANE TWO-WAY STREETS. YOU SHOULD:",
+    "opcionesEn": [
+      "BEGING TURNING YOUR VEHICLE AS SOON AS YOU ENTER THE INTERSECTION.",
+      "BEGING TURNING YOUR VEHICLE WHEN YOU ARE HALFWAY THROUGH INTERSECTION.",
+      "TURN INTO THE LEFT LANE OF POPLAR STREET AND THEN MOVE TO THE RIGHT LANE WHEN THE TRAFFIC IS CLEAR."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-278",
+    "moduloId": "general",
+    "preguntaEn": "WHICH STATEMENT IS TRUE ABOUT USING ENGINE BRAKING?",
+    "opcionesEn": [
+      "IT CREATES EXTRA HEAT BETWEEN THE BRAKE SHOES OR PADS AND DRUM(S) OR DISKS.",
+      "YOU SHOULD NOT USE ENGINE BREAKING AS THE MAIN WAY TO CONTROL SPEED.",
+      "THE USE OF BRAKES ON A DOWNGRADE ADDS TO THE BRAKING EFFECT OF THE ENGINE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-279",
+    "moduloId": "general",
+    "preguntaEn": "WHY IS IT IMPORTANT TO SHIFT GEARS CORRECTLY?",
+    "opcionesEn": [
+      "KEEP CONTROL OF THE VEHICLE.",
+      "KEEP THE ENGINE WARM.",
+      "KEEP THE ENGINE OIL FLOWING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-280",
+    "moduloId": "general",
+    "preguntaEn": "YOU MUST PARK ON THE SIDE OF A LEVEL, STRAIGHT, FOUR-LANE DIVIDED HIGHWAY. WHERE SHOULD YOU PLACE THE REFLECTIVE TRIANGLES?",
+    "opcionesEn": [
+      "ONE WITHIN 10 FEET OF THE REAR OF THE VEHICLE, ONE ABOUT 100 FEET TO THE REAR, AND ONE ABOUT 200 FEET TO THE REAR.",
+      "ONE WITHIN 10 FEET OF THE REAR OF THE VEHICLE, ONE ABOUT 100 FEET TO THE REAR, AND ONE ABOUT 100 FEET TO THE FRONT OF THE VEHICLE.",
+      "ONE WITHIN 10 FEET OF THE FRONT OF THE VEHICLE, ONE ABOUT 100 FEET TO THE REAR, AND ONE ABOUT 200 FEET TO THE REAR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-281",
+    "moduloId": "general",
+    "preguntaEn": "MEDICINE USED TO TREAT THE COMMON COLD:",
+    "opcionesEn": [
+      "SHOULD ONLY BE USED WHEN DRIVING AT DAYTIME.",
+      "OFTEN MAKES YOU SLEEPY AND THUS SHOULD NOT BE USED WHILE DRIVING.",
+      "CAN STILL BE USED WHILE DRIVING IF YOU ONLY TAKE HALF THE REGULAR DOSAGE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-282",
+    "moduloId": "general",
+    "preguntaEn": "HOW FAR SHOULD A DRIVER LOOK AHEAD OF THE VEHICLE WHILE DRIVING?",
+    "opcionesEn": [
+      "5-8 SECONDS.",
+      "12-15 SECONDS.",
+      "18-21 SECONDS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-283",
+    "moduloId": "general",
+    "preguntaEn": "A VEHICLE IS LOADED WITH VERY LITTLE WEIGHT ON THE DRIVE AXLE. WHAT MAY HAPPEN?",
+    "opcionesEn": [
+      "POOR TRACTION.",
+      "DAMAGE TO DRIVE AXLE TIRES.",
+      "BETTER HANDLING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-284",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE REQUIRED TO INSPECT YOUR TRUCK WITHIN HOW MANY MILES AFTER BEGINNING THE TRIP?",
+    "opcionesEn": [
+      "100.",
+      "150.",
+      "25."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-285",
+    "moduloId": "general",
+    "preguntaEn": "WHAT SHOULD YOU DO IF YOU ARE UNSURE WHETHER YOU HAVE ENOUGH OVERHEAD CLEARENCE?",
+    "opcionesEn": [
+      "SLOW DOWN SLIGHTLY AND TRY TO DRIVE UNDER THE OBJECT.",
+      "FIND ANOTHER ROUTE THAT WILL NOT REQUIRE DRIVING UNDER THE OBJECT.",
+      "ESTIMATE THE HEIGHT OF AN OVERHEAD OBJECT IF IT IS NOT POSTED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-286",
+    "moduloId": "general",
+    "preguntaEn": "THE SPACE_________ YOU VEHICLE IS THE MOST IMPORTANT TO MANAGE.",
+    "opcionesEn": [
+      "IN BACK OF.",
+      "IN FRONT OF.",
+      "TO THE SIDE OF."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-287",
+    "moduloId": "general",
+    "preguntaEn": "CONVEX (CURVED) MIRRORS:",
+    "opcionesEn": [
+      "MAKE OBJECTS APPEAR CLOSER THAN THEY REALLY ARE.",
+      "MAKE OBJECTS APPEAR LARGER THAN THEY REALLY ARE.",
+      "SHOW A WIDER AREA THAN FLAT MIRRORS SHOW."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-288",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD SIGNAL CONTINUOUSLY WHILE TURNING BECAUSE:",
+    "opcionesEn": [
+      "YOU NEED BOTH HANDS ON THE WHEEL TO TURN SAFELY.",
+      "IT IS ILLEGAL TO TURN OFF YOUR SIGNAL BEFORE COMPLETING THE TURN.",
+      "MOST VEHICLE HAVE SELF-CANCELING SIGNALS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-289",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT A DANGER WHEN AN AUTOMATIC TRANSMISSION IS FORCED INTO A LOW GEAR AT A HIGH SPEED?",
+    "opcionesEn": [
+      "DAMAGE TO THE TRANSMISSION.",
+      "LOSS OF ENGINE BRAKING EFFECT.",
+      "LOSS OF STEERING CONTROL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-290",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT REAR DRIVE WHEEL BRAKING SKIDS?",
+    "opcionesEn": [
+      "LOCKED WHEELS USUALLY HAVE MORE TRACTION THAN ROLLING WHEELS.",
+      "FRONT WHEELS SLIDE SIDEWAY TO TRY TO CATCH UP WITH THE REAR WHEELS.",
+      "ON A VEHICLE WITH A TRAILER THE TRAILER CAN PUSH THE TOWING VEHICLE SIDE WAYS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-291",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THIS IS TRUE ABOUT OTHER DRIVERS.",
+    "opcionesEn": [
+      "MAIL OR DELIVERY TRUCKS ARE PROFESSIONALS AND DO NOT POSE A HAZARD.",
+      "DRIVERS USING TURN SIGNALS CAN ALWAYS BE TRUSTED TO TURN IN THE DIRECTION THEY INDICATE.",
+      "SHORT-TERM OR DAILY RENTAL TRUCK DRIVERS ARE OFTEN NOT USED TO THE LIMITED VISION AND POSE THE HAZARD."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-292",
+    "moduloId": "general",
+    "preguntaEn": "IN THE EVENT OF A REAR TIRE FAILURE, DUAL REAR TIRE:",
+    "opcionesEn": [
+      "WILL USUALLY PRENT FISHTAIL.",
+      "MAY PREVENT VIBRATION OR THUMPING.",
+      "WILL ALLOW YOU TO BRAKE IMMEDIATELY."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-293",
+    "moduloId": "general",
+    "preguntaEn": "WHEN EXITING OR ENTERING ON A CURVED FREEWAY RAMP, YOU SHOULD:",
+    "opcionesEn": [
+      "MAINTAIN A SPEED 5-10 MPH UNDER THE POSTED SPEED LIMIT.",
+      "MAINTAIN THE POSTED SPEED LIMIT.",
+      "SLOW DOWN TO AT LEAST 50% OF THE POSTED SPEED LIMIT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-294",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS A GOOD THING TO DO WHEN STEERING TO AVOID CRASH?",
+    "opcionesEn": [
+      "APPLY THE BRAKES WHILE TURNING.",
+      "STEER WITH ONE HAND SO THAT YOU CAN TURN THE WHEEL MORE QUICKLY.",
+      "DON’T TURN ANYMORE THAN NEEDED TO CLEAR WHAT IS IN YOUR WAY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-295",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING IS A GOOD WAY TO REACT TO AN AGGRESSIVE DRIVER?",
+    "opcionesEn": [
+      "GIVE THE DRIVER THE BENEFIT OF THE DOUBT.",
+      "CHANGING THE CD OR HAVE A SNACK.",
+      "SMOKE A CIGARETTE TO RELAX."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-296",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE CHECKING YOUR BRAKES AND SUSPENSION SYSTEM FOR A PRE-TRIP INSPECTION. WHICH OF THESE STATEMENT IS TRUE?",
+    "opcionesEn": [
+      "JUST ONE MISSING LEAF SPRING IS NOT DANGEROUS.",
+      "SPRING HANGERS THAT ARE CRACKED BUT STILL TIGHT ARE NOT DANGEROUS.",
+      "BRAKE SHOES SHOULD NOT HAVE OIL, GREASE, OR BRAKE FLUID ON THEM."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-297",
+    "moduloId": "general",
+    "preguntaEn": "WHAT SHOULD YOU DO IF A CAR COMING TOWARD YOU AT NIGHT KEEPS ITS HIGH BEAMS ON?",
+    "opcionesEn": [
+      "FLASH YOU HIGH BEAMS QUICKLY AT THE OTHER DRIVER.",
+      "LOOK TO THE RIGHT LANE OR EDGE MARKINGS OF THE ROAD.",
+      "SLOW DOWN AND LOOK STRAIGHT AHEAD IN YOUR LANE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-298",
+    "moduloId": "general",
+    "preguntaEn": "IT IS UNSAFE TO OPERATE A VEHICLE WITH HOW MANY CRACKED, BROKEN OR MISSING SPRING LEAVES IN ANY LEAF SPRING:",
+    "opcionesEn": [
+      "ONE-THRID OF THE TOTAL NUMBER.",
+      "ONE-HALF OF THE TOTAL NUMBER.",
+      "ONE-FOURTH OF THE TOTAL NUMBER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-299",
+    "moduloId": "general",
+    "preguntaEn": "WHEN YOU ARE DRIVING ON GRADES, WHICH OF THESE IS THE BEST WAY TO CHOOSE A SAFE SPEED?",
+    "opcionesEn": [
+      "BASED ON YOUR VEHICLE AND ITS CARGO, SELECT A SAFE SPEED THAT IS WITHIN THE POSTED SPEED.",
+      "FOLLOW THE VEHICLE IN FRONT OF YOU.",
+      "IF YOU HAVE A LIGHT LOAD, YOU CAN GO FASTER THAN THOSE WITH A HEAVY LOAD."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-300",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING ABOUT ANTILOCK BRAKING SYSTEM IS TRUE?",
+    "opcionesEn": [
+      "ABS ALLOWS YOU TO DRIVE FASTER, FOLLOW MORE CLOSELY OR DRIVE LESS CAREFULLY.",
+      "ABS PREVENTS POWER OR TURNING SKIDS.",
+      "ABS CHANGES THE WAY YOU BRAKE IN AN EMERGENCY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-301",
+    "moduloId": "general",
+    "preguntaEn": "THE TREAD DEPTH ON A FRONT STEERING WHEELS TIRES SHOULD BE:",
+    "opcionesEn": [
+      "NOT LESS THAN 4/32 (FOUR THIRTY TWO) INCH.",
+      "MORE THAN 6/32 (SIX THIRTY TWO) INCH.",
+      "NOT LESS THAN 2/32 (TWO THIRTY TWO) INCH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-302",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE LIGHTS CANNOT BE CHECKED AT THE SAME TIME?",
+    "opcionesEn": [
+      "TURN SIGNALS, TAILLIGHTS, AND CLEARANCE LIGHTS.",
+      "TURN SIGNALS, BRAKE LIGHTS, AND FOUR-WAY FLASHERS.",
+      "HEADLIGHTS, BRAKE LIGHTS, AND CLEARANCE LIGHTS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-303",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE ACTIONS ARE NOT RECOMMENDED FOR A LEFT TURN?",
+    "opcionesEn": [
+      "START AT THE INSIDE LANE AND SWING RIGHT AS YOU TURN.",
+      "USE A RIGHT-HAND TURN LANE IF THERE ARE TWO TURNING LANES.",
+      "START YOUR TURN IN THE CENTER OF THE INTERSECTION."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-304",
+    "moduloId": "general",
+    "preguntaEn": "THE AMOUNT OF THE BRAKE PRESSURE YOU NEED TO STOP THE VEHICLE WILL DEPEND ON:",
+    "opcionesEn": [
+      "WETHER THE VEHICLE IS EQUIPEED WITH ANTILOCK BRAKES.",
+      "THE VEHICLE’S SPEED AND HOW QUICKLY YOU WANT TO STOP.",
+      "THE TYE OF BRAKE THE VEHICLE HAS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "general-3",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU HAVE BEEN DRINKING ALCOHOL, BEFORE YOU DRIVE, YOU SHOULD:",
+    "opcionesEn": [
+      "DRINK COFEE.",
+      "TAKE A COLD SHOWER.",
+      "WAIT FOR IT TO WEAR OFF."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-4",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOUL WEAR YOUR SEAT BELT IN A MOVING VEHICLE.",
+    "opcionesEn": [
+      "ONLY WHEN YOU ARE DRIVING.",
+      "ALL THE TIMES.",
+      "ONLY WHEN YOU ARE ON A HIGHWAY."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-5",
+    "moduloId": "general",
+    "preguntaEn": "YOU MAY GET HANG UP ON A RAILROAD TRACKS IF:",
+    "opcionesEn": [
+      "YOU TRY TO SHIFT GEARS WHEN CROSSING.",
+      "YOU CROSS THE DOUBLE TRACKS TOO SLOWLY.",
+      "THE TRACKS HAVE A STEEP APPROACH."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-6",
+    "moduloId": "general",
+    "preguntaEn": "YOU FEEL TIRED DURING LONG TRIP. TO STAY ALERT YOU SHOULD:",
+    "opcionesEn": [
+      "TAKE AN OVER-THE COUNTER STIMULANT.",
+      "STOP PERIODICALLY FOR REST AND EXERCISE.",
+      "KEEP THE VEHICLE CLOSED AND HEATED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-7",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A 40-FEET VEHICLE AT 55 MPH. THE ROAD IS DRY AND VISIBILITY IS GOOD. WHAT IS A LEAST AMOUNT OF SPACE THAT YOU NEED TO HAVE IN FRONT OF YOUR VEHICLE?",
+    "opcionesEn": [
+      "4 SECONDS.",
+      "5 SECONDS.",
+      "6 SECONDS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-8",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE APPROACHING A TRAFFIC LIGHT THAT HAS BEEN GREEN FOR A LONG TIME. WHAT IS THE BEST APPROACH?",
+    "opcionesEn": [
+      "CONTINUE AT YOUR CURRENT SPEED AND SEE IF THE LIGHT CHANGES.",
+      "ACCELERATE TO MAKE SURE YOU GET TROUGH THE LIGHT.",
+      "START SLOWING DOWN SO YOU WILL BE READY TO STOP."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-9",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING SYSTEMS SHOULD RECEIVE EXTRA ATTENTION DURING WINTER WEATHER INSPECTION?",
+    "opcionesEn": [
+      "SUSPENSION.",
+      "EXHAUST.",
+      "STEERING."
+    ],
+    "correctaIndex": -1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-10",
+    "moduloId": "general",
+    "preguntaEn": "EXTRA CARE IS NEEDED TO KEEP YOUR VEHICLE CENTERED IN YOUR LANE BECAUSE COMMERCIAL VEHICLES:",
+    "opcionesEn": [
+      "REQUIRE A LOT OF ROOM TO CHANGE LANE.",
+      "ARE OFTEN WIDER THAN OTHER VEHICLES.",
+      "TEND TO SWAY FROM TIME TO TIME."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-11",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU MUST CROSS INTO THE ONCOMING LINE AS YOU MAKE A TURN, YOU SHOULD:",
+    "opcionesEn": [
+      "WATCH FOR AN ONCOMING TRAFFIC.",
+      "BACK UP TO ALLOW THE ONCOMING TRAFFIC TO PASS.",
+      "COMPLETE YOUR TURN WITHOUT STOPPING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-12",
+    "moduloId": "general",
+    "preguntaEn": "DRIVERS OF TRUCKS AND TRACTORS-TRAILERS WITH CARGO MUST CHECK THAT THE CARGO WELL SECURED WITHIN THE FIRST________ MILES OF THE TRIP.",
+    "opcionesEn": [
+      "25.",
+      "10.",
+      "50."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-13",
+    "moduloId": "general",
+    "preguntaEn": "THE DISTANCE THAT YOU SHOULD LOOK AHEAD OF YOUR VEHICLE WHILE DRIVING AMOUNTS TO ABOUT______MILES AT NORMAL HIGHWAY SPEED.",
+    "opcionesEn": [
+      "ONE EIGHTH",
+      "ONE QUARTER",
+      "ONE HALF."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-14",
+    "moduloId": "general",
+    "preguntaEn": "SHOULD BRAKE ADJUSTMENT BE CHECKED OFTEN?",
+    "opcionesEn": [
+      "IT DEPENDS ON HOW NEW THE BRAKES ARE.",
+      "NO, BECAUSE THE OTHER BRAKES WILL MAKE UP FOR A BRAKE THAT IS OUT OF ADJUSTMENT.",
+      "YES, BECAUSE BRAKES CAN GET OUT OF ADJUSTMENT WHEN THEY ARE USED A LOT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-15",
+    "moduloId": "general",
+    "preguntaEn": "WHAT KEEPS AN ENGINE COOL IN A HOT WEATHER DRIVING?",
+    "opcionesEn": [
+      "ENOUGH ENGINE OIL LEVEL.",
+      "AIR CONDITIONER USE.",
+      "HIGH SPEED DRIVING IN ORDER TO PUT MORE AIR TO THE RADIATOR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-16",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE ITEMS IS NOT CHECKED FOR A PRE-TRIP INSPECTION?",
+    "opcionesEn": [
+      "WHATEVER ALL VEHICLE LIGHTS ARE WORKING AND ARE CLEAN.",
+      "AMOUNT OF FUEL IN THE VEHICLE.",
+      "CARGO SECUREMENT."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-17",
+    "moduloId": "general",
+    "preguntaEn": "YOU WILL BE PLACED OUT-OF-SERVICE FOR 24 HOURS IF YOUR BLOOD ALCOHOL CONCENTRATION (BAC) IS:",
+    "opcionesEn": [
+      "AT LEAST 0.02%.",
+      "AT LEAST 0.04%.",
+      "ANY DETECTABLE AMOUNT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-18",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE CHECKING YOUR BRAKES AND SUSPENSION SYSTEM FOR A PRE-TRIP INSPECTION.WHICH OF THESE STATEMENTS IS NOT TRUE?",
+    "opcionesEn": [
+      "BRAKE SHOES SHOULD HAVE BRAKE FLUID ON THEM.",
+      "ONE MISSING LEAF IN A LEAF SPRING CAN BE DANGEROUS.",
+      "A CRACKED DRUM SHOUL BE REPLACED."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-19",
+    "moduloId": "general",
+    "preguntaEn": "FATIGUE:",
+    "opcionesEn": [
+      "IT WILL GO AWAY BY ITSELF OVER PERIOD OF TIME.",
+      "IT CAN ONLY BE PAID OFF BY SLEEPING.",
+      "OVERCOME IT WITH WILLPOWER ABD NON-SLEEP AIDS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-20",
+    "moduloId": "general",
+    "preguntaEn": "OVER-WEIGHT OR OVER-SIZED LOADS:",
+    "opcionesEn": [
+      "CAN ONLY BE DRIVEN IN DAYLIGHT.",
+      "REQUIERE A SPECIAL TRANSIT PERMIT.",
+      "MUST BE SCORTED BY POLICE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-21",
+    "moduloId": "general",
+    "preguntaEn": "YOU VEHICLE’S OUTSIDE MIRRORS SHOULD BE ADJUSTED IN A WAY THAT:",
+    "opcionesEn": [
+      "YOU DO NOT HAVE A BLIND SPOT.",
+      "SOME PART OF THE VEHICLE IS SHOWING.",
+      "YOU CAN SEE YOUR ENTIRE VEHICLE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-22",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT REQUIRED KNOWLEDGE FOR DRIVERS NEEDING THE HAZARDOUS MATERIAL ENDORSEMENT?",
+    "opcionesEn": [
+      "BASIC CHEMESTRY.",
+      "WHICH PRODUCTS CAN BE LOADED TOGETHER.",
+      "WHEN TO USE THE PLACARDS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-23",
+    "moduloId": "general",
+    "preguntaEn": "IF YOUR VEHICLE GETS STUCK ON A RAISED RAILROAD-HIGHWAY CROSSING, YOU SHOULD:",
+    "opcionesEn": [
+      "USE REVERSE GEAR TO BACK UP OFF THE CROSSING.",
+      "GET OUT THE VEHICLE AND AWAY FROM THE TRACKS.",
+      "TURN OFF ALL YOUR LIGHTS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-24",
+    "moduloId": "general",
+    "preguntaEn": "YOUR VEHICLE WILL BE PUT OUT OF SERVICE IF________ OR MORE LEAVES IN ANY LEAF SPRING ARE MISSING.",
+    "opcionesEn": [
+      "ONE FOURTH (1/4).",
+      "ONE THIRD (1/3).",
+      "ONE-HALF (1/2)."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-25",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT DRIVING IN A TUNNEL?",
+    "opcionesEn": [
+      "EMERGENCY FLASHERS ARE REQUIRED BY LAW.",
+      "HEADLIGHTS ARE REQUIRED BY LAW.",
+      "THERE MAY BE STRONG WINDS WHEN EXITING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-26",
+    "moduloId": "general",
+    "preguntaEn": "THERE ARE TWO TYPES OF JACKKNIFES: THEY ARE",
+    "opcionesEn": [
+      "TRAILER.",
+      "TRACTOR.",
+      "BOTH A AND B."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-27",
+    "moduloId": "general",
+    "preguntaEn": "THE ROAD YOU ARE DRIVING ON BECOMES VERY SLIPPERY DUE TO THE GLARE ICE. WHICH OF THESE IS A GOOD THING TO DO IN SUCH A SITUATION?",
+    "opcionesEn": [
+      "STOP DRIVING AS SOON AS YOU CAN SAFELY DO SO.",
+      "DOWNSHIFT TO STOP.",
+      "KEEP VARYING YOUR SPEED BY ACCELERATING AND BRAKING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-28",
+    "moduloId": "general",
+    "preguntaEn": "IN YOUR MIRROR YOU SEE A CAR APPROACHING FROM THE REAR. THE NEXT TIME YOU CHECK YOUR MIRROR, YOU DO NOT SEE THE CAR. YOU WISH TO CHANGE THE LANE. YOU SHOULD:",
+    "opcionesEn": [
+      "WAIT TO CHANGE LANES UNTIL YOU ARE SURE THAT CAR ISN’T IN YOUR BLIND SPOT.",
+      "EASE INTO THE OTHER LANE VERY SLOWLY SO THE CAR CAN GET OUT OF THE WAY IF IT IS BESIDE YOU.",
+      "ASSUME THAT CAR LEFT THE ROAD AND CHANGE LANE AS NORMAL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-29",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT A GOOD RULE TO FOLLOW WHEN CARING FOR AN INJURED PERSON AT AN ACCIDENT SCENE?",
+    "opcionesEn": [
+      "IF A QUALIFIED PERSON IS HELPING THEM, STAY OUT OF THE WAY UNLESS ASKED TO ASSIST.",
+      "KEEP AN INJURED PERSONS COOL.",
+      "MOVE SEVERELY INJURED PERSON IF THERE IS A DANGER DUE TO FIRE OR PASSING TRAFFIC."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-30",
+    "moduloId": "general",
+    "preguntaEn": "IN MOUNTING DRIVING YOU WILL HAVE TO USE A LOWER GEARS TO DRIVE SAFELY ON A GRADE. WHICH OF THESE DOES NOT AFFECT YOUR CHOICE OF GEAR?",
+    "opcionesEn": [
+      "WEGHT OF THE LOAD.",
+      "TIRE TRAD TYPE.",
+      "LENGTH OF THE GRADE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-31",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT VEHICLE FIRE IS TRUE?",
+    "opcionesEn": [
+      "IF A CARGO VAN OR BOX TRAILER CATCHES ON FIRE, YOU SHOULD OPEN THE CARGO DOOR AS SOON AS YOU CAN.",
+      "IF YOUR ENGINE IS ON FIRE, YOU SHOULD OPEN THE HOOD AS SOON AS YOU CAN.",
+      "A BURNING TIRE SHOULD BE COOLED WITH WATER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-32",
+    "moduloId": "general",
+    "preguntaEn": "WHAT SHOULD YOU DO WHEN YOUR VEHICLE HYDROPLANES?",
+    "opcionesEn": [
+      "START STAB BRAKING.",
+      "RELEASE ACCELARATOR.",
+      "ACCELERATE SLIGHLTLY."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-33",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT INSPECTION OF THE SUSPENSION COMPONENTS IS TRUE?",
+    "opcionesEn": [
+      "DISTORTED COIL SPRING ARE SAFE AS LONG AS THEY ARE NOT BROKEN.",
+      "AXLE MOUNTS SHOULD BE CHECKED AT EACH POINT WHERE THEY ARE SECURED ON THE VEHICLE FRAME AND AXLE.",
+      "SUSPENSION COMPONENTS SHOULD BE CHECKED AT ALL AXLES, EXCEPT FOR THE POWER UNIT."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-34",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE STARTING YOUR VEHICLE IN MOTION FROM A STOP. AS YOU APPLY POWER TO THE DRIVE WHEELS, THEY START TO SPIN. YOU SHOULD:",
+    "opcionesEn": [
+      "TAKE YOU FOOT OFF THE ACCELERATOR.",
+      "TAKE YOUR FOOT OFF THE ACCELEARATOR AND APPLY THE BRAKES.",
+      "TRY A LOWER GEAR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-35",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU ARE CONVICTED FOR DRIVING UNDER THE INFLUENCE WHILE DRIVING A COMMERCIAL VEHICLE, AND THIS IS YOUR FIRST OFFENSE, YOU MUST LIKELY WILL GET:",
+    "opcionesEn": [
+      "A PROBATION PERIOD OF 1 YEAR.",
+      "AT LEAST ONE YEAR SUSPENSION OF YOUR CDL.",
+      "A FINE OF $250.00"
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-36",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE PIECES OF EMERGENCY EQUIPMENT SHOULD ALWAYS BE CARRIED IN YOUR VEHICLE?",
+    "opcionesEn": [
+      "CIRCUIT BREAKERS.",
+      "FIRST AID KIT.",
+      "WARNING DEVICES FOR PARKING VEHICLE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-37",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT ACCELERATION IS TRUE?",
+    "opcionesEn": [
+      "WHEN TRACTION IS POOR, MORE POWER SHOULD BE APPLIED TO THE ACCELERATOR.",
+      "ROUGH ACCELERATION CAN CAUSE MECHANICAL DAMAGE.",
+      "YOU SHOULD FEEL A ‘JERKING’ MOTION IF YOU ARE ACCELERATING YOUR VEHICLE PROPERLY."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-38",
+    "moduloId": "general",
+    "preguntaEn": "WHICH VEHICLE WILL HAVE THE MOST DIFFICULTY STAYING IN ITS LANE DURING STRONG WINDS?",
+    "opcionesEn": [
+      "A DOUBLE WITH AN EMPTY TRAILERS.",
+      "A TRACTOR PULLING A LOADED FLATBED TRAILER.",
+      "A TRIPLE AXLE VEHICLE WITH CARGO."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-39",
+    "moduloId": "general",
+    "preguntaEn": "WHEN YOU ARE PARKED AT THE SIDE OF THE ROAD AT NIGHT, YOU MUST:",
+    "opcionesEn": [
+      "TURN ON YOUR 4 WAY EMERGENCY FLASHERS TO WARN OTHERS.",
+      "PUT OUT YOUR EMERGENCY WARNING LIGHTS WITHIN 30 MINUTES.",
+      "USE YOUR TAILLIGHTS TO GIVE WARNING TO OTHER DRIVERS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-40",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS A GOOD THING TO REMEMBER ABOUT DRINKING ALCOHOL?",
+    "opcionesEn": [
+      "THE DRIVER CAN CONTROL HOW FAST THE BODY GETS RID OF ALCOHOL.",
+      "SMALL QUANTITIES OF ALCOHOL IMPROVE REACTION TIME.",
+      "ALCOHOL FIRST AFFECT JUDGMENT AND SELF-CONTROL, WHICH ARE NECESSARY FOR SAFE DRIVING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-41",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A LONG VEHICLE THAT MAKES WIDE TURNS. YOU WANT TO MAKE A LEFT TURN FROM OCEAN STREET ONTO ATLANTIC STREET. THERE ARE TWO LEFT TURN LANES: INSIDE LANE (FIRST FROM THE LEFT) AND OUTSIDE (SECOND FROM THE LEFT) LANE. YOU SHOU[LD:",
+    "opcionesEn": [
+      "USE INSIDE TURN LANE (FIRST FROM THE LEFT).",
+      "USE OUTSIDE TURN LANE (SECOND FROM THE LEFT).",
+      "START FROM INSIDE LEFT TURN LANE AND SWING ONTO OUTSIDE LEFT TURN LANE JUST BEFORE ENTERING THE INTERSECTION."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-42",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENT ABOUT SPEED MANAGEMENT IS TRUE",
+    "opcionesEn": [
+      "EMPTY TRUCKS ALWAYS STOP IN A SHORTER DISTANCE THAN FULLY LOADED ONES.",
+      "WHEN YOU DOUBLE YOUR SPEED (GO TWICE AS FAST), IT WILL TAKE TWICE THE DISTANCE TO STOP.",
+      "YOU SHOULD CHOOSE A SPEED THAT LETS YOU STOP WITHIN THE DISTANCE THAT YOU CAN SEE AHEAD."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-43",
+    "moduloId": "general",
+    "preguntaEn": "YOU WISH TO TURN RIGHT FROM ONE TWO LANE, TWO WAY STREET TO ANOTHER. YOUR VEHICLE IS SO LONG THAT YOU MUST SWING WIDE TO MAKE THE TURN. WHICH OF THESE FIGURES SHOWS HOW THE TURN SHOULD BE MADE?",
+    "opcionesEn": [
+      "FIGURE A.",
+      "FIGURE B.",
+      "FIGURE C."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-44",
+    "moduloId": "general",
+    "preguntaEn": "CONTAINERIZED LOADS:",
+    "opcionesEn": [
+      "ARE NOT REQUIRED TO BE INSPECTED BY A DRIVER",
+      "SHOULD BE SUPPLIED WITH THEIR OWN TIEDOWN DEVICES OR LOCKS.",
+      "GENERALLY ARE USED WHEN FREIGHT IS CARRIED PART WAY BY RAIL OR SHIP."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-45",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING IN A STEADY RAIN. A GOOD INDICATION THAT HYDROPLANING OCCUR IS WHEN:",
+    "opcionesEn": [
+      "THE ROADWAY SURFACE IS NEW.",
+      "THE VEHICLE IN FRONT OF YOU CREATES WATER SPLASHES.",
+      "YOU CANNOT SEE RAINDROPS ON THE ROADWAY SURFACES."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-46",
+    "moduloId": "general",
+    "preguntaEn": "IF YOUR BRAKES FAIL ON A DOWNGRADE, YOU MUST FIRST:",
+    "opcionesEn": [
+      "LOOK OUTSIDE YOUR VEHICLE FOR ANOTHER MEANS OF SLOWING IT.",
+      "HIT SOME OBJECT IN ORDER TO STOP YOUR VEHICLE.",
+      "WAIT UNTIL YOU FIND AN ESCAPE RAMP TO EXIT THE ROADWAY."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-47",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT DOUBLE-CLUTCHING AND SHIFTING IS TRUE?",
+    "opcionesEn": [
+      "YOU CAN USE THE TACHOMETER TO TELL YOU WHEN TO SHIFT.",
+      "DOUBLE-CLUTCHING SHOULD NOT BE USED WHEN THE ROAD IS SLIPPERY.",
+      "DOUBLE-CLUTCHING SHOULD ONLY BE USED WITH A HEAVY LOAD."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-48",
+    "moduloId": "general",
+    "preguntaEn": "WHEN YOU ARE STARTING TO MOVE UP A HILL FROM A STOP:",
+    "opcionesEn": [
+      "RELEASE THE PARKING BRAKES AS YOU APPLY ENGINE POWER.",
+      "ENGAGE THE CLUTCH AND ACCELERATE QUICKLY.",
+      "KEEP THE TRAILER BRAKE HAND VALVE APPLIED UNTIL YOU REACH 20 MPH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-49",
+    "moduloId": "general",
+    "preguntaEn": "WHEN DRIVING A COMMERCIAL VEHICLE WITH A HEIGHT OVER 13 FEET, YOU SHOULD:",
+    "opcionesEn": [
+      "NOT WORRY ABOUT HEIGHT CLEARENCE AS LONG AS YOU STAY ON STATE OR FEDERAL HIGHWAYS.",
+      "ASSUME ALL CLEARENCE ARE HIGH ENOUGH.",
+      "STOP AND MAKE SURE THAT A CLEARENCE IS HIGH ENOUGH."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-50",
+    "moduloId": "general",
+    "preguntaEn": "THE DISTANCE THAT YOU SHOULD LOOK AHEAD OF YOUR VEHICLE WHILE DRIVING IS ABOUT_______ AT LOW SPEED.",
+    "opcionesEn": [
+      "ONE BLOCK.",
+      "TWO BLOCKS.",
+      "HALF BLOCK."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-51",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU HAVE A HEAVY LOAD THAT IS SLOWING YOU DOWN ON AN UPGRADE YOU SHOULD:",
+    "opcionesEn": [
+      "SHIFT INTO LOWER GEAR.",
+      "EXIT THE ROAD UNTIL TRAFFIC IS LIGHTER.",
+      "DRIVE ON THE SHOULDER SO OTHERS CAN PASS EASILY."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-52",
+    "moduloId": "general",
+    "preguntaEn": "WHEN STOPPED ON A ONE WAY OR DIVIDED HIGHWAY, YOU SHOULD PLACE THE REFLECTIVE TRIANGLES AT:",
+    "opcionesEn": [
+      "10 FEET, 100 FEET, AND 500 FEET TOWARD APPROACHING TRAFFIC.",
+      "10 FEET, 100 FEET, AND 200 FEET TOWARD APPROACHING TRAFFIC.",
+      "10 FEET, 100 FEET, AND 100 FEET TOWARD APPROACHING TRAFFIC."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  }
+]

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "general-204",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING IS NOT A CHARACTERISTIC OF A FRONT TIRE FAILURE?",
+    "opcionesEn": [
+      "VEHICLE FISHTAIL.",
+      "STEERING WHEEL TWISTING.",
+      "DIFFICULT STEERING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "El coleteo (fishtailing) es característico de una falla en las llantas traseras, no en las delanteras. Una falla frontal suele causar que el volante se tuerza o se dificulte la dirección.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-205",
+    "moduloId": "general",
+    "preguntaEn": "THERE ARE SEVERAL THINGS TO DO WHEN DRIVING THROUGH A HIGHWAY WORK ZONE. IN ADDITION TO OBEYING THE SPEED LIMIT, WHICH OF THESE SHOULD YOU ALSO DO?",
+    "opcionesEn": [
+      "TURN OFF YOUR 4 WAY FLASHERS.",
+      "DECREASE YOUR SPEED EVEN FURTHER FOR ADVERSE WEATHER.",
+      "ADJUST YOUR SPEED TO TRAFFIC."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "En zonas de trabajo, además de obedecer el límite, debes reducir aún más tu velocidad si el clima es adverso para mantener el control y reaccionar a tiempo.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-206",
+    "moduloId": "general",
+    "preguntaEn": "YOUR VEHICLE IS IN A TRAFFIC EMERGENCY AND MAY COLLIDE WITH ANOTHER VEHICLE IF YOU DO NOT TAKE ACTION. WHICH OF THESE IS A GOOD RULE TO REMEMBER AT SUCH A TIME?",
+    "opcionesEn": [
+      "YOU CAN ALMOST ALWAYS TURN TO MISS AN OBSTACLE MORE QUICKLY THAN YOU CAN STOP.",
+      "STOPPING IS ALWAYS THE SAFEST ACTION IN A TRAFFIC EMERGENCY.",
+      "LEAVING THE ROAD IS ALWAYS MORE RISKY THAN HITTING ANOTHER VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "A altas velocidades, girar bruscamente para esquivar un obstáculo suele ser más rápido que intentar detener por completo un vehículo pesado.",
+    "unidadId": 2
+  },
+  {
+    "id": "general-207",
+    "moduloId": "general",
+    "preguntaEn": "WHENEVER YOU DOUBLE YOUR SPEED, IT TAKES ABOUT_______ TIME AS MUCH DISTANCE TO STOP.",
+    "opcionesEn": [
+      "TWO.",
+      "THREE.",
+      "FOUR."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "La distancia de frenado aumenta al cuadrado de la velocidad. Si duplicas la velocidad, necesitarás unas cuatro veces más distancia para detenerte.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-208",
+    "moduloId": "general",
+    "preguntaEn": "HOW CAN YOU IDENTIFY A DISTRACTED DRIVER?",
+    "opcionesEn": [
+      "THE VEHICLE IS DRIFTING ACROSS LINES AND MOVING AT VARIABLE SPEEDS.",
+      "THE VEHICLE IS WEAVING IN AND OUT OF TRAFFIC.",
+      "THE VEHICLE IS SPEEDING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Un conductor distraído no mantiene una trayectoria recta y varía su velocidad sin razón, ya que su atención no está en la carretera.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-209",
+    "moduloId": "general",
+    "preguntaEn": "SOMETIMES YOU NEED TO LEAVE A ROAD TO AVOID A HAZARD OR EMERGENCY. WHEN YOU DO SO YOU SHOULD KEEP IN MIND, THAT:",
+    "opcionesEn": [
+      "MOST SHOULDERS ARE NOT STRONG ENOUGH TO SUPPORT A HEAVY VEHICLE.",
+      "YOU MIGHT BE UNABLE TO RE- ENTER THE ROAD BECAUSE OF THE GRAVEL USED ON SHOULDERS.",
+      "IT IS LESS DANGEROUS TO DRIVE ONTO THE SHOULDERS THAN TO MAKE A COLLISION."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Aunque las banquinas o arcenes pueden ser inestables, salir del camino es siempre preferible a chocar contra otro vehículo y arriesgar vidas.",
+    "unidadId": 2
+  },
+  {
+    "id": "general-210",
+    "moduloId": "general",
+    "preguntaEn": "CARGO INSPECTION:",
+    "opcionesEn": [
+      "IS MOST OFTEN NOT THE RESPONSIBILITY OF THE DRIVER.",
+      "SHOULD BE PERFORMED AFTER EVERY BREAK YOU TAKE WHILE DRIVING.",
+      "ARE NEEDED ONLY IF HAZARDOUS MATERIALS BEING HAULED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "La carga debe inspeccionarse en cada parada o descanso para asegurar que no se haya soltado o desbalanceado durante el viaje.",
+    "unidadId": 6
+  },
+  {
+    "id": "general-211",
+    "moduloId": "general",
+    "preguntaEn": "BRAKE DRUMS (OR DISCS) MUST NOT HAVE CRACKS LONGER THAN _______ THE WIDTH OF THE FRICTION AREA.",
+    "opcionesEn": [
+      "ONE-HALF (1/2).",
+      "ONE-THRID (1/3).",
+      "ONE TENTH(1/10)."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Las grietas no deben exceder la mitad (1/2) del ancho del área de fricción, ya que podrían provocar una falla catastrófica de los frenos.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-212",
+    "moduloId": "general",
+    "preguntaEn": "RETARDERS:",
+    "opcionesEn": [
+      "CAN CAUSE THE DRIVER WHEELS TO SKID WHEN THEY HAVE POOR TRACTION.",
+      "ALLOW YOU TO DISCONNECT THE STEERING AXLE BRAKES.",
+      "CANNOT BE USED ON INTERSTATE HIGHWAYS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Los retardadores aplican fuerza de frenado a las ruedas motrices, lo que puede causar un derrape si la tracción de la carretera es pobre, como en lluvia o nieve.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-213",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT STAYING ALERT TO DRIVE IS TRUE?",
+    "opcionesEn": [
+      "A HALF-HOUR BREAK FOR COFEE WILL DO MORE TO KEEP YOU ALERT THAN A HAFL-HOUR NAP.",
+      "IF YOU MUST STOP TO TAKE A NAP, IT SHOULD BE AT A TRUCK STOP OR OTHER REST AREA, NEVER ON THE SIDE OF THE ROAD.",
+      "SLEEP IS THE ONLY THING THAT CAN OVERCOME FATIGUE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Ni el café ni el aire fresco pueden curar el cansancio real. Dormir es la única manera efectiva y segura de superar la fatiga.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-214",
+    "moduloId": "general",
+    "preguntaEn": "THE PRIMARY CAUSE OF FATAL CRASHES IS:",
+    "opcionesEn": [
+      "DRIVING AT NIGHT.",
+      "DRIVING WHILE EATING.",
+      "DRIVING TOO FAST."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Conducir demasiado rápido para las condiciones es la causa principal de choques fatales, ya que reduce el tiempo de reacción y aumenta la fuerza del impacto.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-215",
+    "moduloId": "general",
+    "preguntaEn": "YOU WISH TO TURN RIGHT FROM ONE TWO-LANE, TWO WAY STREET TO ANOTHER. YOUR VEHICLE IS SO LONG THAT YOU MUS SWING WIDE TO MAKE THE TURN.",
+    "opcionesEn": [
+      "YOU SHOULD SWING WIDE WHEN YOU BEGIN THE TURN.",
+      "YOU SHOULD SWING WIDE WHEN YOU COMPLETE THE TURN.",
+      "YOU SHOULD NOT MAKE A TURN. DRIVE STRAIGHT TO THE APROPPIATE INTERSECTION."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Debes abrirte (swing wide) al completar el giro, manteniendo tu vehículo cerca del bordillo al inicio para evitar que otros autos pasen por tu derecha.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-216",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT A DANGER OF A ROUGH ACCELERATION?",
+    "opcionesEn": [
+      "MECHANICAL DAMAGE.",
+      "TIRE DAMAGE.",
+      "DAMAGE TO COUPLING."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Una aceleración brusca puede dañar los acoples o partes mecánicas, pero generalmente no es la causa directa de daños en los neumáticos.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-217",
+    "moduloId": "general",
+    "preguntaEn": "WHEN STARTING A BUS ON A LEVEL SURFACE WITH GOOD TRACTION THERE IS OFTEN NO NEED FOR:",
+    "opcionesEn": [
+      "A TIRE CHECK.",
+      "THE PACKING BRAKE.",
+      "SLOW ACCELERATION."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "En una superficie plana y con buena tracción, no es necesario usar el freno de estacionamiento para ayudar a iniciar la marcha sin rodar hacia atrás.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-218",
+    "moduloId": "general",
+    "preguntaEn": "YOU WILL KNOW IF THE VEHICLE YOU ARE DRIVING IS EQUIPPED WITH ABS BRAKES BY:",
+    "opcionesEn": [
+      "RED INDICATOR LAMPS ON THE BRAKE CYLINDERS.",
+      "THE CERTIFICATION ON THE DRIVER-SIDE-DOOR.",
+      "WHEN YOU TURN ON TH IGNITION, YELLOW ABS MALFUNCTION LAMPS LIGHT UP ON THE INSTRUMENT PANEL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Al encender el vehículo, las luces amarillas indicadoras de mal funcionamiento del ABS se iluminarán temporalmente en el panel de instrumentos si está equipado.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-219",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU MUST STOP INTO THE ONCOMING LANE AS YOU MAKE A TURN, YOU SHOULD:",
+    "opcionesEn": [
+      "WATCH FOR AN ONCOMING TRAFFIC.",
+      "COMPLETE YOUR TURN WITHOUT STOPPING.",
+      "BACK UP TO ALLOW THE ONCOMING TRAFFIC TO PASS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Si necesitas invadir el carril contrario al girar, es crucial observar y ceder el paso al tráfico que se aproxima para evitar colisiones frontales.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-220",
+    "moduloId": "general",
+    "preguntaEn": "TO CORRECT A DRIVE WHEEL BRAKING SKID, YOU SHOULD:",
+    "opcionesEn": [
+      "STOP BRAKING.",
+      "STOP BRAKING, TURN QUICKLY, AND COUNTERSTEER.",
+      "INCREASE BREAKING, TURN QUICKLY, AND COUNTERSTEER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Para recuperar el control durante un derrape de las ruedas motrices, debes soltar el freno, girar en la dirección del derrape y luego contra-volantear.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-221",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD AVOID DRIVING THROUGH DEEP PUDDLES OR FLOWING WATER. BUT IF YOU MUST, WHICH OF THESE STEPS CAN HELP TO KEEP YOUR BRAKES WORKING.",
+    "opcionesEn": [
+      "GENTLY PUTTING ON THE BRAKES WHILE DRIVING THROUGH THE WATER.",
+      "APPLYING HARD PRESSURE ON BOTH THE BRAKE PEDAL AND ACCELETATOR AFTER COMING OUT OF THE WATER.",
+      "TURNING ON YOUR BRAKE HEATERS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Aplicar una ligera presión en los frenos mientras pasas por el agua genera calor y fricción, lo que ayuda a evitar que los frenos se mojen y fallen.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-222",
+    "moduloId": "general",
+    "preguntaEn": "WHICH MAY BE A SIGN OF TIRE FAILURE?",
+    "opcionesEn": [
+      "WHEELS SKIDDING.",
+      "A LOUD HISSING NOISE.",
+      "VIBRATION."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Una vibración fuerte y repentina en el volante o en el vehículo es una clara señal de advertencia de que una llanta podría estar fallando.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-223",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A HEAVY VEHICLE WITH A MANUAL TRANSMISSION. YOU HAVE TO STOP THE VEHICLE ON THE SHOULDER WHILE DRIVING ON AN UPHILL GRADE. WHICH OF THESE IS A GOOD RULE TO FOLLOW WHEN PUTTING IT BACK IN MOTION UP THE GRADE?",
+    "opcionesEn": [
+      "KEEP THE CLUTCH SLIPPING WHILE SLOWLY ACCELERATING.",
+      "USE THE PARKING BRAKE TO HOLD THE VEHICLE UNTIL THE CLUTCH ENGAGES.",
+      "LET THE VEHICLE ROLL BACKWARDS A FEW FEET BEFORE YOU ENGAGE THE CLUTCH, BUT TURN THE WHEEL SO THAT BACK MOVES AWAY FROM THE ROADWAY."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Usar el freno de estacionamiento previene que el vehículo ruede hacia atrás en una pendiente mientras el embrague se acopla, asegurando un arranque seguro.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-224",
+    "moduloId": "general",
+    "preguntaEn": "STAB BRAKING SHOULD NOT BE USED ON VEHICLE WITH:",
+    "opcionesEn": [
+      "TRAILERS.",
+      "HAZARDOUS MATERIALS.",
+      "ANTI-LOCK BRAKES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "El frenado intermitente (stab braking) no es necesario y no debe usarse en vehículos con frenos antibloqueo (ABS), ya que el sistema lo hace automáticamente por ti.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-225",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A 40-FOOT VEHICLE AT 35 MPH. THE ROAD IS DRY AND VISIBILITY IS GOOD. WHAT IS THE LEAST AMOUNT OF SPACE THAT YOU SHOULD KEEP IN FRONT OF YOUR VEHICLE TO BE SAFE:",
+    "opcionesEn": [
+      "3 SECONDS.",
+      "4 SECONDS.",
+      "5 SECONDS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "La regla general es 1 segundo por cada 10 pies de longitud del vehículo si vas a menos de 40 mph. Para un vehículo de 40 pies, necesitas 4 segundos de distancia.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-226",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT A PROPER USE OF VEHICLE LIGHTS?",
+    "opcionesEn": [
+      "TURNING ON YOUR HEADLIGHTS DURING THE DAY WHEN VISIBILITY IS REDUCED DUE TO RAIN OR SNOW.",
+      "FLASHING YOUR BRAKE LIGHTS TO WARN SOMEONE BEHIND YOU THAT ARE SLOWING DOWN.",
+      "FLASHING YOUR BRAKE LIGHT TO GET SOMEONE OFF YOUR TRAIL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Parpadear las luces de freno para alejar a alguien que te sigue de cerca es peligroso y puede causar confusión o provocar un accidente.",
+    "unidadId": 4
+  },
+  {
+    "id": "general-227",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS A DANGER OF CROSSING RAILROAD TRACKS ON DIRT ROADS?",
+    "opcionesEn": [
+      "THE GROUND UNDERNEATH THE TRACKS MAY NOT BE STABLE.",
+      "YOU COULD GET HUNG UP HALFWAY ACROSS THE TRACKS.",
+      "YOU TIRES COULD SINK INTO THE DIRT AND NOT CROSS THE TRUCKS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Los caminos de tierra irregulares pueden hacer que el chasis de tu remolque se atasque o enganche (hang up) en las vías elevadas del tren.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-228",
+    "moduloId": "general",
+    "preguntaEn": "HOW MUCH SPACE IN FRONT OF YOU IS NEEDED WHILE DRIVING ON A HIGHWAY?",
+    "opcionesEn": [
+      "1 SECOND FOR EACH 10 FEET OF VEHICLE LENGTH.",
+      "1 SECOND FOR EACH 20 FEET OF VEHICLE LENGTH.",
+      "1 SECOND FOR EACH 30 FEET OF VEHICLE LENGTH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Debes mantener al menos 1 segundo de distancia por cada 10 pies de longitud de tu vehículo, añadiendo un segundo más si viajas a más de 40 mph.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-229",
+    "moduloId": "general",
+    "preguntaEn": "TRUCKS AND BUSES ARE SUBJECTS OF CERTAIN LAWS, REGULATIONS AND RESTRICTIONS. WHICH OF THESE STATEMENTS IS TRUE?",
+    "opcionesEn": [
+      "COUNTY AND CITY LAWS DO NOT APPLY TO TRUCKS AND BUSES ENGAGED IN INTERSTATE COMMERCE.",
+      "FEDERAL REGULATIONS APPLY ONLY TO TRUCKS AND BUSES DRIVEN AT LEAST 50 MILES ON A TRIP.",
+      "LAWS AND RESTRICTIONS CAN VARY FROM PLACE TO PLACE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Las leyes de peso, dimensiones y límites de velocidad para vehículos comerciales cambian frecuentemente dependiendo de la ciudad, condado o estado en el que conduzcas.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-230",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT ENGINE OVERHEATING IS TRUE?",
+    "opcionesEn": [
+      "YOU SHOULD NEVER SHUT OFF AN OVERHEATED ENGINE UNTIL IT COOLS.",
+      "YOU SHOUL NEVER REMOVE THE RADIATOR CAP ON A PRESSURIZED SYSTEM UNTIL THE SYSTEM IS COOLED.",
+      "ANTIFREEZE IS NOT NEEDED WHEN THE WEATHER IS WARM."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Quitar la tapa del radiador en un motor caliente y presurizado causará que el agua hirviendo y el vapor salgan a presión, provocando quemaduras graves.",
+    "unidadId": 1
+  },
+  {
+    "id": "general-231",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS IS TRUE ABOUT USING ENGINE BRAKE?",
+    "opcionesEn": [
+      "YOU SHOULD USE THE ENGINE BRAKES AS A MAIN WAY TO CONTROL YOUR SPEED.",
+      "INCREASING USE OF THE ENGINE BRAKE PREVENTS EXTRA FRICTION BETWEEN THE BRAKE SHOES APART OF THE DRUM.",
+      "THE USE OF THE BRAKE ON A DOWNGRADE ADD TO THE BRAKING EFFECT OF THE ENGINE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "El frenado del motor debe ser tu principal forma de controlar la velocidad en bajadas; los frenos de servicio solo deben usarse como un complemento para no sobrecalentarlos.",
+    "unidadId": 5
+  },
+  {
+    "id": "general-232",
+    "moduloId": "general",
+    "preguntaEn": "A FULL STOP IS REQUIRED AT A RAILROAD CROSSING WHEN:",
+    "opcionesEn": [
+      "THERE ARE NO FLAGMEN, WARNING SIGNALS, OR GATES AT THE CROSSING.",
+      "THE NATURE OF THE CARGO MAKES A STOP MANDATORY UNDER STATE OR FEDERAL REGULATIONS.",
+      "THE CROSSING IS LOCATED IN A CITY OR TOWN WITH FREQUENT TRAIN TRAFFIC."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Ciertos tipos de carga, como materiales peligrosos o el transporte de pasajeros, requieren por ley que el vehículo se detenga completamente antes de cualquier cruce ferroviario.",
+    "unidadId": 2
+  },
+  {
+    "id": "general-233",
+    "moduloId": "general",
+    "preguntaEn": "CONTROLLED BRAKING:",
+    "opcionesEn": [
+      "CAN BE USED WHEN YOU ARE TURNING SHARPLY.",
+      "INVOLVES LOCKING THE WHEELS FOR A SHORT PERIOD OF TIME.",
+      "IS USED TO KEEP A VEHICLE IN A STRAIGHT LINE WHEN BRAKING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "El frenado controlado implica aplicar los frenos tan fuerte como sea posible sin bloquear las ruedas, manteniendo el control y la dirección del vehículo.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-234",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE REGARDING THE USE OF DRUGS WHILE DRIVING?",
+    "opcionesEn": [
+      "NO PRESCRIPTION OR NON-PRESCRIPTION DRUGS ARE ALLOWED AT ANY TIME WHEN YOU DRIVING.",
+      "USE OF AMPHETAMINES LIKE ‘’SPEED’’ IS ALLOWED IF YOU ARE USING THIS DRUG TO STAY ALERT.",
+      "PRESCRIPTION DRUGS ARE ALLOWED IF A DOCTOR SAYS THE DRUGS WILL NOT AFFECT THE DRIVING ABILITY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Solo se permiten medicamentos recetados si el médico te ha asegurado específicamente que no afectarán tu capacidad para operar un vehículo comercial con seguridad.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-235",
+    "moduloId": "general",
+    "preguntaEn": "WHERE SHOULD THE IGNITION KEY BE DURING THE TRIP INSPECTION?",
+    "opcionesEn": [
+      "IN YOUR POCKET.",
+      "IN THE IGNITION.",
+      "ON THE DRIVER SEAT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Llevar la llave contigo evita que otra persona encienda el motor accidentalmente mientras estás inspeccionando debajo o alrededor del vehículo.",
+    "unidadId": 7
+  },
+  {
+    "id": "general-236",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING CAN KEEP YOU FROM BEING DISTRACTED WHILE YOU DRIVE?",
+    "opcionesEn": [
+      "TRY TO USE COMMUNICATION DEVICES ONLY IN LIGHT TRAFFIC.",
+      "CONSTANTLY REVIEW YOUR MAPS AND YOUR ROUTE PLAN AS YOU DRIVE.",
+      "PRE-LOAD YOUR FAVORITE CDs OR CASSETTE TAPES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Preparar tu música o entretenimiento antes de ponerte en marcha evita que tengas que apartar las manos y la vista del camino mientras conduces.",
+    "unidadId": 4
+  },
+  {
+    "id": "general-237",
+    "moduloId": "general",
+    "preguntaEn": "A HAZARD:",
+    "opcionesEn": [
+      "IS ANY ROAD CONDITION OR OTHER ROAD USER THAT IS POSSIBLE DANGER.",
+      "CANNOT TURN INTO EMERGENCY.",
+      "DOES NOT NEED TO BE SEEN."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Un peligro o \"hazard\" es cualquier situación, objeto o usuario de la vía que podría convertirse en una emergencia, por lo que debes anticiparlo.",
+    "unidadId": 2
+  },
+  {
+    "id": "general-238",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENT ABOUT USING TURN SIGNALS IS TRUE?",
+    "opcionesEn": [
+      "YOU DO NOT NEED TO USE YOUR TURN SIGNAL WHEN CHANGING LANES IN TRAFFIC ON A FOUR-LANE HIGHWAY.",
+      "WHEN TURNING, YOU SHOULD SIGNAL EARLY.",
+      "YOU SHOULD USE YOUR TURN SIGNAL TO MARK YOU VEHICLE WHEN IT IS PULLED OFF ON THE SIDE OF THE ROAD."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Siempre debes encender tus direccionales con suficiente anticipación para dar a los demás conductores tiempo de reaccionar a tus intenciones.",
+    "unidadId": 7
+  },
+  {
+    "id": "general-239",
+    "moduloId": "general",
+    "preguntaEn": "WHAT HAPPENS TO TAR IN ROAD PAVEMENT DURING HOT WEATHER?",
+    "opcionesEn": [
+      "IT BECOMES GUMMY, MAKING TIRES STICK TO THE ROAD.",
+      "IT BLEEDS, MAKING THE ROAD SURFACE SLIPPERY.",
+      "NOTHING, IT IS MADE FOR HOT WEATHER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "El calor extremo hace que el alquitrán se derrita y \"sangre\" hacia la superficie de la carretera, volviéndola resbaladiza y peligrosa.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-240",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE DO NOT PROVIDE EXTRA GEARS ON SOME TRUCKS?",
+    "opcionesEn": [
+      "AUTOMATIC TRANSMISSION.",
+      "AUXILIARY TRANSMISSION.",
+      "MULTI-SPEED REAR AXLES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Las transmisiones automáticas hacen los cambios por ti pero no proveen marchas adicionales a las del diseño principal, a diferencia de ejes de velocidad múltiple o transmisiones auxiliares.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-241",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A HEAVY VEHICLE. YOU MUST EXIT A HIGHWAY USING AN OFF-RAMP THAT CURVES DOWNHILL. YOU SHOULD:",
+    "opcionesEn": [
+      "SLOW DOWN TO A SAFE SPEED BEFORE THE CURVE.",
+      "SLOW TO THE POSTED SPEED LIMIT FOR THE OFF-RAMP.",
+      "WAIT UNTIL YOU ARE IN THE CURVE BEFORE DOWNSHIFTING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Debes frenar y alcanzar una velocidad segura antes de entrar a la curva, ya que intentar frenar fuertemente dentro de ella puede causar que el camión se vuelque.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-242",
+    "moduloId": "general",
+    "preguntaEn": "WHEN DRIVING AT NIGHT, YOU SHOULD USE YOUR LOW BEAMS WHEN AN ONCOMING VEHICLE IS WITHIN:",
+    "opcionesEn": [
+      "300 FEET.",
+      "400 FEET.",
+      "500 FEET."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Debes cambiar a luces bajas cuando te acerques a menos de 500 pies de un vehículo que viene de frente para no deslumbrar a su conductor.",
+    "unidadId": 7
+  },
+  {
+    "id": "general-243",
+    "moduloId": "general",
+    "preguntaEn": "WHICH O THESE IS A GOOD THING TO DO WHEN STEERING TO AVOID A CRASH?",
+    "opcionesEn": [
+      "APPLY THE BRAKES WHILE TURNING.",
+      "DON’T TURN ANY MORE THEN NEEDED TO CLEAR WHAT IS IN YOU WAY.",
+      "AVOID COUNTERSTEERING."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Girar bruscamente en exceso aumenta el riesgo de volcadura. Solo gira lo estrictamente necesario para evadir el obstáculo.",
+    "unidadId": 1
+  },
+  {
+    "id": "general-244",
+    "moduloId": "general",
+    "preguntaEn": "WHAT IS COUNTERSTEERING?",
+    "opcionesEn": [
+      "TURNING THE STEERING WHEEL COUNTERCLOCKWISE.",
+      "USING THE STEERING AXLE BRAKES TO PREVENT OVERSTEERING.",
+      "TURNING THE WHEEL BACK IN THE OTHER DIRECTION AFTER STEERING TO AVOID A TRAFFIC EMERGENCY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Contra-volantear es girar el volante en la dirección opuesta después de haber esquivado un obstáculo, lo cual te ayuda a regresar de forma segura a tu carril.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-245",
+    "moduloId": "general",
+    "preguntaEn": "WHEN THERE IS A VEHICLE FIRE, GET YOUR VEHICLE OFF THE ROAD AND:",
+    "opcionesEn": [
+      "PUT OUT THE FIRE.",
+      "KEEP THE FIRE FROM SPREADING.",
+      "NOTIFY EMERGENCY SERVICES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Después de estacionarte en un lugar seguro, tu prioridad inmediata debe ser notificar a los servicios de emergencia para recibir asistencia profesional.",
+    "unidadId": 2
+  },
+  {
+    "id": "general-246",
+    "moduloId": "general",
+    "preguntaEn": "IF A STAIGHT VEHICLE ( NO TRAILER OR ARTICULATION) GOES INTO FRONT-WHEEL SKID, IT WILL:",
+    "opcionesEn": [
+      "SLIDE SIDEWAYS AND SPIN OUT.",
+      "GO STRAIGHT AHEAD EVEN IF THE STEERING WHEEL IS TURNED.",
+      "GO STRAIGHT AHEAD BUT WILL TURN IF YOU TURN THE STEERING WHEEL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Cuando las ruedas delanteras derrapan y pierden tracción, el vehículo continuará moviéndose en línea recta sin importar hacia dónde gires el volante.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-247",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD STOP DRIVING:",
+    "opcionesEn": [
+      "AFTER 5 HOURS.",
+      "AFTER 9 HOURS.",
+      "WHENEVER YOU BECOME SPLEEPY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "La fatiga extrema es mortal. Si te da sueño, debes buscar un lugar seguro para estacionarte y dormir, independientemente de tus horas de servicio restantes.",
+    "unidadId": 4
+  },
+  {
+    "id": "general-248",
+    "moduloId": "general",
+    "preguntaEn": "IMPLIED CONSENT MEANS:",
+    "opcionesEn": [
+      "YOU HAVE GIVING YOUR CONSENT TO INSPECTION OF YOUR VEHICLE FOR ALCOHOL.",
+      "IT IS UNDERSTOOD THAT YOU MAY DRINK ALCOHOL NOW AND THEN.",
+      "YOU HAVE GIVEN YOUR CONSENT TO BE TESTED FOR ALCOHOL IN YOUR BLOOD."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "El \"consentimiento implícito\" significa que al obtener tu licencia CDL, aceptas legalmente someterte a pruebas de alcohol o drogas si un oficial lo requiere.",
+    "unidadId": 7
+  },
+  {
+    "id": "general-249",
+    "moduloId": "general",
+    "preguntaEn": "YOU MUST DRIVE ON SLIPERY ROAD. WHICH OF THESE IS A GOOD THING TO DO IN SUCH A SITUATION?",
+    "opcionesEn": [
+      "USE A SMALLER FOLLOWING DISTANCE.",
+      "APPLY THE BRAKES WHILE ON CURVES.",
+      "SLOW DOWN GRADUALLY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "En carreteras resbaladizas, cualquier movimiento brusco o frenazo fuerte causará un derrape; por ello debes reducir la velocidad de manera suave y gradual.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-250",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING ON STRAIGHT LEVEL HIGHWAY AT 50 MPH. THERE ARE NO VEHICLES IN FRONT OF YOU. SUDDENLY A TIRE BLOWS OUT ON YOUR VEHICLE. WHAT SHOULD YOU DO FIRST?",
+    "opcionesEn": [
+      "STAY OFF THE BRAKE UNTIL THE VEHICLE HAS SLOWED DOWN.",
+      "BEGIN LIGHT BRAKING.",
+      "BEGIN EMERGENCY BRAKING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Frenar abruptamente tras un reventón puede hacer que pierdas el control totalmente. Debes mantener el acelerador suelto y no frenar hasta haber recuperado el control direccional.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-251",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT SPEED MANAGEMENT IS TRUE?",
+    "opcionesEn": [
+      "SHADY PARTS OF THE ROAD ALLOW BETTER TRACTION THEN DO OPEN AREAS.",
+      "ROAD SUFACE WILL FREEZE BEFORE BRIDGES.",
+      "WHEN THE ROAD IS SLIPPERY, IT WILL TAKE LONGER TO STOP AND IT WILL BE HARDER TO TURN WITHOUT SKIDDING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "Las superficies resbaladizas disminuyen la tracción, lo que aumenta dramáticamente tu distancia de frenado y hace que las maniobras sean propensas a derrapes.",
+    "unidadId": 3
+  },
+  {
+    "id": "general-252",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU HAVE CONVICTED OF DRIVING A COMMERCIAL VEHICLE UNDER INFLUENCE OF ALCOHOL OR DRUGS, YOU WILL LOSE YOUR CDL FOR AT LEAST________.",
+    "opcionesEn": [
+      "6 MONTH.",
+      "1 YEAR.",
+      "2 YEAR."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "Una primera infracción por manejar un vehículo comercial bajo la influencia de sustancias resulta en una descalificación de la CDL por un período mínimo de un año.",
+    "unidadId": 0
+  },
+  {
+    "id": "general-253",
+    "moduloId": "general",
+    "preguntaEn": "WHAT SHOULD YOU DO BEFORE DRIVING IN MOUNTAINS?",
+    "opcionesEn": [
+      "KNOW SCAPE RAMPS LOCATIONS ON YOUR WAY.",
+      "UNHOOK YOUR STEERING AXLE BRAKE.",
+      "CARRY TIRE CHAIN IN YOUR VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "Planificar tu ruta y conocer la ubicación de las rampas de escape es vital en las montañas, ya que te salvarán la vida si te quedas sin frenos.",
+    "unidadId": 5
+  }
+]

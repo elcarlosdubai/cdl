@@ -1,0 +1,652 @@
+[
+  {
+    "id": "general-305",
+    "moduloId": "general",
+    "preguntaEn": "MOST SKIDS:",
+    "opcionesEn": [
+      "HAPPEN ON ICE.",
+      "WILL NOT HAPPEN WITH RADIAL TIRES.",
+      "ARE CAUSED BY GOING TOO FAST OR TRYING TO STOP TOO QUICKLY."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-306",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU MUST USE A CELL PHONE WHILE YOU ARE DRIVING, YOU SHOULD:",
+    "opcionesEn": [
+      "REDUCE YOUR SPEED.",
+      "PULL OFF THE ROAD ONTO A SAFE AND LEGAL POSITION.",
+      "POSITION THE PHONE SO YOU CAN DRIVE AND SEE THE ROAD IN FRONT OF YOU."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-307",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE SHOULD BE TESTED ON THE VEHICLE TO STOPPED?",
+    "opcionesEn": [
+      "SERVICE BRAKE.",
+      "PARKING BRAKE.",
+      "HYDRAULIC BRAKES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-308",
+    "moduloId": "general",
+    "preguntaEn": "RETARDERS CAN BE USED:",
+    "opcionesEn": [
+      "ONLY WHERE THEY ARE PERMITTED BY LAW.",
+      "ONLY FOR DOWNHILL BRAKING.",
+      "ONLY ON ROADS WITH POOR TRACTION."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-309",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT COMMERCIAL VEHICLE HABIT OF SWINGING WIDE ON TURNS?",
+    "opcionesEn": [
+      "OFF-TRACKING.",
+      "WIDE-ROUNDING.",
+      "SIDEWINDING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-310",
+    "moduloId": "general",
+    "preguntaEn": "WHEN LOOKING AHEAD OF YOUR VEHICLE WHILE DRIVING YOU SHOULD LOOK:",
+    "opcionesEn": [
+      "STRAIGHT AHEAD AT ALL TIMES.",
+      "TO THE RIGHT SIDE OF THE ROAD.",
+      "BACK AND FORTH, NEAR AND FAR."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-311",
+    "moduloId": "general",
+    "preguntaEn": "THE PURPOSE OF THE RETARDERS IS TO:",
+    "opcionesEn": [
+      "HELP SLOW THE VEHICLE WHILE DRIVING AND REDUCE BRAKE WEAR.",
+      "APPLY EXTRA BRAKING POWER TO THE NON-DRIVE AXLES.",
+      "HELP PREVENT SKIDS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-312",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING STATEMENT ABOUT SPEED MANAGEMENT IS TRUE?",
+    "opcionesEn": [
+      "IF YOU DOUBLE YOUR SPEED, STOPPING DISTANCE WILL DOUBLE.",
+      "EMPTY TRUCK AND LOADED TRUCKS WILL HAVE THE SAME STOPPING DISTANCE.",
+      "IF YOU DOUBLE YOUR SPEED, STOPPING DISTANCE WILL BE INCREASED BY 4 TIMES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-313",
+    "moduloId": "general",
+    "preguntaEn": "WHEN HYDRAULIC BRAKES FAIL WHILE DRIVING, THE SYSTEM WON’T BUILD UP PRESSURE AND THE BRAKE PEDAL WILL FEEL SPONGY OR GO TO THE FLOOR. WHAT ACTION SHOULD YOU TAKE?",
+    "opcionesEn": [
+      "PUSH DOWN ON THE BRAKE PEDAL AS HARD AS YOU CAN.",
+      "PUMP THE BRAKE PEDAL TO GENERATE PRESSURE.",
+      "PUT THE VEHICLE IN NEUTRAL AND SET THE PARKING BRAKE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-314",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING HEAVY VEHICLE AND THE ROAD SURFACE BECAME SLIPPERY DUE TO THE RAIN. WHAT YOU SHOULD DO?",
+    "opcionesEn": [
+      "DECREASE YOUR SPEED EVEN FURTHER FOR ADVERSE WEATHER.",
+      "ADJUST YOUR SPEED TO TRAFFIC.",
+      "TURN OFF YOUR 4-WAY FLASHERS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-315",
+    "moduloId": "general",
+    "preguntaEn": "WHTS IS THE FIRST THING YOU SHOULD DO IF YOUR BRAKES FAIL WHILE GOING DOWN A HILL?",
+    "opcionesEn": [
+      "GET OFF THE ROAD AS SOON AS POSSIBLE.",
+      "TRY TO USE YOUR PARKING BRAKES TO STOP.",
+      "CALL OR RADIO FOR HELP."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "frenos-aire-6",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE PROPER USE OF THE BRAKES WHEN GOING DOWN A LONG STEEP GRADE AFTER SELECTING A PROPER GEAR IS TO BRAKE UNTIL YOUR SPEED IS ABOUT _______ MPH BELOW THE POSTED SPEED FOR YOUR SAFETY AND RELEASE YOUR BRKAES.",
+    "opcionesEn": [
+      "5.",
+      "10.",
+      "15."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-7",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "TO CHECK THE FREE PLAY OF MANUAL SLACK ADJUSTERS OF S-CAM BRAKES, YOU SHOULD PARK ON:",
+    "opcionesEn": [
+      "LEVEL GROUND, CHOCK THE WHEELS AND RELEASE THE PARKING BRAKES.",
+      "LEVEL GROUND AN APPLY THE PARKING BRAKES, THEN APPLY SERVICE BRAKES.",
+      "LEVEL GROUND AND DRAIN OFF AIR PRESSURE BEFORE CHECKING THE ADJUSTMENT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-8",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOUR VEHICLE HAS AN ALCOHOL EVAPORATOR, IT IS HERE TO:",
+    "opcionesEn": [
+      "ELIMINATE THE NEED FOR DAILY TANK DRAINING.",
+      "BOOST TANK PRESSURE THE SAME WAY THAT TURBOCHARGES BOSST ENGINE.",
+      "REDUCE THE RISK OF ICING IN AIR BRAKE VALVES IN COLD WEATHER."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-9",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "YOUR TRUCK HAS A DUAL AIR SYSTEM AND ONE OF THE SYSTEM LOSES ITS PRESSURE. WHAT WILL HAPPEN?",
+    "opcionesEn": [
+      "BRAKE DRUMS WILL NOT BE FULLY PRESSURIZED.",
+      "THE MANUAL SLACK ADJUSTERS OF THE S-CAM BRAKES WILL NOT BE SET PROPERLY.",
+      "EITHER THE FRONT OR BACK BRAKE WILL NOT BE FULLY OPERATIONAL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-10",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHY SHOULD YOU DRAIN WATER FROM COMPRESSED AIR TANKS?",
+    "opcionesEn": [
+      "WATER LOW BOILING POINT REDUCES BRAKING POWER.",
+      "WATER CAN FREEZE IN COLD WEATHER AND CAUSE BRAKE FAILURE.",
+      "TO KEEP HEAT FROM AIR COMPRESSOR OIL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-11",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOUR TRUCK OR BUS HAS DUAL PARKING CONTROL VALVES, YOU CAN USE PRESSURE FROM A SEPARATE TANK TO:",
+    "opcionesEn": [
+      "BALANCE THE SERVICE BRAKE SYSTEM WHEN YOU ARE PARKED.",
+      "STAY PARKED TWICE AS LONG WITHOUT USING UP SERVICE AIR PRESSURE.",
+      "RELEASE THE SPRING EMERGENCY/PARKING BRAKES TO MOVE A SHORT DISTANCE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-12",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOU MUST MAKE AN EMERGENCY STOP, YOU SHOULD BRAKE SO YOU:",
+    "opcionesEn": [
+      "USE THE HAND BRAKE BEFORE THE BRAKE PEDAL.",
+      "CAN STEER AND SO YOUR VEHICLE STAYS IN A STRAIGHT LINE.",
+      "USE THE FULL POWER OF THE BRAKES TO LOCK THEM."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-13",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE SUPPLY PRESSURE GAUGE SHOWS HOW MUCH PRESSURE:",
+    "opcionesEn": [
+      "IS IN THE AIR TANKS.",
+      "YOU HAVE USED IN THIS TRIP.",
+      "IS GOING TO THE BRAKE CHAMBERS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-14",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE APPLICATION PRESSURE GAUGE SHOWS HOW MUCH AIR PRESSURE YOU:",
+    "opcionesEn": [
+      "HAVE IN THE AIR TANKS.",
+      "ARE APPLYING TO THE BRAKES.",
+      "HAVE IN A MODULATING CONTROL VALVE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-15",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE SPRING BRAKES USED ON TRACTORS AND STRAIGHT TRUCKS WILL BRING YOUR TRUCK TO A STOP WHEN THE AIR PRESSURE DROPS BELOW __________PSI.",
+    "opcionesEn": [
+      "20.",
+      "60.",
+      "100."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-16",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE AIR LEAKAGE RATE FOR COMBINATION VEHICLES (ENGINE OFF, BRAKES ON) SHOULD BE LESS THEN _____ PSI PER MINUTE.",
+    "opcionesEn": [
+      "2.",
+      "3.",
+      "4."
+    ],
+    "correctaIndex": -1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-17",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "HOW SHOULD YOU CHECK THAT YOUR SERVICE BRAKES ARE WORKING PROPERLY?",
+    "opcionesEn": [
+      "PARK ON SLIGHT GRADE, DRAIN OFF AIR PRESSURE, SET PARKING BRAKE AND CHECK TO THE MOVEMENT.",
+      "PARK ON A LEVEL GROUND, CHOCK THE WHEELS, ENGAGE THE PARKING BRAKES WHEN YOU HAVE THE CORRECT AMOUNT OF AIR PRESSURE TO DO SO AND SHUT THE ENGINE OFF.",
+      "PARK ON LEVEL GROUND, WAIT UNTIL NORMAL AIR PRESSURE IS REACHED, RELEASE THE PARKING BRAKE AND MOVE FORWARD SLOWLY AT ABOUT 5 MPH. THEN APPLY THE BRAKES FIRMLY USING THE BRAKE PEDAL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-18",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "EXCESSIVE USE OF THE SERVICE BRAKES RESULTS IN OVEHEATING WHICH CAN LEAD TO:",
+    "opcionesEn": [
+      "IMPROPER ADJUSTMENT OF THE S-CAM.",
+      "INCREASED CONTACT BETWEEN THE BRAKE DRUMS AND BRAKE LINNNING.",
+      "EXPANSION OF THE BRAKE DRUMS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-19",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE SUPPLY PRESSURE GAUGE SHOWS HOW MUCH PRESSURE:",
+    "opcionesEn": [
+      "IS IN THE AIR TANKS.",
+      "TRACTOR BRAKE LINES.",
+      "TRAILER BRAKE LINES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-20",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "TOTAL STOPPING DISTANCE FOR AIR BRAKES IS LONGER THAN THAT FOR HYDRAULIC BRAKES DUE TO _________ DISTANCE.",
+    "opcionesEn": [
+      "BRAKE LAG.",
+      "REACTION.",
+      "EFFECTIVE BRAKING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-21",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE USE OF AIR BRAKES ON LONG AND STEEP DOWNGRADE UNDER NORMAL CONDITIONS IS ONLY A SUPPLEMENT TO:",
+    "opcionesEn": [
+      "THE USE OF THE SPRING BRAKES.",
+      "THE USE OF THE FRONT BRAKES LIMITING VALVE.",
+      "THE BRAKING EFFECT OF THE ENGINE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-22",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "ANY TIME YOU PARK, USE THE PARKING BRAKES, EXCEPT:",
+    "opcionesEn": [
+      "IF THE BRAKES ARE VERY HOT (E.G., AFTER JUST COMING DOWN A STEEP GRADE).",
+      "IF YOU ARE GOING TO TEST THE PARKING BRAKE MAKE SURE THAT IT HOLDS THE VEHICLE.",
+      "IF YOU WILL ONLY BE STOPPED FOR LESS THEN ONE HOUR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-23",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IF YOUR VEHICLE GETS STUCK ON A RAISED RAILROAD- HIGHWAY CROSSING, YOU SHOULD:",
+    "opcionesEn": [
+      "GET OUT OF THE VEHICLE AND AWAY FROM THE TRACKS.",
+      "TURN ON YOUR FOUR- WAYS FLASHERS.",
+      "USE REVERSE GEAR TO BACK UP OFF THE CROSSING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-24",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "YOUR TRUCK OR BUS HAS A DUAL AIR BRAKE SYSTEM. IF A LOW AIR PRESSURE WARNING COMES ON FOR ONLY ONE SYSTEM, WHAT SHOULD YOU DO?",
+    "opcionesEn": [
+      "REDUCE YOUR SPEED, AND DRIVE TO THE NEAREST GARAGE FOR REPAIRS.",
+      "REDUCE YOUR SPEED, AND TEST THE REMANING SYSTEM WHILE UNDER WAY.",
+      "STOP RIGHT AWAY AND SAFELY PARK. CONTINUE ONLY AFTER THE SYSTEM IS FIXED."
+    ],
+    "correctaIndex": -1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-25",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "YOUR TRUCK OR BUS HAS A DUAL AIR BRAKE SYSTEM. IF A LOW AIR PRESSURE WARNING COMES ON FOR ONLY ONE SYSTEM, WHAT SHOULD YOU DO?",
+    "opcionesEn": [
+      "BRING YOUR VEHICLE TO COMPLETE STOP RIGHT AWAY AND SAFELY PARK. CONTINUE ONLY AFTER THE SYSTEM IS FIXED.",
+      "REDUCE YOU SPEED, AND TEST THE REMAINING SYSTEM WHILE UNDER WAY.",
+      "REDUCE YOUR SPEED, AND DRIVE TO THE NEAREST GARAGE FOR REPAIRS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-26",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE SAFETY VALVE IS SET TO AUTOMATICALLY REDUCE PRESSURE AT _____PSI.",
+    "opcionesEn": [
+      "50.",
+      "100.",
+      "150."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-27",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "SOME AIR BRAKE SYSTEM HAVE AN ALCOHOL EVAPORATOR. WHAT MAY HAPPEN IF YOU DON’T KEEP THE PROPER LEVEL OF AN ALCOHOL?",
+    "opcionesEn": [
+      "THE S-CAM MAY NOT TAKE BACK WHEN YOU RELEASE THE BRAKE PEDAL.",
+      "ICE MAY FORM IN THE AIR STORAGE TANK AND CAUSE A BRAKE FAILURE.",
+      "ICE MAY FORM ON THE BRAKE DRUMS AND WEAR THEM OUT."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-28",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "UNDER NORMAL CONDITIONS IN ORDER TO ENGAGE THE PARKING BRAKES DRIVER:",
+    "opcionesEn": [
+      "TURN OFF THE ENGINE.",
+      "LET THE AIR OUT OF AIR BRAKE SYSTEM.",
+      "BE SURE THAT THE AIR BRAKE SYSTEM IS FULLY PRESSURIZED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-29",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "PARKING OR EMERGENCY BRAKES OF TRUCKS AND BUSES CAN BE LEGALLY HELD ON BY ____ PRESSURE.",
+    "opcionesEn": [
+      "SPRING.",
+      "AIR.",
+      "FLUID."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-30",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "ALL AIR BRAKE EQUIPPED VEHICLES HAVE:",
+    "opcionesEn": [
+      "A SUPPLY PRESSURE GAUGE.",
+      "AN AIR USAGE GAUGE.",
+      "A BACKUP HYDRAULIC SYSTEM."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-31",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE MODULATING CONTROL VALVE ALLOWS YOU TO CONTROL:",
+    "opcionesEn": [
+      "SPRING BRAKES.",
+      "FRONT BRAKES.",
+      "AMOUNT OF AIR PRESSURE IN THE BRAKE SYSTEM."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-32",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "A SLACK ADJUSTERS FREE PLAY NEEDS TO BE ADJUSTED IF IT IS MORE THAN ABOUT______ HOW MANY INCHES WHEN YOU PULL HARD ON IT?",
+    "opcionesEn": [
+      "ONE FOURTH INCH.",
+      "ONE HALF INCH.",
+      "ONE INCH."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-33",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "EMERGENCY STAB BRAKING IS:",
+    "opcionesEn": [
+      "PRESS HARD ON A BRAKE PEDAL AND APPLY HAND VALVE UNTIL YOU STOP.",
+      "USE LIGHT STEADY PRESSURE ON THE BRAKE PEDAL.",
+      "BRAKE AS HARD AS YOU CANY, RELEASE THE BRAKES WHEN THE WHEELS LOCKED, PUT ON THE BRAKES AGAIN WHEN THE WHEELS START ROLLING."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-34",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "IN IDEAL CONDITIONS, A TRUCK OR A BUS WITH AN AIR BRAKE GOING AT 55 MPH WOULD REQUIRE STOPPING DISTANCE OF:",
+    "opcionesEn": [
+      "LESS THAN 100 FEET.",
+      "100-300 FEET.",
+      "MORE THAN 300 FEET."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-35",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "TO TEST AIR SERVICE BRAKES, YOU SHOULD:",
+    "opcionesEn": [
+      "STOP THE VEHICLE, PUT IT IN A LOW GEAR, DEPRESS THE SERVICE BRAKES, AND THEN GENTLY PULL AGAINST THE BRAKES.",
+      "BRAKE FIRMLY WHILE SLOWLY MOVING FORWARD.",
+      "BRAKE SLOWLY WHILE SLOWLY MOVING BACKIWARD."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-36",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE S-CAM:",
+    "opcionesEn": [
+      "CONTROLS THE FLOW AIR TO EACH OF THE BRAKE CHAMBERS.",
+      "PULLS THE BRAKE SHOES AWAY FROM THE DRUM AND ALLOW THE WHEELS TO ROLL FREELY.",
+      "FORCES THE BRAKE SHOES AGAINST THE INSIDE OF THE BRAKE DRUM."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-37",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHY SHOULD YOU DRAIN WATER FROM COMPRESSED AIR TANKS?",
+    "opcionesEn": [
+      "THE BOILING POINT REDUCES BRAKING POWER.",
+      "WATER CAN FREEZE IN COLD WEATHER AND CAUSE BRAKE FAILURE.",
+      "WATER COOLS THE COMPRESSOR TOO MUCH."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "frenos-aire-38",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE AIR BRAKE LAG DISTANCE AT 55 MPH ON DRY PAVEMENT ADDS ABOUT ______ FEET.",
+    "opcionesEn": [
+      "12 FEET.",
+      "32 FEET.",
+      "52 FEET."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-39",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHEN IS IT OK TO LEAVE YOUR TRUCK UNATTENDED WITHOUT APPLYING THE PARKING BRAKES AND CHOCKING THE WHEELS?",
+    "opcionesEn": [
+      "NEVER.",
+      "IF YOU WILL BE AWAY FROM THE TRUCK FOR A FEW MINUTES.",
+      "IF YOU ARE CONDUCTING A PRE-TRIP INSPECTION."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-40",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "THE BRAKE SYSTEM THAT APPLIES AND RELEASES THE BRAKES WHEN THE DRIVER USES THE BRAKE PEDAL IS THE ________ BRAKE SYSTEM.",
+    "opcionesEn": [
+      "EMERGENCY.",
+      "SERVICE.",
+      "PARKING."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-41",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHICH OF THESE IS NOT A PROPER TIME TO APPLY THE PARKING BRAKES?",
+    "opcionesEn": [
+      "TO BRAKE VEHICLE VERY HARD, IN OTHER WORD WHEN COMING DOWN THE STEEP GRADE.",
+      "TO USE PARKING BRAKES IF YOU PARK FOR LESS THAN 1 HOUR.",
+      "IF YOU ARE GOING TO USE THE PARKING BRAKES YOU NEED TO MAKE SURE THAT THEY WILL HOLD THE VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "frenos-aire-42",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "AIR BRAKING TAKES MORE TIME THAN HYDRAULIC BRAKING BECAUSE AIR:",
+    "opcionesEn": [
+      "BRAKE USE DIFFERENT BRAKE DRUMS.",
+      "TAKES MORE TIME TO FLOW THROUGH THE LINES THE HYDRAULIC FLUID.",
+      "BRAKES REQUIRE HEAVIER RETURN SPRINGS."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "frenos-aire-43",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "A STRAIGHT TRUCK OR BUS BRAKE SYSTEM SHOULD NOT LEAK AT THE RATE OF MORE THAN _____ PSI PER MINUTE WITH THE ENGINE OFF AND THE BRAKES RELEASED.",
+    "opcionesEn": [
+      "ONE.",
+      "THREE.",
+      "TWO."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "frenos-aire-44",
+    "moduloId": "frenos-aire",
+    "preguntaEn": "WHY SHOULD YOU DRAIN WATER FROM COMPRESSED AIR TANKS?",
+    "opcionesEn": [
+      "THE LOW BOILING POINT OF WATER REDUCES BRAKING POWER.",
+      "WATER CAN FREEZE IN COLD WEATHER AND CAUSE BRAKE FAILURE.",
+      "TO KEEP FROM FOWLING TRE AIR COMPRESSOR OIL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  }
+]

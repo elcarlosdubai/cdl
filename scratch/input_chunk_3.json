@@ -1,0 +1,651 @@
+[
+  {
+    "id": "general-103",
+    "moduloId": "general",
+    "preguntaEn": "YOU DO NOT HAVE A HAZARDOUS MATERIALS ENDORSEMENT ON YOUR COMMERCIAL DRIVER’S LICENSE. YOU ARE ASKED TO DELIVER HAZARDOUS MATERIALS ENDORSEMENT CAN TAKE OVER.",
+    "opcionesEn": [
+      "REFUSE TO HAUL THE LOAD.",
+      "HAUL THE LOAD, BUT ONLY TO THE NEAREST PLACE WHERE A DRIVER WITH A HAZARDOUS MATERIALS ENDORSEMENT CAN TAKE OVER.",
+      "HAUL THE LOAD, BUT FILE A REPORT WITH THE DEPARTMENT OF TRANSPORTATION AFTER THE TRIP."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-104",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT THE USE OF A HEATER?",
+    "opcionesEn": [
+      "YOU MUST HAVE AT LEAST ONE EXTRA HEATER, SUCH AS MIRROR HEATER, BATTERY BOX HEATER, OR FUEL TANK HEATER, WHEN DRIVING IN TEMPERATURES BELOW FREEZING.",
+      "IF YOU FEEL SLEEPY, WARMING YOUR CAB WITH THE HEATER WILL HELP YOU STAY ALERT.",
+      "WHEN DRIVING IN WINTER WEATHER, YOU SHOULD CHECK THAT THE HEATER IS WORKING PROPERLY BEFORE STARTING YOUR TRIP."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-105",
+    "moduloId": "general",
+    "preguntaEn": "TURN SIGNALS SHOULD BE USED:",
+    "opcionesEn": [
+      "AT LEAST 100 FEET BEFORE TURNING OR CHANGING LANE.",
+      "AT LEAST 150 FEET BEFORE TURNING OR CHANGING LANE.",
+      "AT LEAST 200 FEET BEFORE TURNING OR CHANGING LANE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-106",
+    "moduloId": "general",
+    "preguntaEn": "HIGH BEAMS SHOULD BE:",
+    "opcionesEn": [
+      "USED WHEN IT IS SAFE AND LEGAL TO DO SO.",
+      "TURNED ON WHEN AN ONCOMING DRIVER DOES NOT DIM HIS/HER LIGHTS.",
+      "DIMMED AT THE TIME YOU GET WITHIN 100 FEET OF ANOTHER VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-107",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT DOWNSHIFTING IS TRUE?",
+    "opcionesEn": [
+      "WHEN YOU DOWNSHIFT FOR A CURVE, YOU SHOULD DO SO BEFORE YOU ENTER THE CURVE.",
+      "WHEN YOU DOWNSHIFT FOR A CURVE, YOU SHOULD DO SO JUST AFTER YOU ENTER THE CURVE.",
+      "WHEN DOUBLE-CLUTCHING, YOU SHOULD LET THE RPMS DECREASE WHILE THE CLUTCH IS RELEASED AND SHIFT LEVER IS IN NEUTRAL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-108",
+    "moduloId": "general",
+    "preguntaEn": "TO HELP YOU STAY ALERT WHILE DRIVING, YOU SHOULD:",
+    "opcionesEn": [
+      "SCHEDULE TRIPS FOR HOURS THAT YOU ARE NORMALLY ASLEEP.",
+      "TAKE SHORT BREAKS BEFORE YOU GET DROWSY.",
+      "KEEP THE CAB WARM AND QUIET."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-109",
+    "moduloId": "general",
+    "preguntaEn": "IF YOUR VEHICLE CATCHES FIRE WHILE YOU ARE DRIVING, YOU SHOULD:",
+    "opcionesEn": [
+      "PARK IN AN OPEN AREA.",
+      "PARK WHERE A BUILDING OR TREES SHELTER YOUR VEHICLE FROM THE WIND.",
+      "INCREASE YOUR SPEED TO PUT OUT THE FLAMES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-110",
+    "moduloId": "general",
+    "preguntaEn": "TRUCK ESCAPE RAMPS:",
+    "opcionesEn": [
+      "HELP AVOID DAMAGE TO VEHICLES.",
+      "CANNOT BE USED BY CERTAIN TYPES OF HEAVY VEHICLES.",
+      "ARE NOT FOR BUSES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-111",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT BAD WEATHER AND DRIVING CONDITIONS?",
+    "opcionesEn": [
+      "THE ROAD IS MORE SLIPPERY AS RAIN CONTINUES THAN WHEN RAIN BEGINS.",
+      "DRIVING CONDITIONS BECAME MORE DANGEROUS AS THE TEMPERATURE RISES ABOVE FREEZING.",
+      "WHEN THE TEMPERATURE DROPS, THE BRIDGES WILL FREEZE BEFORE ROADS WILL."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-112",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT BRAKING IS TRUE?",
+    "opcionesEn": [
+      "THE HEAVIER VEHICLE OR THE FASTER IT IS MOVING, THE MORE HEAT THE BRAKES HAVE TO ABSORB TO STOP IT.",
+      "BRAKE DRUMS COOL VERY QUICKLY WHEN THE VEHICLE IS MOVING VERY FAST.",
+      "BRAKE FADE IS NOT CAUSED BY HEAT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-113",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU ARE BEING TAILGATED, YOU SHOULD:",
+    "opcionesEn": [
+      "INCREASE YOUR FOLLOWING DISTANCE",
+      "FLASH YOUR BRAKES LIGHTS.",
+      "SIGNAL THE TAILGATER WHEN IT IS SAFE TO PASS YOU."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-114",
+    "moduloId": "general",
+    "preguntaEn": "COMMUNICATION MEANS:",
+    "opcionesEn": [
+      "TALKING WITH LAW ENFORCEMENT OFFICERS.",
+      "COMMUNICATING YOUR INTENTION TO OTHER MOTORIST.",
+      "TALKING ON THE CB RADIO."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-115",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOU HOURS OF SERVICE?",
+    "opcionesEn": [
+      "AFTER YOU HAVE PUT in 1000 HOURS OF SERVICE WILL BE EXEMPT FROM CERTAIN REGULATIONS.",
+      "YOU SHOULD BALANCE YOUR HOUR OF SERVICE WITH ENOUGH SLEEP TO KEEP YOU ALERT.",
+      "YOU MUST TAKE A BREAK AFTER EVERY 2 HOURS OF DRIVING."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-116",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT PROPER USE OF A STEERING WHEEL?",
+    "opcionesEn": [
+      "IF YOU DO NOT HAVE BOTH HANDS ON THE WHEEL, THE WHEEL COULD PULL AWAY FROM YOU.",
+      "ONCE YOU HAVE REACHED A ‘’CRUISING SPEED’’ ON A HIGHWAY, YOU CAN DRIVE WITH ONE HAND ON THE WHEEL.",
+      "ONLY WHEN ATTEMPTING A DIFFICULT TURN MUST YOU USE BOTH HANDS ON THE WHEEL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-117",
+    "moduloId": "general",
+    "preguntaEn": "WHAT DOES EMERGENCY BRAKING MEAN?",
+    "opcionesEn": [
+      "PUSHING DOWN ON THE BRAKE PEDAL AS HARD AS YOU CAN.",
+      "RESPONDING TO A HAZARD BY SLOWING THE VEHICLE.",
+      "USING THE VEHICLE’S EMERGENCY BRAKE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-118",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE CHECKING YOUR WHEELS AND RIMS FOR A PRE-TRIP INSPECTION. WHICH OF THESE STATEMENT IS TRUE?",
+    "opcionesEn": [
+      "RUST AROUND WHEEL NUTS MAY MEAN THAT THEY ARE LOOSE.",
+      "A VEHICLE CAN BE SAFELY DRIVEN WITH ONE MISSING LUG NUT ON A WHEEL.",
+      "MISMATCHED LOCK RINGS CAN BE USED ON THE SAME VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-119",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT A BRAKE CHECK YOU NORMALLY DO DURING YOUR WALK-ARROUND INSPECTION?",
+    "opcionesEn": [
+      "BRAKE ADJUSTMENT.",
+      "CONDITIONS OF HOSES.",
+      "HYDRAULIC BRAKE CYLINDERS LEAKS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-120",
+    "moduloId": "general",
+    "preguntaEn": "IN A MOUNTAIN DRIVING YOU SHOULD GO SLOW FOR SAFETY. WHICH OF THESE IS THE MOST IMPORTANT?",
+    "opcionesEn": [
+      "WEIGHT OF THE VEHICLE.",
+      "TIRE TREAD TYPE.",
+      "DEPTH OF THE TREAD."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-121",
+    "moduloId": "general",
+    "preguntaEn": "WHY IS A BROKEN EXHAUST SYSTEM DANGEROUS?",
+    "opcionesEn": [
+      "POISON FUMES COUL ENTER INTO THE CAB OR SLEEPER BERTH.",
+      "YOU COULD POLLUTE THE AIR WITH THE EXHAUST SMOKE.",
+      "LOUD NOISE COULD DAMAGE THE DRIVER’S EARS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-122",
+    "moduloId": "general",
+    "preguntaEn": "WHEN LOADING A TRAILER, IF THE CARGO IS LOADED ALL TO THE REAR, IT MAY RESULT IN:",
+    "opcionesEn": [
+      "WHEEL LOCKUP.",
+      "DAMAGE TO STEERING AXLE.",
+      "POOR TRACTION ON DRIVE WHEELS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-123",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING VEHICLES WILL HAVE THE LONGEST STOPPING DISTANCE?",
+    "opcionesEn": [
+      "EMPTY TRUCK.",
+      "LOADED TRUCK.",
+      "BOBTAIL TRACTOR"
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-124",
+    "moduloId": "general",
+    "preguntaEn": "CONTROLLED BRAKING:",
+    "opcionesEn": [
+      "INVOLVES LOCKING THE WHEELS FOR SHORT PERIODS OF TIME.",
+      "IS USED TO KEEP A VEHICLE IN A STRAIGHT LINE WHEN BRAKING.",
+      "SHOULD ONLY BE USED WITH HYDRAULIC BRAKES."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-125",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT BACKING A HEAVY VEHICLE IS NOT TRUE?",
+    "opcionesEn": [
+      "YOU SHOULD BACK AND TURN TOWARD THE DRIVER’S SIDE WHENEVER IT IS POSSIBLE.",
+      "YOU SHOULD USE A HELPER AND COMMUNICATE WITH HAND SIGNALS.",
+      "BECAUSE YOU CAN’T SEE YOU SHOULD BACK SLOWLY UNTIL YOU SLIGHTLY BUMP INTO THE DOCK."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-126",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT HAZARD OF VEHICLE FIRE IS TRUE?",
+    "opcionesEn": [
+      "POOR TRAILER VENTILATION CAN CAUSE CARGO TO CATCH ON FIRE.",
+      "CARRYING A PROPERLY CHARGED FIRE EXTINGUISHER WILL HELP PREVENT FIRES.",
+      "UNDER-INFLATED TIRES WILL NOT CAUSE A VEHICLE FIRE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-127",
+    "moduloId": "general",
+    "preguntaEn": "WHERE MUST YOU KEEP SHIPPING PAPERS WHEN TRANSPORTING HAZARDOUS MATERIALS?",
+    "opcionesEn": [
+      "UNDER THE DRIVER’S SEAT.",
+      "IN A POUCH ON THE DRIVER’S DOOR OR ON THE SEAT.",
+      "IN THE GLOVE COMPARTMENT WHICH MUST BE LOCKED."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-128",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS NOT TRUE ABOUT BRAKING IN AN EMERGENCY SITUATION?",
+    "opcionesEn": [
+      "YOU SHOULD BRAKE IN A WAY THAT WILL KEEP YOUR VEHICLE IN A STRAIGHT LINE.",
+      "IT IS NOT IMPORTANT HOW YOU BRAKE IN AN EMERGENCY SITUATION.",
+      "YOU SHOULD AVOID USING THE BRAKES UNTIL YOUR SPEED IS DOWN TO 20 MPH."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-129",
+    "moduloId": "general",
+    "preguntaEn": "ANILOCK BRAKING SYSTEM USE SENSORS AND COMPUTERS TO SENSE:",
+    "opcionesEn": [
+      "POTENTIAL WHEEL LOCK UP.",
+      "BRAKE WEAR AND CONDITION.",
+      "ROADWAY SURFACE CONDITIONS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-130",
+    "moduloId": "general",
+    "preguntaEn": "WHERE OR HOW IS CARGO BLOCKING USED?",
+    "opcionesEn": [
+      "IN THE FRONT, BACK, AND/OR SIDES OF THE CARGO.",
+      "FROM THE UPPER PART OF THE CARGO TO THE FLOOR.",
+      "LOOSELY AROUND THE CARGO."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-131",
+    "moduloId": "general",
+    "preguntaEn": "WHEN THE ROADS ARE SLIPPERY, YOU SHOULD:",
+    "opcionesEn": [
+      "MAKE TURNS AS GENTLY AS POSSIBLE.",
+      "STOP AND TEST THE TRACTION WHILE GOING UPHILL.",
+      "DECREASE THE DISTANCE THAT YOU LOOK AHEAD OF YOUR VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-132",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT CARGO LOADING IS TRUE?",
+    "opcionesEn": [
+      "IF CARGO IS LOADED BY THE SHIPPER, THE DRIVER IS NOT RESPONSIBLE FOR OVERLOADING.",
+      "THE LEGAL MAXIMUN WEIGHT ALLOWED BY A STATE CAN BE CONSIDERED SAFE FOR ALL DRIVING CONDITIONS.",
+      "STATE LAWS DICTATE LEGAL WEIGHT LIMITS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-133",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT TIRE PRESSURE?",
+    "opcionesEn": [
+      "AIR PRESSURE IN TIRES INCREASES WITH THE TEMPERATURE.",
+      "AIR SHOULD BE LET OUT OF HOT TIRES SO THE TIRES DO NOT BLOW OUT.",
+      "TIRE PRESSURE NEED NOT BE CHECKED DURING A TRIP IF IT PASSED PRE-TRIP INSPECTION."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-134",
+    "moduloId": "general",
+    "preguntaEn": "WHEN DRIVING AT NIGHT, YOU SHOULD:",
+    "opcionesEn": [
+      "LOOK TO THE LEFT SIDE OF THE ROAD WHEN A VEHICLE IS COMING TOWARD YOU.",
+      "ADJUST YOUR SPEED TO KEEP YOUR STOPPING DISTANCE WITHIN YOUR SIGHT DISTANCE.",
+      "DIM YOUR LIGHTS 300 FEET OF AN ONCOMING VEHICLE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-135",
+    "moduloId": "general",
+    "preguntaEn": "THE NEW BAC (BLOOD ALCOHOL CONCENTRATION) FOR COMMERCIAL DRIVERS TO BE CONSIDERED INTOXICATED WHEN DRIVING A COMERCIAL VEHICLE IS:",
+    "opcionesEn": [
+      "0.04.",
+      "0.01.",
+      "0.10."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-136",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD TRY TO PARK SO THAT:",
+    "opcionesEn": [
+      "YOU CAN PULL FORWARD WHEN YOU LEAVE.",
+      "PARK ALONG CURB NEXT TO OTHER VEHICLE.",
+      "THAT YOUR VEHICLE IS PARKED BY TREE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-137",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS A GOOD THING TO REMEMBER WHEN CROSSING OR ENTERING TRAFFIC WITH A HEAVY VEHICLE?",
+    "opcionesEn": [
+      "HEAVY VEHICLES NEED LARGER GAPS IN TRAFFIC THA CARS.",
+      "THE BEST WAY TO CROSS THE TRAFFIC IS TO PULL THE VEHICLE PARTWAY ACROSSO THE ROAD AND BLOCK ONE LANE WHILE WAITING FOR THE OTHER TO CLEAR.",
+      "BECAUSE HEAVY VEHICLE ARE EASY TO SEE, YOU CAN COUNT ON OTHER DRIVERS TO MOVE OUT OF YOUR WAY OR SLOW DOWN FOR YOU."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-138",
+    "moduloId": "general",
+    "preguntaEn": "YOUR VEHICLE HAS HYDRAULIC BRAKES. WHILE TRAVELING ON A LEVEL ROAD, YOU PRESS THE BRAKE PEDAL AND FIND THAT IT GOES TO THE FLOOR. WHICH OF THESES STATEMENTS IS TRUE?",
+    "opcionesEn": [
+      "PUMPING THE BRAKE PEDAL MAY BRING THE PRESSURE UP SO YOU CAN STOP THE VEHICLE.",
+      "THE PARKING BRAKE WILL NOT WORK EITHER BECAUSE IT IS A PART OF THE SAME HYDRAULIC SYSTEM.",
+      "SHIFTING INTO NEUTRAL WILL HELP TO SLOW THE VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-139",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD LIGHTLY APPLY YOUR BRAKES TO FLASH THE BRAKE LIGHTS IF:",
+    "opcionesEn": [
+      "YOU ARE ABOUT TO EXIT THE ROAD AND NEED TO SLOW DOWN.",
+      "A POLICE CAR IS APPROACHING YOU FROM THE OTHER DIRECTION.",
+      "A DRIVER TAILGATES YOUR VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-140",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD TRY TO PARK SO THAT:",
+    "opcionesEn": [
+      "YOU CAN PULL FORWARD WHEN YOU LEAVE.",
+      "THERE IS AT LEAST ONE CURB NEXT TO YOUR VEHICLE.",
+      "YOUR VEHICLE IS PROTECTED BY TREES OR SOME OTHER OVERHANG."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-141",
+    "moduloId": "general",
+    "preguntaEn": "OPTIONAL SAFETY EQUIPMENT MAY INCLUDE EMERGENCY PHONE NUMBER, TIRE, CHAINS AND:",
+    "opcionesEn": [
+      "TIRE CHANGING EQUIPMENT.",
+      "RED REFLECTIVE TRIANGLES.",
+      "CHARGED FIRE EXTINGUISHER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-142",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS THE PROPER WAY TO SIGNAL TO CHANGE LANE?",
+    "opcionesEn": [
+      "SIGNAL EARLY, AND CHANGE LANES SLOWLY AND SMOOTHLY.",
+      "SIGNAL JUST AS YOU BEGIN TO CHANGE LINES, AND MOVE QUICKLY.",
+      "SIGNAL AFTER YOU BEGIN CHANGE AND CROSS OVER SLOWLY."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-143",
+    "moduloId": "general",
+    "preguntaEn": "DURING AN INSPECTION OF HYDRAULIC BRAKES, YOU SHOULD PUMP THE BRAKE PEDAL THREE TIMES THEN APPLY FIRM PRESSURE TO THE PEDAL FOR FIVE SECONDS. IF THE BRAKES ARE WORKING PROPERLY, THE PEDAL SHOULD:",
+    "opcionesEn": [
+      "DEPRESS SLIGHTLY.",
+      "SINK TO THE FLOOR.",
+      "NOT MOVE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-144",
+    "moduloId": "general",
+    "preguntaEn": "ESCAPE RAMPS:",
+    "opcionesEn": [
+      "SHOULD BE USED BY ANY DRIVER WHO LOOSES BRAKING POWER.",
+      "ARE NOT DESIGNED FOR TRACTORS-DOUBLE TRAILERS.",
+      "ARE DESIGNED TO SLOW VEHICLES SO THEY CAN GET BACK ON THE ROAD AT THE SAFE SPEED."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-145",
+    "moduloId": "general",
+    "preguntaEn": "YOUR BRAKE CAN GET WET WHEN YOU ARE DRIVING THROUGH THE HEAVY RAIN. WHAT CAN HAPPEN IF THE BRAKES ARE APPLIED?",
+    "opcionesEn": [
+      "HYDROPLANNING.",
+      "EXTENSIVE BRAKE WEAR."
+    ],
+    "correctaIndex": -1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-147",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT HAULING OF HAZARDOUS MATERIALS?",
+    "opcionesEn": [
+      "CYLINDERS WITH COMPRESSED GASES SHOULD BE TRANSPORTED UNDER COVERS IF THERE IS NO LABEL ON THEM.",
+      "SUCH A LOAD SHOULD BE MARKED WITH A FOUR INCHES DIAMOND SHAPED LABELS ON THE CONTAINERS.",
+      "SUCH A LOAD SHOULD BE MARKED WITH A FOUR INCHES CIRCLE RED COLORED LABELS ON THE CONTAINERS."
+    ],
+    "correctaIndex": -1,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-148",
+    "moduloId": "general",
+    "preguntaEn": "THE DRIVER’S MANUAL SUGGEST SEVERAL THINGS TO DO, WHEN YOU PASS A VEHICLE. WHICH OF THESE IN NOT ONE OF THEM?",
+    "opcionesEn": [
+      "LIGHLY TAP YOUR HORN.",
+      "AT NIGHT, TURN ON YOUR HIGH BEAMS BEFORE YOU START TO PASS AND LEAVE THEM ON UNTIL YOU HAVE COMPLETELY PASSED THE VEHICLE.",
+      "ASSUME THAT THE OTHER DRIVER DOES NOT SEE YOU."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-149",
+    "moduloId": "general",
+    "preguntaEn": "WHY TOURIST MAY BE A HAZARD?",
+    "opcionesEn": [
+      "POLICE OFFICERS WILL NOT GIVE THEN A TICKET.",
+      "THEY OFTEN DRIVE RENTAL CARS.",
+      "THE MAY DRIVE SLOWLY AND MAKE SUDDEN STOPS OR LANE CHANGES."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-150",
+    "moduloId": "general",
+    "preguntaEn": "WHAT IS THE BEST ADVICE FOR DRIVERS WHEN A HEAVY FOG OCCURS?",
+    "opcionesEn": [
+      "DO NOT DRIVE TO SLOWLY, OR OTHER DRIVERS MAY HIT YOU.",
+      "PARK AT A REST AREA OR TRUCK STOP UNTIL THE FOG HAS GONE.",
+      "ALTERNATE YOU LOW AND HIGH BEAMS TO IMPROVE YOUR VISION."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-151",
+    "moduloId": "general",
+    "preguntaEn": "BACKING OF THE COMMERCIAL VEHICLE IS:",
+    "opcionesEn": [
+      "ALWAYS DANGEROUS.",
+      "NOT DANGEROUS IF YOU DON’T HAVE TO TURN.",
+      "NOT DANGEROUS IF YOU HAVE A HELPER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-152",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT DRIVING IN FOG IS TRUE?",
+    "opcionesEn": [
+      "STAY AS CLOSE BEHIND A VEHICLE AS POSSIBLE SO YOU CAN ALWAYS SEE THE VEHICLE.",
+      "USE HIGH-BEAM HEADLIGHTS.",
+      "ASSUME THAT THE FOG WILL BECOME THICKER AFTER YOU ENTER IT."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-153",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENTS ABOUT TIRES IS TRUE?",
+    "opcionesEn": [
+      "YOU SHOULD INSPECT YOUR TIRES EVERY TWO HOURS OR EVERY 100 MILES WHEN DRIVING IN VERY HOT WEATHER.",
+      "THE AIR PRESSURE OF A TIRE DECREASES AS THE TEMPERATURE OF THE TIRE INCREASES.",
+      "IF TIRES ARE TOO HOT TO TOUCH, LET 5-10 POUNDS OF AIR PRESSURE OUT TO COOL THEM DOWN."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  }
+]

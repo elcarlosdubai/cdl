@@ -1,0 +1,652 @@
+[
+  {
+    "id": "general-154",
+    "moduloId": "general",
+    "preguntaEn": "ONE REASON THAT DRY BULK TANKS REQUIRE SPECIAL CARE IS:",
+    "opcionesEn": [
+      "THE LOAD CAN SHIFT.",
+      "THEY CAN EASILY CATCH FIRE.",
+      "THEY CAN ONLY BE FILLED HALFWAY."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-155",
+    "moduloId": "general",
+    "preguntaEn": "THE BRIDGE FORMULA:",
+    "opcionesEn": [
+      "PERMIT LESS MAXIMUM AXLE WEIGHT FOR THE AXLES THAT ARE CLOSE TOGETHER.",
+      "PERMIT LESS MAXIMUM AXLE WEGHT FOR THE AXLES THAT ARE FAR APART.",
+      "PERMIT THE SAME MAXIMUM AXLE WEIGHT FOR ANY AXLE SPACING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-156",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A LONG VEHICLE THAT MAKES WIDE TURNS. YOU WANT TO MAKE A LEFT TURN FROM ELM STREET ONTO OAK STREET. THERE ARE TWO LEFT TURN LANES (A AND B) ON ELM STREET, AND OAK STREET IS A FOUR LANE STREET. YOU SHOULD:",
+    "opcionesEn": [
+      "USE LEFR TURN LINE ‘’A’’.",
+      "USE LEFT TURN LANE ‘’B’’.",
+      "START IN LEFT TURN LANE ‘’A’’ AND SWING INTO LEFT TURN LANE ‘’B’’ JUST BEFORE ENTERING THE INTERSECTION."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-157",
+    "moduloId": "general",
+    "preguntaEn": "CAN FEDERAL INSPECTORS INSPECT YOUR TRUCK OR BUS?",
+    "opcionesEn": [
+      "YES, BUT THE CANNOT PUT IT OUT OF SERVICE.",
+      "YES, AND THEY CAN PUT IT OUT OF SERVICE IF IT UNSAFE.",
+      "NO."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-158",
+    "moduloId": "general",
+    "preguntaEn": "AS THE BLOOD ALCOHOL CONCENTRATION (BAC) GOES UP, WHAT HAPPENS?",
+    "opcionesEn": [
+      "THE DRINKER MORE CLEARLY SEES HOW ALCOHOL IS AFFECTING HIM/HER.",
+      "THE EFFECTS OF ALCOHOL DECREASE.",
+      "JUDGEMENT AND SELF CONTROL ARE AFFECTED."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-159",
+    "moduloId": "general",
+    "preguntaEn": "WHAT SHOULD YOU DO WHEN YOU SEE A HAZARD IN THE ROADWAY AHEAD OF YOU?",
+    "opcionesEn": [
+      "SWERVE ARROUND IT AND GET BACK IN YOUR LANE.",
+      "STOP QUICKLY AND PULL TO THE SIDE OF THE ROAD.",
+      "USE YOUR 4-WAY FLASHERS OR BRAKE LIGHTS TO WARN OTHERS."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-160",
+    "moduloId": "general",
+    "preguntaEn": "PLACARDS MUST BE:",
+    "opcionesEn": [
+      "DISPLAYED ON ALL VEHICLES HAULING ANY AMOUNT OF HAZARDOUS MATERIALS.",
+      "PLACED ONLY ON THE FRONT AND REAR OF A VEHICLE.",
+      "PLACED ON AL FOUR SIDES OF A VEHICLE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-161",
+    "moduloId": "general",
+    "preguntaEn": "HOW DO YOU CORRECT A REAR-WHEEL ACCELERATION SKID?",
+    "opcionesEn": [
+      "APPLY MORE POWER TO THE WHEELS.",
+      "STOP ACCELERATING.",
+      "DOWNSHIFT."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-162",
+    "moduloId": "general",
+    "preguntaEn": "MERGING ONTO A ROAD IS SAFEST IF YOU:",
+    "opcionesEn": [
+      "WAIT FOR A LARGE ENOUGH GAP IN TRAFFIC TO ENTER THE ROAD.",
+      "BEND OVER INTO THE NEAREST LANE SO THAT OTHER VEHICLES WILL GIVE YOU ROOM",
+      "GAIN SPEED ON THE SHOULDER AND THEN MERGE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-163",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENT IS TRUE?",
+    "opcionesEn": [
+      "MOST PEOPLE ARE MORE ALERT AT NIGHT THAN DURING THE DAY.",
+      "MOST HAZARDS ARE EASIER TO SEE AT NIGHT THAN DURING THE DAY.",
+      "MANY HEAVY VEHICLES ACCIDENTS OCCUR BETWEEN MIDNIGHT AND 6 AM."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 6
+  },
+  {
+    "id": "general-164",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING ON A TWO-LANE ROAD. AN ONCOMING DRIVER DRIFTS INTO YOUR LANE AND IS HEADED STRAIGHT FOR YOU. WHICH OF THESE IS MOST OFTEN THE BEST ACTION TO TAKE.",
+    "opcionesEn": [
+      "HARD BRAKING.",
+      "STEER TO THE RIGHT.",
+      "STEER ONTO THE LEFT SHOULDER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-165",
+    "moduloId": "general",
+    "preguntaEn": "WHILE DRIVING, ICE BUILDS UP ON YOUR WIPERS AND THEY NO LONGER CLEAN THE WINDSHIELD. YOU SHOULD:",
+    "opcionesEn": [
+      "KEEP DRIVING, AND TURN YOUR DEFROSTER ON.",
+      "KEEP DRIVING AND SPRAY THE WINDSHIELD WITH WASHER FLUID.",
+      "STOP SAFELY AND FIX THE PROBLEM."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-166",
+    "moduloId": "general",
+    "preguntaEn": "WHEN A HELPER SHOULD BE USED TO HELP BACK YOUR VEHICLE?",
+    "opcionesEn": [
+      "ONLY WHEN YOU NEED TO BACK ON A CURVED PATH.",
+      "WHENEVER YOU HAVE TO BACK.",
+      "ONLY WHEN YOU HAVE A TRAILER ON YOUR VEHICLE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-167",
+    "moduloId": "general",
+    "preguntaEn": "IF YOU ARE NOT SURE WHAT TO USE TO PUT OUT THE HAZARDOUS MATERIAL FIRE, YOU SHOULD:",
+    "opcionesEn": [
+      "WAIT FOR QUIALIFIED FIREFIGHTERS.",
+      "USE WATER.",
+      "USE DIRT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-168",
+    "moduloId": "general",
+    "preguntaEn": "A CAR SUDDENLY CUTS IN FRONT OF YOU, CREATING A HAZARD. WHICH IF THESE ACTIONS SHOULD YOU NOT TAKE?",
+    "opcionesEn": [
+      "HONK YOUR HORN AND STAY CLOSE BEHIND THE CAR.",
+      "SIGNAL AND CHANGE LANES TO AVOID HAZARD.",
+      "SLOW DOWN TO PREVENT A CRASH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-169",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A VEHICLE THAT COULD SAFELY BE DRIVEN AT 55 MPH ON AN OPEN ROAD. HOWEVER, TRAFFIC IS HEAVY AND OTHER VEHICLE DRIVING AT 35 MPH, ALTHOUGH THE SPEED LIMIT IS 55 MPH. THE SAFEST SPEED FOR YOUR VEHICLE IS MORE LIKELY TO BE:",
+    "opcionesEn": [
+      "35 MPH.",
+      "45 MPH.",
+      "55 MPH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-170",
+    "moduloId": "general",
+    "preguntaEn": "TO AVOID A CRASH, YOU HAD TO DRIVE INTO THE RIGHT SHOULDER. YOU ARE NOW DRIVING AT 40 MPH ON THE SHOULDER. HOW SHOULD YOU MOVE BACK ONTO THE PAVEMENT?",
+    "opcionesEn": [
+      "IF THE SHOULDER IS CLEAR, STAY ON IT UNTIL YOUR VEHICLE HAS COME TO A STOP. THEN MOVE BACK ONTO THE PAVEMENT WHEN IT IS SAFE.",
+      "BRAKE HARD TO SLOW THE VEHICLE, THEN STEER SHARPLY ONTO THE PAVEMENT.",
+      "KEEP MOVING AT THE PRESENT SPEED AND STEER VERY GENTLY BACK ONTO THE PAVEMENT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-171",
+    "moduloId": "general",
+    "preguntaEn": "THE ENGINE BRAKING EFFECT IS GREATEST WHEN THE ENGINE IS _______ GOVERNED RPM A THE TRANSMISSION IS IN THE ______ GEAR.",
+    "opcionesEn": [
+      "BELOW, HIGHER.",
+      "NEAR, LOWER.",
+      "ABOVE, LOWER."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-172",
+    "moduloId": "general",
+    "preguntaEn": "YOU DO NOT HAVE HAZARDOUS MATERIALS ENDORSEMENT IN YOUR COMMERCIAL DRIVER LICENSE. YOU CAN DRIVE A VEHICLE HAULING HAZARDOUS MATERIALS WHEN:",
+    "opcionesEn": [
+      "THE LOAD OF THE HAZARDOUS MATERIALS IS 26 POUNDS OR LESS.",
+      "THE VEHICLE DOES NOT REQUIRE PLACARDS.",
+      "THE PERSON WHO HAS HAZMAR ENDORSEMENT DRIVES WITH YOU."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-173",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A CAR WITH ABS BRAKES, AND SEE YELLOW LIGHT ON A DASHBOARD STARTS FLASHING DURING DRIVING. IT MEANS:",
+    "opcionesEn": [
+      "YOUR VEHICLE ABS MAY NOT BE FUNCTIONING PROPERLY.",
+      "YOUR BRAKE FLUID MAY BE LOW.",
+      "THE ROADWAY MAY BE SLICK."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-174",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS GOOD THING TO REMEMBER ABOUT USING MIRRORS?",
+    "opcionesEn": [
+      "YOU SHOULD LOOK AT A MIRROR FOR SEVERAL SECONDS AT A TIME.",
+      "CONVEX MIRRORS MAKE THINGS LOOK LARGER AND CLOSER THAN THEY REALLY ARE.",
+      "THERE ARE BLIND SPOTS THAT YOUR MIRROR CANNOT SHOW."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-175",
+    "moduloId": "general",
+    "preguntaEn": "FOR YOUR SAFETY, WHEN SETTING OUT REFLECTIVE TRIANGLES YOU SHOULD:",
+    "opcionesEn": [
+      "HOLD THE TRIANGLES BETWEEN YOURSELF AND ONCOMING TRAFFIC.",
+      "KEEP THEM OUT OF SIGHT WHILE YOU WALK TO THE SPOTS WHERE YOU SET THEM OUT.",
+      "CARRY THE TRIANGLES AT YOUR SIDE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-176",
+    "moduloId": "general",
+    "preguntaEn": "WHEN A COOLANT CONTAINER IS PART OF A PRESSURIZED SYSTEM, WHICH OF THESE IS TRUE?",
+    "opcionesEn": [
+      "THE RADIATOR CAP CAN SAFELY REMOVED AND COOLANT ADDED WHILE THE ENGINE IS HOT.",
+      "YOU NEVER NEED TO CHECK THE ANTIFREEZE IN SUCH A SYSTEM.",
+      "YOU CAN CHECK THE COOLANT LEVEL OF A HOT ENGINE."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-177",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS THE MOST IMPORTANT THING TO REMEMBER ABOUT EMERGENCY BRAKING?",
+    "opcionesEn": [
+      "NEVER DO IT WITHOUT DOWNSHIFTING FIRST.",
+      "IF THE WHEELS ARE SKIDDING, YOU CANNOT CONTROL YOUR VEHICLE.",
+      "DISCONNECTING THE STEERING AXLE BRAKES WILL HELP KEEP YOUR VEHICLE IN A STRAIGHT LINE DURING EMERGENCY BRAKING."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-178",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT MIRROR ADJUSTMENT?",
+    "opcionesEn": [
+      "YOU SHOULD ADJUST YOUR MIRRORS BEFORE STARTING THE TRIP.",
+      "YOU CAN ADJUST YOUR MIRRORS WHILE YOU ARE DRIVING.",
+      "THE MIRRORS COULD BE ADJUSTED CORRECTLY EVEN IF THE TRAILER IS NOT STRAIGHT."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 4
+  },
+  {
+    "id": "general-179",
+    "moduloId": "general",
+    "preguntaEn": "AFTER STARTING THE ENGINE:",
+    "opcionesEn": [
+      "THE COOLANT TEMPERATURE GAUGE SHOULD BE BEGIN A GRADUAL RISE TO NORMAL.",
+      "THE OIL PRESSURE GAUGE SHOULD TAKE 3-5 MINUTES TO RAISE TO NORMAL.",
+      "THE ENGINE TEMPERATURE GAUGE WILL TAKE 3-5 MINUTES TO RISE TO NORMAL."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-180",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THE FOLLOWING IS A SIGN OF AN AGGRESSIVE DRIVER?",
+    "opcionesEn": [
+      "DRIVING 10 OR MORE MILES-PER HOURS OVER THE SPEED LIMIT.",
+      "CHANGING LINES FREQUENTLY AND ABRUPTLY WHIOUT NOTICE.",
+      "DRIVING IN THE CENTER LINE."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-181",
+    "moduloId": "general",
+    "preguntaEn": "BRAKE FADE:",
+    "opcionesEn": [
+      "CAN BE CAUSED BY THE BRAKES GETTING VERY HOT.",
+      "CAN BE CORRECTED BY LETTING UP ON THE BRAKES FOR 1-2 SECONDS AND THEN REAPPLYING THEM.",
+      "CAN BE CAUSED BY VERY COLD WEATHER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-182",
+    "moduloId": "general",
+    "preguntaEn": "PERCEPTION DISTANCE IS THE DISTANCE YOUR VEHICLE TRAVELS FROM THE TIME:",
+    "opcionesEn": [
+      "THE EYES SEE A HAZARD TO THE TIME YOUR FOOT PUSHES TO THE BRAKE PEDAL.",
+      "THE BRAIN TELLS THE FOOT TO PUSH THE BRAKE PEDAL TO THE TIME THE FOOT RESPONSE",
+      "THE EYES SEE HAZARD TO THE TIME THE BRAIN KNOWS IT IS A HAZARD."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-183",
+    "moduloId": "general",
+    "preguntaEn": "IF ANTILOCK BRAKING SYSTEM IS NOT WORKING, YOU SHOULD:",
+    "opcionesEn": [
+      "DRIVE NORMALLY, BUT GET SYSTEM SERVICED SOON.",
+      "DRIVE AT A LOWER SPEED AND GET THE SYSTEM SERVICED SOON.",
+      "NOT DRIVE UNTIL IT IS REPAIRED."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-184",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE HAPPENS WHEN A TIRE BLOWS OUT AT HIGHWAY?",
+    "opcionesEn": [
+      "A VIBRATING FEELING.",
+      "A HISSING SOUND.",
+      "A RAPID DROP IN SPEED TO LESS THEN 20 MPH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-185",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE CHECKING YOUR STEERING AND EXHAUST SYSTEM IN A PRE-TRIP INSPECTION. WHICH OF THESE PROBLEMS, IF FOUND SHOULD BE FIXED BEFORE THE VEHICLE IS DRIVEN:",
+    "opcionesEn": [
+      "STEERING WHEEL PLAY OF MORE THAN 10 DEGREES (2 INCHES ON 20 INCHES STEERING WHEEL).",
+      "OIL ON A TIRED ROD.",
+      "IF A GRAY SMOKE COMING OUT FROM THE EXHAUST PIPE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-186",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING IN AN AREA WITH FEW STREETLIGHTS ON A CLEAR RIGHT. IF YOU CANNOT SEE WELL WITH YOUR HEADLIGHTS, WHICH OF THE ACTIONS WOULD HELP?",
+    "opcionesEn": [
+      "FIND ANOTHER ROUTE THAT IS BETTER LIT, EVEN IF IT IS OUT OF THE WAY.",
+      "TURN YOUR INTERIOR LIGHTS ON AND ADJUST YOUR INSTRUMENTS LIGHTS UP.",
+      "USE YOUR HIGH BEAMS WHEN LEGAL AND KEEP YOUR INTERIOR LIGHTS OFF."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-187",
+    "moduloId": "general",
+    "preguntaEn": "WHAT IS THE MOST IMPORTANT REASON TO INSPECT YOUR TRUCK OR BUS?",
+    "opcionesEn": [
+      "SAFETY.",
+      "TO AVOID BEING CITED.",
+      "IT’S THE LAW."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-188",
+    "moduloId": "general",
+    "preguntaEn": "HYDROPLANNIG:",
+    "opcionesEn": [
+      "ONLY OCCURS WHEN THERE IS A LOT OF WATER.",
+      "CANNOT OCCUR WHEN DRIVING THROUGH A PUDDLE.",
+      "IS MORE LIKELY IF TIRE PRESSURE IS LOW."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-189",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A NEW TRUCK WITH A MANUAL TRANSMISSION. WHAT GEAR WILL YOU PROBABLY HAVE TO USE TO TAKE A LONG, STEEP DOWNHILL GRADE?",
+    "opcionesEn": [
+      "THE SAME GEAR YOU WOULD USE TO CLIMNB THE HILL.",
+      "A LOWER GEAR THAN YOU WOULD USE TO CLIM THE HILL.",
+      "A HIGHER GEAR THAN YOU WOULD USE TO CLIMB THE HILL."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-190",
+    "moduloId": "general",
+    "preguntaEn": "YOU SHOULD USE YOUR HORN WHEN:",
+    "opcionesEn": [
+      "IT MAY HELP AVOID A CRASH.",
+      "A CAR IS IN YOUR WAY.",
+      "YOU WANT TO CHANGE LANES."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-191",
+    "moduloId": "general",
+    "preguntaEn": "A ROUND, BLACK ON YELLOW WARNING SIGN MEANS: (X)",
+    "opcionesEn": [
+      "SLOW DOWN, LOOK AND LISTEN, AND BE PREPARED TO STOP IF A TRAIN IS APPROACHING.",
+      "LOW OVERPASS AHEAD.",
+      "SCHOOL CROSSING AHEAD."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-192",
+    "moduloId": "general",
+    "preguntaEn": "WHY YOUR VEHICLE’S SPEED NATURALLY INCREASES ON A DOWNGRADE?",
+    "opcionesEn": [
+      "GRAVITY",
+      "THE ENGINE RUNS SMOOTHER.",
+      "LACK OF TRACTION."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-193",
+    "moduloId": "general",
+    "preguntaEn": "AN ANTILOCK BRAKING SYSTEM IS:",
+    "opcionesEn": [
+      "USED TO COMPENSATE FOR POOR BRAKES.",
+      "AN ADDITION TO YOU NORMAL BRAKES.",
+      "AN INTEGRAL PART OF THE VEHICLE’S BRAKING SYSTEM."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-194",
+    "moduloId": "general",
+    "preguntaEn": "HOW MANY RED REFLECTIVE TRIANGLES ARE YOU REQUIRED TO CARRY?",
+    "opcionesEn": [
+      "2.",
+      "3.",
+      "4."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 2
+  },
+  {
+    "id": "general-195",
+    "moduloId": "general",
+    "preguntaEn": "WHEN DRIVING ON ROADS WHERE TRUCK SPEED LIMITS ARE LESS THAN CARS, YOU SHOULD:",
+    "opcionesEn": [
+      "BE EXTRA CAREFUL WHEN CHANGING LANES.",
+      "ADJUST YOUR SPEED TO SPEED OF OTHER TRUCKS AND BUSES.",
+      "ADJUST YOUR SPEED TO THE OTHER CARS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-196",
+    "moduloId": "general",
+    "preguntaEn": "ONCE CAN RECOGNIZE HAZARDOUS MATERIALS BY LOOKING AT THE CONTAINER____.",
+    "opcionesEn": [
+      "LABEL.",
+      "SHAPE.",
+      "COLOR."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-197",
+    "moduloId": "general",
+    "preguntaEn": "YOU ARE DRIVING A VEHICLE AT 55 MPH ON DRY PAVEMENT. ABOUT HOW MUCH TOTAL STOPPING DISTANCE WILL YOU NEED TO BRING IT TO A STOP?",
+    "opcionesEn": [
+      "TWICE THE LENGTH OF THE VEHICLE.",
+      "HALF THE LENGTH OF A FOOTBAL FIELD.",
+      "THE LENGTH OF A FOOTBALL FIELD."
+    ],
+    "correctaIndex": 2,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-198",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE IS TRUE ABOUT RADIATOR SHUTTERS AND THE WINTERFRONT DURING THE WINTER DRIVING?",
+    "opcionesEn": [
+      "THE WINTERFRONT SHOULD BE CLOSED TIGHTLY.",
+      "ICE SHOULD BE REMOVED FROM THE RADIATOR SHUTTER.",
+      "THE ENGINE MAY OVERHEAT IF WINTERFRONT LEFT OPEN."
+    ],
+    "correctaIndex": 1,
+    "explicacionEs": "",
+    "unidadId": 1
+  },
+  {
+    "id": "general-199",
+    "moduloId": "general",
+    "preguntaEn": "WHICH OF THESE STATEMENT ABOUT DRUGS IS TRUE?",
+    "opcionesEn": [
+      "USE OF DRUGS CAN LEAD TO ACCIDENTS AND/OR ARREST.",
+      "CERTAIN PRESCRIPTION DRUGS ARE ALLOWED TO REDUCE FATIGUE.",
+      "A DRIVER CAN USE ANY PRESCRIPTION DRUG WHILE DRIVING."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  },
+  {
+    "id": "general-200",
+    "moduloId": "general",
+    "preguntaEn": "WHEN YOU PASSING THE OTHER VEHICLE, PEDESTRIAN, OR BICYCLE, YOU SHOULD ASSUME THAT:",
+    "opcionesEn": [
+      "THE MAY MOVE INTO YOUR TRAFFIC LANE.",
+      "THEY KNOW YOU WANT TO PASS.",
+      "THEY SEE YOUR VEHICLE."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 0
+  },
+  {
+    "id": "general-201",
+    "moduloId": "general",
+    "preguntaEn": "YOU DO NOT HAVE A HAZARDOUS MATERIALS ENDORSEMENT ON YOUR COMMERCIAL DRIVER’S LICENSE. YOU CAN DRIVE A VEHICLE HAULING HAZARDOUS MATERIALS WHEN:",
+    "opcionesEn": [
+      "THE VEHICLE DOES NOT REQUIRED PLACARDS.",
+      "A PERSON WHO HAS THE HAZARDOUS MATERIALS ENDORSEMENT RIDES WITH YOU.",
+      "THE GVWR IS 26,001 POUNDS OR LESS."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 7
+  },
+  {
+    "id": "general-202",
+    "moduloId": "general",
+    "preguntaEn": "IN BAD WEATHER, MANY CAR DRIVERS TAILGATE LARGE VEHICLES. WHAT SHOULD YOU DO?",
+    "opcionesEn": [
+      "INCREASE YOUR FOLLOWING DISTANCE.",
+      "LIGHTLY TAP YOUR BRAKES TO WARN THE TAILGATER TO DROP BACK.",
+      "SPEED UP TO DISTANCE YOUR FROM THE TAILGATER."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 3
+  },
+  {
+    "id": "general-203",
+    "moduloId": "general",
+    "preguntaEn": "WHEN GOING DOWN A LONG STEEP DOWNGRADE YOU SHOULD ALWAYS:",
+    "opcionesEn": [
+      "USE THE BRAKING EFFECT OF THE ENGINE.",
+      "USE CONTROLLED BRAKING.",
+      "BRAKE WHEN YOU EXCEED SAFE SPEED BY 5 MPH."
+    ],
+    "correctaIndex": 0,
+    "explicacionEs": "",
+    "unidadId": 5
+  }
+]
