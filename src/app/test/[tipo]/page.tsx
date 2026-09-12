@@ -20,6 +20,9 @@ export default function EngineTest({ params }: { params: Promise<{ tipo: string 
   const searchParams = useSearchParams();
   const unidadParam = searchParams.get('unidad');
 
+  const returnUrl = unidadParam !== null && tipo !== 'simulador' ? `/lecturas/${tipo}?unidad=${unidadParam}` : '/test';
+  const returnText = unidadParam !== null && tipo !== 'simulador' ? 'Volver a la Lectura' : 'Volver al Menú de Tests';
+
   const [preguntas, setPreguntas] = useState<typeof preguntasDataRaw>([]);
   const [cargando, setCargando] = useState(true);
 
@@ -64,8 +67,8 @@ export default function EngineTest({ params }: { params: Promise<{ tipo: string 
         <p className="text-zinc-400 mb-8 max-w-md">
           Aún no hemos agregado preguntas de práctica para este módulo específico. ¡Vuelve pronto!
         </p>
-        <Link href="/test" className="px-8 py-4 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-xl transition-colors">
-          Volver al Menú de Tests
+        <Link href={returnUrl} className="px-8 py-4 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-xl transition-colors inline-block mt-4">
+          {returnText}
         </Link>
       </div>
     );
@@ -130,8 +133,8 @@ export default function EngineTest({ params }: { params: Promise<{ tipo: string 
             <button onClick={reiniciarTest} className="w-full py-4 bg-blue-600 hover:bg-blue-500 text-white font-bold rounded-xl transition-colors">
               Intentar de nuevo
             </button>
-            <Link href="/test" className="w-full py-4 bg-white/5 hover:bg-white/10 text-white font-bold rounded-xl border border-white/10 transition-colors">
-              Volver al Menú de Tests
+            <Link href={returnUrl} className="w-full py-4 flex items-center justify-center bg-white/5 hover:bg-white/10 text-white font-bold rounded-xl border border-white/10 transition-colors">
+              {returnText}
             </Link>
           </div>
         </div>
@@ -143,7 +146,7 @@ export default function EngineTest({ params }: { params: Promise<{ tipo: string 
     <div className="min-h-screen bg-black text-zinc-100 font-sans selection:bg-blue-500/30 flex flex-col">
       <nav className="sticky top-0 z-50 border-b border-white/5 bg-black/80 backdrop-blur-xl shrink-0">
         <div className="max-w-4xl mx-auto px-6 h-16 flex items-center justify-between">
-          <Link href="/test" className="text-sm font-medium text-zinc-400 hover:text-white transition flex items-center gap-2">
+          <Link href={returnUrl} className="text-sm font-medium text-zinc-400 hover:text-white transition flex items-center gap-2">
             <span>&larr;</span> Salir del Test
           </Link>
           <div className="font-bold tracking-tighter text-blue-400">

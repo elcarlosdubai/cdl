@@ -2,16 +2,19 @@
 
 import { useState, use } from 'react';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound, useSearchParams } from 'next/navigation';
 import lecturasData from '../../../data/lecturas.json';
 
 export default function LecturaDetalle({ params }: { params: Promise<{ id: string }> }) {
   // En Next.js 15+ necesitamos "desempacar" los params con use()
   const resolvedParams = use(params);
+  const searchParams = useSearchParams();
+  const unidadParam = searchParams.get('unidad');
+  
   const capitulo = lecturasData.find((c) => c.id === resolvedParams.id);
 
   // Estado para saber qué unidad está activa
-  const [unidadActiva, setUnidadActiva] = useState(0);
+  const [unidadActiva, setUnidadActiva] = useState(unidadParam ? parseInt(unidadParam) : 0);
 
   if (!capitulo) {
     notFound();
