@@ -1,0 +1,62 @@
+[
+  {
+    "id": "general",
+    "titulo": "Conocimientos Generales",
+    "icono": "📖",
+    "resumen": "Lo básico que todo conductor comercial debe saber sobre seguridad, carga y conducción preventiva.",
+    "secciones": [
+      {
+        "subtitulo": "1. Inspección del Vehículo",
+        "contenido": "Una inspección antes del viaje es obligatoria por ley. Revisa: niveles de líquidos (aceite, refrigerante), estado de los neumáticos (mínimo 4/32 pulgadas de profundidad en las llantas direccionales delanteras, 2/32 en el resto), frenos y luces. Recuerda la regla de oro: Si encuentras un defecto que afecte la seguridad, NO conduzcas el vehículo."
+      },
+      {
+        "subtitulo": "2. Espacio y Velocidad",
+        "contenido": "Un vehículo comercial pesado necesita mucho más espacio para detenerse. A 55 mph, tomará la longitud de un campo de fútbol detenerse por completo. Regla de los Segundos: Deja al menos 1 segundo de distancia por cada 10 pies de largo de tu vehículo si vas a menos de 40 mph. Añade 1 segundo más si superas los 40 mph."
+      },
+      {
+        "subtitulo": "3. Condiciones Adversas",
+        "contenido": "En lluvia, el pavimento está más resbaladizo justo al empezar a llover. En hielo o nieve, reduce tu velocidad a la mitad. Cuidado con el hielo negro (Black Ice): si el asfalto se ve mojado pero no hay rocío saliendo de las llantas de los otros autos, probablemente estés sobre hielo invisible y muy peligroso."
+      }
+    ]
+  },
+  {
+    "id": "frenos-aire",
+    "titulo": "Frenos de Aire",
+    "icono": "🛑",
+    "resumen": "Entiende cómo funciona el sistema de frenos neumáticos y cómo inspeccionarlo de manera segura.",
+    "secciones": [
+      {
+        "subtitulo": "1. El Compresor y los Tanques",
+        "contenido": "El compresor bombea aire a los tanques de almacenamiento. Debes drenar el agua y el aceite de los tanques al final de cada día de trabajo para evitar que el agua se congele en el invierno y cause que fallen los frenos completamente."
+      },
+      {
+        "subtitulo": "2. Alarmas de Presión Baja",
+        "contenido": "Todos los vehículos con frenos de aire tienen un medidor de presión. La alarma de advertencia de presión baja (luz roja o zumbador) DEBE encenderse antes de que la presión baje a 60 psi. Si esta alarma suena mientras conduces, detente inmediatamente de forma segura."
+      },
+      {
+        "subtitulo": "3. Los Frenos de Resorte (Spring Brakes)",
+        "contenido": "La presión del aire empuja y mantiene los frenos de resorte separados. Si pierdes la presión de aire en una emergencia, los resortes se activarán solos y frenarán el camión mecánicamente. NUNCA pises el pedal de freno si los frenos de resorte de parqueo están activados, podrías destrozar el sistema."
+      }
+    ]
+  },
+  {
+    "id": "combinacion",
+    "titulo": "Vehículos de Combinación",
+    "icono": "🚛",
+    "resumen": "Aprende las reglas de seguridad y las técnicas para acoplar y conducir tractocamiones con remolques.",
+    "secciones": [
+      {
+        "subtitulo": "1. Riesgo de Volcadura (Rollover)",
+        "contenido": "Los camiones de combinación completamente cargados tienen 10 veces más probabilidades de volcarse en una curva que los que van vacíos. Mantén la carga lo más baja y centrada posible y reduce drásticamente la velocidad antes de entrar a una rampa curva."
+      },
+      {
+        "subtitulo": "2. El efecto Navaja (Jackknife)",
+        "contenido": "Ocurre cuando las llantas del remolque se bloquean y patinan, haciendo que el remolque gire y empuje la cabina, doblando el camión como una navaja. Si tu remolque empieza a patinar hacia un lado, suelta el freno INMEDIATAMENTE para que las llantas vuelvan a girar y recuperen la tracción."
+      },
+      {
+        "subtitulo": "3. Acoplamiento (Coupling)",
+        "contenido": "Asegúrate de que las mangueras de aire cruzadas estén bien conectadas a los 'Glad Hands' (roja para emergencia, azul para servicio). Al terminar de acoplar, debes meterte debajo del remolque con una linterna y verificar visualmente que las mordazas (jaws) de la Quinta Rueda hayan cerrado completamente alrededor de la cabeza del pivote (kingpin)."
+      }
+    ]
+  }
+]

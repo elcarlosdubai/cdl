@@ -39,12 +39,12 @@ export default function Home() {
           </p>
           
           <div className="relative z-10 flex flex-col sm:flex-row items-center justify-center gap-4 pt-4">
-            <button className="w-full sm:w-auto px-8 py-4 bg-white text-black font-bold rounded-full hover:scale-105 transition-transform duration-300 shadow-[0_0_30px_rgba(255,255,255,0.15)]">
-              Comenzar Simulador
-            </button>
-            <button className="w-full sm:w-auto px-8 py-4 bg-white/5 border border-white/10 text-white font-bold rounded-full hover:bg-white/10 transition-colors duration-300">
+            <Link href="#tests" className="bg-white text-blue-900 px-8 py-3 rounded-full font-bold text-lg hover:bg-gray-100 transition shadow-lg">
+              Ir a los Tests
+            </Link>
+            <Link href="/lecturas" className="bg-transparent border-2 border-white text-white px-8 py-3 rounded-full font-bold text-lg hover:bg-white hover:text-black transition-colors duration-300">
               Explorar Lecturas
-            </button>
+            </Link>
           </div>
         </section>
 
@@ -64,9 +64,9 @@ export default function Home() {
               <p className="text-zinc-400 max-w-md mb-8 leading-relaxed">
                 Teoría estructurada y directa al grano. Conocimientos generales, frenos de aire y vehículos de combinación. Sin relleno.
               </p>
-              <button className="flex items-center gap-2 text-sm font-semibold text-blue-400 group-hover:text-blue-300">
+              <Link href="/lecturas" className="flex items-center gap-2 text-sm font-semibold text-blue-400 group-hover:text-blue-300">
                 Ver todos los módulos <span className="transition-transform group-hover:translate-x-1">→</span>
-              </button>
+              </Link>
             </div>
           </div>
 
@@ -83,9 +83,9 @@ export default function Home() {
               <p className="text-zinc-400 mb-8 flex-grow leading-relaxed">
                 Exámenes interactivos diseñados con la misma estructura que pide el DMV.
               </p>
-              <button className="flex items-center gap-2 text-sm font-semibold text-emerald-400 group-hover:text-emerald-300 mt-auto">
+              <Link href="#tests" className="flex items-center gap-2 text-sm font-semibold text-emerald-400 group-hover:text-emerald-300 mt-auto">
                 Practicar ahora <span className="transition-transform group-hover:translate-x-1">→</span>
-              </button>
+              </Link>
             </div>
           </div>
 
