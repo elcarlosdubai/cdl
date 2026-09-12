@@ -106,33 +106,33 @@ export default function LecturaDetalle({ params }: { params: Promise<{ id: strin
               dangerouslySetInnerHTML={{ __html: capitulo.secciones[unidadActiva].contenido }}
             />
 
-            <div className="mt-12 bg-emerald-900/20 border border-emerald-500/30 p-8 rounded-2xl text-center">
-              <h3 className="text-xl font-bold text-white mb-2">¿Entendiste bien esta unidad?</h3>
-              <p className="text-zinc-400 mb-6">Pon a prueba tu conocimiento con un Mini-Test de 5 preguntas exclusivamente sobre la Unidad {unidadActiva + 1}.</p>
-              <Link href={`/test/${capitulo.id}?unidad=${unidadActiva}`} className="inline-flex items-center justify-center px-8 py-4 bg-emerald-600 hover:bg-emerald-500 text-white font-bold rounded-xl transition-colors shadow-lg shadow-emerald-900/50">
-                📝 Tomar Mini-Test de la Unidad {unidadActiva + 1}
-              </Link>
-            </div>
-
             {/* Controles de Navegación Abajo */}
-            <div className="flex flex-col sm:flex-row gap-4 items-center justify-between mt-8 pt-8 border-t border-white/10">
+            <div className="flex flex-col sm:flex-row gap-4 items-center justify-between mt-12 pt-8 border-t border-white/10">
               <button 
                 onClick={() => {
                   setUnidadActiva(Math.max(0, unidadActiva - 1));
                   window.scrollTo({ top: 0, behavior: 'smooth' });
                 }}
                 disabled={unidadActiva === 0}
-                className="w-full sm:w-auto px-6 py-4 rounded-xl text-sm font-medium text-zinc-400 border border-white/5 hover:text-white disabled:opacity-30 disabled:border-transparent transition-colors"
+                className="w-full sm:w-auto px-6 py-3 rounded-xl text-sm font-medium text-zinc-400 border border-white/5 hover:text-white disabled:opacity-30 disabled:border-transparent transition-colors"
               >
                 &larr; Anterior
               </button>
+
+              <Link 
+                href={`/test/${capitulo.id}?unidad=${unidadActiva}`} 
+                className="w-full sm:w-auto px-6 py-3 border border-emerald-500/50 bg-emerald-900/30 hover:bg-emerald-500/20 text-emerald-400 hover:text-emerald-300 text-sm font-bold rounded-xl transition-colors flex items-center justify-center gap-2"
+              >
+                📝 Mini-Test (Unidad {unidadActiva + 1})
+              </Link>
+
               <button 
                 onClick={() => {
                   setUnidadActiva(Math.min(capitulo.secciones.length - 1, unidadActiva + 1));
                   window.scrollTo({ top: 0, behavior: 'smooth' });
                 }}
                 disabled={unidadActiva === capitulo.secciones.length - 1}
-                className="w-full sm:w-auto px-6 py-4 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-sm font-bold transition-colors disabled:opacity-30 disabled:bg-white/5"
+                className="w-full sm:w-auto px-6 py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white text-sm font-bold transition-colors disabled:opacity-30 disabled:bg-white/5"
               >
                 Siguiente Unidad &rarr;
               </button>
